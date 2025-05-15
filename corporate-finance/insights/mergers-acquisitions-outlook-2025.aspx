@@ -1,0 +1,1158 @@
+<!DOCTYPE html>
+<!DOCTYPE HTML><html lang="en" prefix="og: http://ogp.me/ns#">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>2025 Mergers and Acquisitions Outlook: Corporate Finance | Citizens</title>
+      <!--grid-layout--><!--ls:begin[stylesheet]-->
+      <style type="text/css">
+          
+          .iw_container
+          {
+            max-width:800px !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
+          }
+          .iw_stretch
+          {
+            min-width: 100% !important;
+          }
+        </style><script type="text/javascript">
+	// script to add keyup event and make escape functional to exit from preview
+	// only if it is a preview environment.
+	var frame = window.frameElement;
+	if (frame && frame.src.indexOf("/iw-preview") != -1) {
+		document.addEventListener("DOMContentLoaded", function () {
+			document.body.addEventListener("keyup", function (event) {
+				var key = event.keyCode;
+				if (key === 27) {
+					frame.parentElement.ownerDocument.dispatchEvent(new KeyboardEvent('keyup', {keyCode: key}));
+				}
+			});
+		});
+	}
+	</script><style type="text/css"></style>
+      <!--ls:begin[canonical]--><!--ls:end[canonical]--><!--ls:begin[script]--><!--ls:end[script]--><!--ls:begin[meta-keywords]-->
+      <meta name="keywords" content="">
+      <!--ls:end[meta-keywords]--><!--ls:begin[meta-description]-->
+      <meta name="description" content="View the 2025 Mergers & Acquisitions Outlook survey from Citizens Corporate Finance. Citizens can help shape your M&A strategy via key insights and actions to consider.">
+      <!--ls:end[meta-description]--><!--ls:begin[custom-meta-data]-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+      <meta datalayer="cbpgType" content="insights">
+      <meta datalayer="cbpgsubType" content="insights">
+      <meta datalayer="cbpgFunction" content="2025-mergersacquisitionsoutlook">
+      <meta datalayer="cbpgName" content="view">
+      <meta datalayer="cbproduct" content="commercial">
+      <meta datalayer="cbtype" content="consumer">
+      <meta datalayer="cbbrand" content="cb">
+      <meta property="og:site_name" content="Citizens">
+      <meta property="og:url" content="https://www.citizensbank.com/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx">
+      <meta name="twitter:url" content="https://www.citizensbank.com/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx">
+      <meta property="og:type" content="website">
+      <meta property="og:title" content="Citizens 2025 M&amp;A Outlook">
+      <meta name="twitter:title" content="Citizens 2025 M&amp;A Outlook">
+      <meta property="og:description" content="Momentum builds as buyers and sellers get into gear">
+      <meta name="twitter:description" content="Momentum builds as buyers and sellers get into gear">
+      <meta property="og:image" content="https://p1.aprimocdn.net/citizensbank/bb20f369-ad9b-413e-86cd-b24c010af200/GettyImages-2121270849_RT_1336x1100_Hero-Commercial-R.jpg">
+      <meta property="og:image:height" content="630">
+      <meta property="og:image:width" content="1200">
+      <meta name="twitter:image" content="https://p1.aprimocdn.net/citizensbank/bb20f369-ad9b-413e-86cd-b24c010af200/GettyImages-2121270849_RT_1336x1100_Hero-Commercial-R.jpg">
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:site" content="@CitizensBank">
+      <meta datalayer="cbpgproductType" content="null">
+      <meta datalayer="cbpgSubFunction" content="null">
+      <meta datalayer="cbpgCategory" content="null">
+      <!--ls:end[custom-meta-data]--><!--ls:begin[meta-vpath]-->
+      <meta name="vpath" content="">
+      <!--ls:end[meta-vpath]--><!--ls:begin[meta-page-locale-name]-->
+      <meta name="page-locale-name" content="">
+      <!--ls:end[meta-page-locale-name]--><!--ls:begin[stylesheet]-->
+      <link rel="stylesheet" href="/assets/CB_resources/styles/globalComponents.css" type="text/css" data-ocde-desktop_or_tablet_or_phone="show">
+      <!--ls:end[stylesheet]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/vendor/jquery-2.2.0.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/siteTop.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="//cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/vendor/main.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/vendor/vendor-bottom.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/vendor/vendor-top.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/globalComponents.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/svgxuse.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/globalComponentsSupport.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/globalComponentsControl.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/custom/canonical.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/vendor/dotcomAnalytics.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/dotcomAnalyticsheadDataLayer.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/regionalization.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[favicon]--><link rel="shortcut icon" href="/assets/CB_resources/images/favicon.ico" type="image/x-icon">
+      <!--ls:end[favicon]--><!--ls:begin[stylesheet]-->
+      <link rel="stylesheet" href="/assets/CB_resources/styles/disclosure.css" type="text/css" data-ocde-desktop_or_tablet_or_phone="show">
+      <!--ls:end[stylesheet]--><!--ls:begin[head-injection]--><script type="text/javascript" src="//assets.adobedtm.com/c6a477a8a7f5/67e13b3dacd1/launch-7cea2ebfa8de.min.js" ></script><!--ls:end[head-injection]--><!--ls:begin[tracker-injection]--><!--ls:end[tracker-injection]--><!--ls:begin[script]--><!--ls:end[script]--><!--ls:begin[script]--><!--ls:end[script]-->
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5BMP7-Q46DH-MA9ZE-K574A-MZT88",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5BMP7-Q46DH-MA9ZE-K574A-MZT88";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="bv6uzsyx3wnzw2bgbqhq-f-f26249a77-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1415775","ak.ai":parseInt("340899",10),"ak.ol":"0","ak.cr":7,"ak.ipv":4,"ak.proto":"h2","ak.rid":"114e0596","ak.r":23491,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.125.76.0","ak.cport":65476,"ak.gh":"23.67.53.68","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747323919","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==MbRZIcMN7NTEzwOE+0ETobWSl8+pYIEuUsiWXj34ftCMS4SUhVASMnmhffs6mLhjOyH4zSV1R80mIq8SYvoObfo7BBwAWvweJIyBr0wyDzi/nn+hhMKZyPFNgkLWT1pMk10GR5kuZoaB7ApfZxb1Y8rp7SkJod/y86ypdWbHEsjkEFwPvRky1YCMKB2jx0hHvG+hYcf9+3piqINOngf3t/+rKMq6uJDxqInI8u553C92OGGga6u5VjsGbg9MoSPMx2IwUUZIukPJR/hcE6COp2rKO9V8TnwwCgV7tm3jJVhYz0inE/b+HySawDLg5wLOeK8gRKTGs2Y0U6xMjQNYuEJ0JOCQyJmei0EgdfPU5RHxpzg4gIEAA5x8zdkaLkFexJ3wGVFrdeLDplcU2WQNM8Tmu21oZLiRf9Aw2L8mNng=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   <body><!--ls:begin[body]-->
+      <div class="iw_viewport-wrapper"><div class="iw_placeholder" id="iw_placeholder1686033793416">
+ <div class="iw_component" id="iw_comp1733585008776">
+  <style>#iw_comp1733585008776{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link type="text/css" href="/assets/CB_resources/GlobalComponents/NavigationGlobal/navigation-global.min.css" rel="stylesheet">
+   <link type="text/css" href="/assets/CB_resources/GlobalComponents/FDICContent/fdic-content.min.css" rel="stylesheet">
+   <header class="dcom-c-header">
+      <section class="dcom-c-nav-header" id="dcom_navGlobal_header">
+         <div class="cbds-l-grid dcom-l-container">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <nav aria-label="Primary Navigation" class="dcom-c-nav-header__nav dcom-c-nav-header__nav--citizens-commercial"><a href="/corporate-finance/default.aspx"><img src="/assets/CB_resources/images/cbds-logos/logo-citizens__horz-deepGreen.svg" alt="citizens commercial" loading="eager" class="dcom-logo dcom-logo--commercial dcom-c-nav-header__logo dcom-c-navigation-bar-header__logo" width="174px" height="28px"></a><ul class="dcom-c-nav-header__ul dcom-hide-on-mobile"></ul>
+                     <div class="dcom-mobile-only dcom-c-li cbds-u-display__inlineFlex">
+                        <div class="dcom-c-navigation-bar__login" id="dcom-c-login-mobile"><button class="dcom-c-btn dcom-c-btn--small dcom-c-btn--primary"><svg class="cbds-c-icon cbds-c-button__icon" aria-hidden="true" focusable="false">
+                                 <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#lock"></use></svg>Log in
+                              </button></div><button class="dcom-c-btn dcom-c-iconBtn" aria-label="Accessible icon button label" id="dcom-nav-mobile-menu"><svg class="cbds-c-icon cbds-c-iconButton__icon" aria-hidden="true" focusable="false">
+                              <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#menu"></use></svg></button></div>
+                  </nav>
+               </div>
+            </div>
+         </div>
+      </section>
+      <section class="dcom-c-navigation-bar" id="dcom_navGlobal_bar">
+         <div class="cbds-l-grid dcom-l-container dcom-c-navigation-bar-desktop" id="dcom_nav_desktop">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <div class="dcom-c-navigation-bar__primary-row">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Primary Navigation" id="primary_nav">
+                        <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-primary">
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="primary" id="primary-dcom-navrow-0"><a class="dcom-c-navigation-bar__link" title="Personal Navigation" id="Personal" href="/homepage.aspx"><span>Personal</span></a></li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="primary" id="primary-dcom-navrow-1"><a class="dcom-c-navigation-bar__link" title="Business Navigation" id="Business" href="/small-business/overview.aspx"><span>Business</span></a></li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="primary" id="primary-dcom-navrow-2"><a class="dcom-c-navigation-bar__link" title="Corporate Navigation" id="Corporate" href="/corporate-finance/overview.aspx"><span>Corporate</span></a></li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="primary" id="primary-dcom-navrow-3"><a class="dcom-c-navigation-bar__link" title="Private Bank Navigation" id="Private Bank" href="/private-banking/overview.aspx"><span>Private Bank</span></a></li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="primary" id="primary-dcom-navrow-4"><a class="dcom-c-navigation-bar__link" title="About Us Navigation" id="About Us" href="https://investor.citizensbank.com/about-us.aspx"><span>About Us</span></a></li>
+                        </ul>
+                     </nav>
+                     <div class="dcom-c-navigation-bar__controls">
+                        <div class="dcom-c-navigation-bar__search">
+                           <form id="dcom-desktop-search-form" style="all:inherit" action="/cfg/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx?submit=true&amp;componentID=1733585008776" method="post"><input type="submit" style="display:none"><a class="dcom-nav-desktop-search"><svg class="dcom-c-navigation-bar__search-icon cbds-c-icon cbds-c-button__icon" aria-label="Search button" focusable="false">
+                                    <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#search"></use></svg></a><input id="dcom-desktop_search-query" type="text" aria-describedby="searchDescrip" placeholder="How can we help you?"><span hidden="" id="searchDescrip">How can we help you?</span></form>
+                        </div>
+                        <div class="dcom-c-navigation-bar__login" id="dcom-c-login-desktop"><button class="dcom-c-btn dcom-c-btn--small dcom-c-btn--primary"><svg class="cbds-c-icon cbds-c-button__icon" aria-hidden="true" focusable="false">
+                                 <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#lock"></use></svg>Log in</button></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12" id="dcom-nav-secondary">
+                  <div class="dcom-c-navigation-bar__secondary-row dcom-c-navigation-bar__secondary-row--hidden" id="dcom-navrow-0">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Secondary Navigation">
+                        <ul class="dcom-nav-secondary-links dcom-c-navigation-bar__ul"></ul>
+                     </nav>
+                  </div>
+                  <div class="dcom-c-navigation-bar__secondary-row dcom-c-navigation-bar__secondary-row--hidden" id="dcom-navrow-1">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Secondary Navigation">
+                        <ul class="dcom-nav-secondary-links dcom-c-navigation-bar__ul"></ul>
+                     </nav>
+                  </div>
+                  <div class="dcom-c-navigation-bar__secondary-row dcom-c-navigation-bar__secondary-row--hidden" id="dcom-navrow-2">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Secondary Navigation">
+                        <ul class="dcom-nav-secondary-links dcom-c-navigation-bar__ul">
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" title="Solutions Navigation" href="#"><span>Solutions</span></a><div class="dcom-c-navigation-bar__dropdown dcom-c-navigation-bar__dropdown--hidden"><a href="/corporate-finance/capability/financing/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Financing Navigation">Financing</a><a href="/corporate-finance/capability/capital-markets/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Capital Markets &amp; Advisory Navigation">Capital Markets & Advisory</a><a href="/corporate-finance/capability/risk-management/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Risk Management Navigation">Risk Management</a><a href="/corporate-finance/capability/treasury-management/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Treasury Management Navigation">Treasury Management</a><a href="/corporate-finance/capability/credit-card-and-payment-services/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Credit Card &amp; Payment Services Navigation">Credit Card & Payment Services</a></div>
+                           </li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" title="Industries Navigation" href="#"><span>Industries</span></a><div class="dcom-c-navigation-bar__dropdown dcom-c-navigation-bar__dropdown--hidden"><a href="/corporate-finance/industries/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Industry Expertise Navigation">Industry Expertise</a><a href="/corporate-finance/industries/aerospace-defense-and-government-services.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Aerospace, Defense, &amp; Government Services Navigation">Aerospace, Defense, & Government Services</a><a href="/corporate-finance/industries/business-services.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Business Services Navigation">Business Services</a><a href="/corporate-finance/industries/consumer-restaurant-food-service-franchise.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Consumer/Restaurant/Food Services/Franchise Navigation">Consumer/Restaurant/Food Services/Franchise</a><a href="/corporate-finance/industries/financial-services.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Financial Services Navigation">Financial Services</a><a href="/corporate-finance/industries/real-estate-gaming-lodging-leisure.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Real Estate Gaming, Lodging &amp; Leisure Navigation">Real Estate Gaming, Lodging & Leisure</a><a href="/corporate-finance/industries/government-banking.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Government Banking Navigation">Government Banking</a><a href="/corporate-finance/industries/healthcare.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Healthcare Navigation">Healthcare</a><a href="/corporate-finance/industries/industrials.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Industrial Navigation">Industrial</a><a href="/corporate-finance/industries/technology-and-communications.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Technology &amp; Communications Navigation">Technology & Communications</a><a href="/corporate-finance/industries/transportation-and-logistics.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Transportation &amp; Logistics Navigation">Transportation & Logistics</a></div>
+                           </li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" title="Insights Navigation" href="#"><span>Insights</span></a><div class="dcom-c-navigation-bar__dropdown dcom-c-navigation-bar__dropdown--hidden"><a href="/corporate-finance/insights.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Insights Library Navigation">Insights Library</a><a href="/corporate-finance/insights/artificial-intelligence-trends-report-2025.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="2025 AI Trends Navigation">2025 AI Trends</a></div>
+                           </li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" title="Why Citizens Navigation" href="#"><span>Why Citizens</span></a><div class="dcom-c-navigation-bar__dropdown dcom-c-navigation-bar__dropdown--hidden"><a href="/corporate-finance/why-citizens/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Our Approach Navigation">Our Approach</a></div>
+                           </li>
+                        </ul>
+                     </nav>
+                  </div>
+                  <div class="dcom-c-navigation-bar__secondary-row dcom-c-navigation-bar__secondary-row--hidden" id="dcom-navrow-3">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Secondary Navigation">
+                        <ul class="dcom-nav-secondary-links dcom-c-navigation-bar__ul"></ul>
+                     </nav>
+                  </div>
+                  <div class="dcom-c-navigation-bar__secondary-row dcom-c-navigation-bar__secondary-row--hidden" id="dcom-navrow-4">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Secondary Navigation">
+                        <ul class="dcom-nav-secondary-links dcom-c-navigation-bar__ul"></ul>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="dcom-c-navigation-bar-mobile ">
+            <div class="dcom-c-navigation-backdrop "></div>
+            <div class="dcom-c-navigation-mobilewrapper" id="dcom-nav-mobile">
+               <div class="dcom-c-navigation-bar-header"><a href="/corporate-finance/default.aspx"><img src="/assets/CB_resources/images/cbds-logos/logo-citizens__horz-deepGreen.svg" alt="citizens commercial" loading="eager" class="dcom-logo dcom-logo--commercial dcom-c-nav-header__logo dcom-c-navigation-bar-header__logo" width="174px" height="28px"></a><button aria-label="Close this dialog window" class="dcom-c-navigation-bar__close-button" id="dcom-nav-close">
+                     							✕
+                     </button></div>
+               <div class="dcom-c-navigation-bar__search">
+                  <form id="dcom-mobile-search-form" style="all:inherit" action="/cfg/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx?submit=true&amp;componentID=1733585008776" method="post"><input type="submit" style="display:none"><a class="dcom-nav-mobile-search"><svg class="dcom-c-navigation-bar__search-icon cbds-c-icon cbds-c-button__icon" aria-label="Mobile Search button" focusable="false">
+                           <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#search"></use></svg></a><input id="dcom-mobile_search-query" type="text" placeholder="How can we help you?"></form>
+               </div>
+               <div class="dcom-c-navigation-bar__mobile">
+                  <nav class="dcom-c-navigation-bar__nav dcom-c-navigation-bar__mobile-primary" aria-label="Primary Navigation" id="primary_nav">
+                     <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-primary">
+                        <li class="dcom-c-li dcom-c-navigation-bar__li" id="mobile-primary-dcom-navrow-0"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__primary-link" navlevel="primary" title="Personal" id="navigation-li-Personal" href="/homepage.aspx"><span class="dcom-c-navigation-bar__primary-header">Personal</span></a><div class="dcom-c-navigation-bar__mobile-secondary">
+                              <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-secondary"></ul>
+                           </div>
+                        </li>
+                        <li class="dcom-c-li dcom-c-navigation-bar__li" id="mobile-primary-dcom-navrow-1"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__primary-link" navlevel="primary" title="Business" id="navigation-li-Business" href="/small-business/overview.aspx"><span class="dcom-c-navigation-bar__primary-header">Business</span></a><div class="dcom-c-navigation-bar__mobile-secondary">
+                              <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-secondary"></ul>
+                           </div>
+                        </li>
+                        <li class="dcom-c-li dcom-c-navigation-bar__li" id="mobile-primary-dcom-navrow-2"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__primary-link" navlevel="primary" title="Corporate" id="navigation-li-Corporate" href="/corporate-finance/overview.aspx"><span class="dcom-c-navigation-bar__primary-header">Corporate</span></a><div class="dcom-c-navigation-bar__mobile-secondary">
+                              <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-secondary">
+                                 <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" navlevel="secondary" tabIndex="-1" title="Solutions Navigation" href="#"><span>Solutions</span></a></li>
+                                 <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" navlevel="secondary" tabIndex="-1" title="Industries Navigation" href="#"><span>Industries</span></a></li>
+                                 <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" navlevel="secondary" tabIndex="-1" title="Insights Navigation" href="#"><span>Insights</span></a></li>
+                                 <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" navlevel="secondary" tabIndex="-1" title="Why Citizens Navigation" href="#"><span>Why Citizens</span></a></li>
+                              </ul>
+                           </div>
+                        </li>
+                        <li class="dcom-c-li dcom-c-navigation-bar__li" id="mobile-primary-dcom-navrow-3"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__primary-link" navlevel="primary" title="Private Bank" id="navigation-li-Private Bank" href="/private-banking/overview.aspx"><span class="dcom-c-navigation-bar__primary-header">Private Bank</span></a><div class="dcom-c-navigation-bar__mobile-secondary">
+                              <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-secondary"></ul>
+                           </div>
+                        </li>
+                        <li class="dcom-c-li dcom-c-navigation-bar__li" id="mobile-primary-dcom-navrow-4"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__primary-link" navlevel="primary" title="About Us" id="navigation-li-About Us" href="https://investor.citizensbank.com/about-us.aspx"><span class="dcom-c-navigation-bar__primary-header">About Us</span></a><div class="dcom-c-navigation-bar__mobile-secondary">
+                              <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-secondary"></ul>
+                           </div>
+                        </li>
+                     </ul>
+                  </nav>
+                  <div class="dcom-c-navigation-bar__mobile-tertiary" id="dcom-nav-mobile-tertiary">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Tertiary Navigation"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__mobile-header" id="dcom-nav-tertiary-header" tabIndex="-1" href="#"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                              <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-left"/></svg><span id="dcom-nav-mobile-tertiary__header">Header Name</span></a><ul class="dcom-c-navigation-bar__ul" id="dcom-nav-tertiary"></ul>
+                     </nav>
+                  </div>
+               </div>
+               <div class="dcom-c-navigation-bar__utility-links">
+                  <ul class="dcom-c-navigation-bar__ul"></ul>
+               </div>
+               <div class="dcom-c-navigation-bar__login"><button class="dcom-c-btn dcom-c-btn--small dcom-c-btn--primary"><svg class="cbds-c-icon cbds-c-button__icon" aria-hidden="true" focusable="false">
+                        <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#lock"></use></svg>Log in</button></div>
+            </div>
+         </div>
+      </section>
+      <section class="dcom-c-nav-login dcom-c-nav-login--hidden" id="dcom-c-login-popup">
+         <div class="dcom-l-container dcom-c-nav-login__main">
+            <div class="dcom-c-nav-login__header">
+               			  Select a secure login
+               </div>
+            <div class="dcom-c-custom-select__wrapper" style="width:100%;"><select id="loginDropdown" onchange="logChange(this)">
+                  <option value="https://commercial-sso.citizensbank.com/sso/uportal/login" selected="">Corporate Login</option>
+                  <option value="https://commercial-sso.citizensbank.com/sso/uportal/login">Corporate Card Management</option></select></div>
+            <div class="dcom-c-nav-login__button"><button class="dcom-c-btn dcom-c-btn--small dcom-c-btn--primary dcom-c-btn--cta"><svg class="cbds-c-icon cbds-c-button__icon" aria-hidden="true" focusable="false">
+                     <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#lock"></use></svg>
+                  				Log in
+                  </button></div>
+            <div class="dcom-c-nav-login__help" style="display:none"><a href="https://www.citizensbankonline.com/efs/efs/index.html#login/trouble" class="dcom-c-nav-login__help-link">
+                  				  Trouble logging in?
+                  </a></div>
+            <div class="dcom-c-nav-login__cta" style="display:none"><span class="dcom-c-nav-login__cta-prompt">
+                  				New to Online Banking?
+                  </span><a href="https://www.citizensbankonline.com/efs/efs/index.html#enroll/identify-customer" class="dcom-c-nav-login__cta-link">
+                  				Enroll Now
+                  </a></div>
+            <div class="dcom-c-nav-login__uppercarrot"></div>
+         </div><script>
+		function logChange(el) {
+			var selectOption = el.options[el.selectedIndex].innerHTML;
+			if(selectOption == "Personal/Small Business"){
+				document.querySelector(".dcom-c-nav-login__cta").removeAttribute("style","display:none");
+				document.querySelector(".dcom-c-nav-login__help").removeAttribute("style","display:none");
+
+			}
+			else{
+			document.querySelector(".dcom-c-nav-login__cta").setAttribute("style","display:none");
+				document.querySelector(".dcom-c-nav-login__help").setAttribute("style","display:none");
+			}
+		}
+      </script></section>
+   </header>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008777">
+  <style>#iw_comp1733585008777{}</style><section>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "Citizens",
+    "item": "https://www.citizensbank.com/"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Corporate Finance",
+    "item": "https://www.citizensbank.com/corporate-finance/"  
+ },{
+    "@type": "ListItem", 
+    "position": 3, 
+    "name": "Insights",
+    "item": "https://www.citizensbank.com/corporate-finance/insights/"
+ },{
+    "@type": "ListItem", 
+    "position": 4, 
+    "name": "Citizens 2025 M&A Outlook",
+    "item": "https://www.citizensbank.com/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx"  
+  }]
+}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org",
+"@type": "WebPage",
+"name": "Citizens 2025 M&A Outlook",
+"description": "View the 2025 Mergers & Acquisitions Outlook survey from Citizens Corporate Finance. Citizens can help shape your M&A strategy via key insights and actions to consider.",
+"keywords": ["m&a outlook, mergers and acquisitions outlook, 2025 m&a outlook, 2025 m&a trends, mergers and acquisitions trends, 2025 mergers and acquisitions, 2025 m&a, m&a survey"],
+"url": "https://www.citizensbank.com/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx",
+"image":"https://p1.aprimocdn.net/citizensbank/bb20f369-ad9b-413e-86cd-b24c010af200/GettyImages-2121270849_RT_1336x1100_Original%20file.jpg",
+"@id":"https://www.citizensbank.com/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx#webpage"
+}
+</script>
+<script type="application/ld+json">
+{"@context": "https://schema.org",
+ "@type": "Article",
+"name": "Citizens 2025 M&A Outlook",
+"description": "View the 2025 Mergers & Acquisitions Outlook survey from Citizens Corporate Finance. Citizens can help shape your M&A strategy via key insights and actions to consider.",
+"keywords": ["m&a outlook, mergers and acquisitions outlook, 2025 m&a outlook, 2025 m&a trends, mergers and acquisitions trends, 2025 mergers and acquisitions, 2025 m&a, m&a survey"],
+"url": "https://www.citizensbank.com/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx",
+"image":"https://p1.aprimocdn.net/citizensbank/bb20f369-ad9b-413e-86cd-b24c010af200/GettyImages-2121270849_RT_1336x1100_Original%20file.jpg",
+"@id":"https://www.citizensbank.com/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx#webpage",
+"headline":"Citizens 2025 M&A Outlook",
+"articleBody": "Market sentiment is at a five-year high across midsize businesses in the 14th annual M&A Outlook survey. For 2025, more than half say the market for mergers and acquisitions (M&A) will be strong, based on the views of 400 U.S. midsize company CEOs, CFOs and private equity (PE) principals. With valuations firming and inflation worries fading, economic growth is the most-cited factor driving M&A plans for the year ahead.
+Key themes
+A strong economic outlook is key
+Better valuations are boosting confidence
+The seller pool has grown
+Interest continues to rise in AI, international deals
+&quot;The prevailing headwinds of recent years have really moderated. We see companies and sponsors coming into 2025 with big plans, and this year&apos;s survey shows how focused they are on the growth environment.&quot;
+The growth outlook is strong, led by larger businesses
+The economic backdrop is always important to M&A plans, and bullish sentiment is on display in the 2025 M&A Outlook survey. PE firms and larger midsize companies are closely aligned on their economic views, with more than six in 10 saying the economy will improve and about half saying that their economic expectations make them very likely to engage in M&A in 2025. Smaller businesses in the midmarket segment are more measured about their economic expectations and M&A plans.
+The economy&apos;s influence grows, with an added boost from the U.S. election
+59% of midsize businesses believe that the economic growth backdrop in the U.S. will make their business easier to operate in coming year - sentiment that was boosted by the U.S. election. Anticipated interest rate cuts and moderated inflation also top the list of factors making business easier.
+When it comes to M&A plans, economic growth and easing inflation are key factors as well. The U.S. election and anticipated regulatory environment are also supporting M&A plans, according to decision-makers.
+&quot;Sentiment is clearly up going into 2025, and that could mean healthy M&A activity - or it could even mean surging M&A activity. Companies that are planning M&A this year should consider both possibilities and how their strategy would change.&quot;
+Positive valuations, especially from PE
+In the 2025 outlook, M&A decision-makers are more upbeat about valuation levels. Compared to recent years, more companies and PE firms expect valuations to rise or remain stable, and importantly, there are fewer who expect valuations to fall.
+Private equity and larger midsize firms were the most upbeat. More than half of PE respondents said they see company valuations rising in 2025, echoed by about 49% of larger-midsized company leaders. Smaller businesses were less bullish on valuations, in comparison.
+&quot;There is a sentiment gap between larger and smaller firms in the middle market, which is a clue that they continue to face differences in their operating environments. Still, we see a high level of M&A interest, especially in selling, among all sizes of midsize corporates.&quot;
+Financials, Tech and Industrials top the valuation outlook
+Businesses and sponsors in Financial Services and Technology, Media and Telecom (TMT) are the most confident about valuations for their sectors, with about half expecting valuations to rise. M&A decision-makers in the Industrials sector are also quite confident. Transportation and Logistics respondents are at the lowest end of the spectrum, with just 20% expecting higher valuations.
+&quot;The macro environment is incredibly important, but you can&apos;t overlook the dynamics of specific sectors. The buyer pools are quite different from one sector to the next, and that shapes the choices that sellers face.&quot;
+Seller pool increases, and larger firms are buyers
+The pool of potential sellers added 10%, totaling 73% of companies in the 2025 survey, and seller interest is broad-based across different company sizes. The majority of would-be sellers say they are more open to a partial sale or ancillary business-unit sale, rather than a full exit.
+Private equity firms also anticipate a busier year. 64% of sponsors said they expect deal flow to increase in 2025 - particularly because they expect more PE-backed assets to come to market.
+The strategic buyer pool indicates its own interesting trends. After rising 3% in 2024, the share of potential buyers was steady year-over-year. However, there&apos;s a gap between larger and smaller firms, with much more buying interest among larger firms in the midsize market.
+Balanced buyer/seller dynamics drive confidence
+Buyers and sellers are perceived to be on fairly equal footing in the current market, another factor that could reinforce confidence in dealmaking. Both private equity and midsize companies view the M&A market as fairly balanced overall.
+Across specific sectors, dealmaking conditions vary. In 2025, respondents see a buyer&apos;s market dominating the most in Industrials. In contrast, a strong seller&apos;s market is perceived in Aerospace, Defense and Government Services.
+&quot;What we are seeing is that the highest quality companies face a seller&apos;s market, regardless of sector. There is always a premium on quality, but that effect may be stronger than usual as the market continues to work through the backlog of activity.&quot;
+Interest in AI and international deals are still growing
+Among private equity firms, the majority expect deal flow to increase in 2025. Among those who anticipate more deals, one core reason is the ongoing race to add artificial intelligence (AI) companies and capabilities to fund portfolios. The breakthrough technology continues to mature into new use cases, including its expanding role in financial processes within midsize firms and sponsors, as seen in Citizens&apos; recent AI trends survey.
+Another trend that has grown since 2024 is the interest in finding international deal partners. Granted, most midsize U.S. companies are talking about nearby neighbors Canada and Mexico - but many are also open to deals with parties in the UK or Europe.
+Key takeaways
+Dealmaking hinges on sentiment, and sentiment is measurably higher in the 2025 M&A Outlook compared to recent years. The favorable economic backdrop is a core reason for companies and sponsors to proceed with M&A. Headwinds and uncertainties from the last several years have receded, and valuations are expected to be stable or higher. Some segments show restrained views; smaller midsize firms are more conservative, and many potential sellers lean toward selling a piece of the business rather than a full exit. Still, decision-makers expect 2025 to be a year marked by economic growth and a higher pace of M&A.",
+"potentialAction": {
+"@type": "ReadAction",
+"target":"https://www.citizensbank.com/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx"},
+"publisher": {
+"@type": "Organization",
+"name": "Citizens",
+"logo": {
+"@type": "ImageObject",
+"url": "https://p1.aprimocdn.net/citizensbank/98d956c6-1784-463f-b67f-b16c013d418b/Citizens_R_Horz_RGB_976x550_Original%20file.jpg"}
+ 	}
+  }  
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    "If selling, be prepared to go through a thorough marketing process. Though activity is recovering, the buyer pool remains thin in certain areas of the market. A thoughtful and comprehensive approach to marketing can add significant value to the final deal terms.",
+    "With balanced market dynamics, deals are still moving at a measured pace. However, if the M&A market surges in 2025, it could shift to a seller&apos;s environment quickly. Buyers may be penalized for moving slowly.",
+    "Market dynamics still differ considerably by sector. It&apos;s important to find an advisor who knows your specific space and has the relationships to generate interest and opportunities." 
+  ],
+  "name": "Actions to consider in 2025"
+}
+</script>
+</section>
+ </div>
+</div>
+<div class="iw_placeholder" id="iw_placeholder1686033793417">
+ <div class="iw_component" id="iw_comp1733585008778">
+  <style>#iw_comp1733585008778{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/HeroCommercial/hero-commercial.min.css" rel="stylesheet" type="text/css">
+   <section class="dcom-c-hero-commercial cbds-u-backgroundColor--commercial-green ">
+      <div class="cbds-l-grid--@xl">
+         <div class="cbds-l-grid__row dcom-c-hero-commercial__wrapper ">
+            <div class="cbds-l-grid__col--12 dcom-c-hero-commercial__content-container cbds-l-grid__col--6@md dcom-component__padding-top--medium dcom-component__padding-bottom--medium">
+               <div class="dcom-c-hero-commercial__message-container">
+                  <h1 style="color: var(--cbds-tkn-colorBrand__white);">Citizens 2025 M&A Outlook:</h1>
+                  <p style="color: var(--cbds-tkn-colorBrand__white);">Momentum builds as buyers and sellers get into gear</p>
+               </div>
+            </div>
+            <div class="cbds-l-grid__col--12@sm cbds-l-grid__col--6@md dcom-c-hero-commercial__image-container"><img src="https://p1.aprimocdn.net/citizensbank/bb20f369-ad9b-413e-86cd-b24c010af200/GettyImages-2121270849_RT_1336x1100_Hero-Commercial-R.jpg" alt="" loading="eager" class="dcom-c-hero-commercial__image" width="375px" height="317px" srcset="https://p1.aprimocdn.net/citizensbank/bb20f369-ad9b-413e-86cd-b24c010af200/GettyImages-2121270849_RT_1336x1100_Hero-Commercial-R.jpg 592w, https://p1.aprimocdn.net/citizensbank/bb20f369-ad9b-413e-86cd-b24c010af200/GettyImages-2121270849_RT_1336x1100_Hero-Commercial-R.jpg 1184w"></div>
+         </div>
+      </div>
+   </section>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008779">
+  <style>#iw_comp1733585008779{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link type="text/css" href="/assets/CB_resources/GlobalComponents/Breadcrumbs/breadcrumbs.min.css" rel="stylesheet">
+   <div class="cbds-l-grid dcom-c__breadcrumbs-container">
+      <div class="cbds-l-grid__row">
+         <div class="cbds-l-grid__col--12">
+            <nav aria-label="Breadcrumb" class="dcom-c__breadcrumbs">
+               <ol>
+                  <li class="dcom-c-breadcrumb" id="primNav_Breadcrumbs"><a class="cbds-c-link" href="#"><span>primary</span></a></li>
+                  <li class="dcom-c-breadcrumb" id="secNav_Breadcrumbs"><a class="cbds-c-link" href="#"><span>secondary</span></a></li>
+                  <li class="dcom-c-breadcrumb" id="terNav_Breadcrumbs"><span aria-current="page">teritary</span></li>
+               </ol>
+               <ol>
+                  <li class="dcom-c-breadcrumb--mobile" id="nav_mobileBreadcrumb"><a href=""><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                           <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-left"/></svg><span>Back to Industries</span></a></li>
+               </ol>
+            </nav>
+         </div>
+      </div>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585018972">
+  <style>#iw_comp1733585018972{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/Banner/banner.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-banner dcom-c-banner dcom-c-banner--light ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <div class="dcom-c-banner__content-wrapper dcom-component__padding-top--medium dcom-component__padding-bottom--medium">
+                     <div class="dcom-c-banner__content">
+                        <h2 class="dcom-c-banner__heading">2025 M&A Outlook Webinar Replay Now Live</h2>
+                        <p class="dcom-c-banner__paragraph">Discover more about this year’s survey findings and the major factors fueling M&A plans in 2025.</p>
+                     </div>
+                     <div class="dcom-c-banner__action"><a class="cbds-c-button cbds-c-button--outlined  " href="/corporate-finance/webinars/2025-ma-outlook-webinar.aspx" target="_self"><span class="cbds-c-button__label">Watch now</span><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon cbds-c-button__icon  " aria-hidden="true">
+                              <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-right"/></svg></a></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008780">
+  <style>#iw_comp1733585008780{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/TextBlock/text-block.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-textBlock  dcom-c-textBlock--full-width dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p><a href="https://p1.aprimocdn.net/citizensbank/495950e0-8c07-4d42-b333-b25d00f20786/Citizens_MA_2025_Outlook_Original%20file.pdf">Download a print-friendly version of this report</a>.</p></div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p>Published January 2025</p></div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><div style="background-color: #f6f6f6; padding: 20px; margin-bottom: 10px;">
+<h2 class="dcom-c-textBlock__heading">Key takeaways</h2>
+<p>Dealmaking hinges on sentiment, and sentiment is measurably higher in the 2025 M&amp;A Outlook compared to recent years. The favorable economic backdrop is a core reason for companies and sponsors to proceed with M&amp;A. Headwinds and uncertainties from the last several years have receded, and valuations are expected to be stable or higher. Some segments show restrained views; smaller midsize firms are more conservative, and many potential sellers lean toward selling a piece of the business rather than a full exit. Still, decision-makers expect 2025 to be a year marked by economic growth and a higher pace of M&amp;A.</p>
+</div></div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto">
+                  <h2 class="dcom-c-textBlock__heading">2025 kicks off with more momentum</h2>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p>Market sentiment is at a five-year high across midsize businesses in the 14th annual M&amp;A Outlook survey. For 2025, more than half say the market for mergers and acquisitions (M&amp;A) will be strong, based on the views of 400 U.S. midsize company CEOs, CFOs and private equity (PE) principals. With valuations firming and inflation worries fading, economic growth is the most-cited factor driving M&amp;A plans for the year ahead.</p>
+<p><img src="https://p1.aprimocdn.net/citizensbank/5241ad0b-a04e-4366-9d95-b257010c856a/14202_01_CIT_M%26A-Outlook-2025-Web-Page-Assets_V4_rel_01_Original%20file.jpg" alt="M&amp;A Environment Gains Strength. Sentiment climbs to a 5-year high as valuations strengthen and uncertainties recede."></p></div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008797">
+  <style>#iw_comp1733585008797{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/SectionTitleGlobal/section-title-global.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <div class="dcom-c-section-title-global  dcom-component__padding-top--medium dcom-component__padding-bottom--none ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <h2 class="dcom-c-section-title-global__header dcom-c-section-title-global__header--citizens-black">Key themes</h2>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008781">
+  <style>#iw_comp1733585008781{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/FeatureGrid/feature-grid.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-featureGrid  dcom-c-featureGrid--card dcom-c-featureGrid--icon dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--6@md cbds-l-grid__col--3@xl">
+                  <div class="dcom-c-featureGrid__item"><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon dcom-c-featureGrid__item-icon cbds-c-icon--48 " aria-hidden="true">
+                        <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-brand.svg#chart-bar-growth"/></svg><div class="dcom-c-featureGrid__item-content">
+                        <p class="dcom-c-featureGrid__item-heading"><a href="#economicoutlook" target="_self" aria-label="A strong economic outlook is key">A strong economic outlook is key</a></p>
+                     </div>
+                  </div>
+               </div>
+               <div class="cbds-l-grid__col--6@md cbds-l-grid__col--3@xl">
+                  <div class="dcom-c-featureGrid__item"><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon dcom-c-featureGrid__item-icon cbds-c-icon--48 " aria-hidden="true">
+                        <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-brand.svg#hands-dollarsign"/></svg><div class="dcom-c-featureGrid__item-content">
+                        <p class="dcom-c-featureGrid__item-heading"><a href="#bettervaluations" target="_self" aria-label="Better valuations are boosting confidence">Better valuations are boosting confidence</a></p>
+                     </div>
+                  </div>
+               </div>
+               <div class="cbds-l-grid__col--6@md cbds-l-grid__col--3@xl">
+                  <div class="dcom-c-featureGrid__item"><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon dcom-c-featureGrid__item-icon cbds-c-icon--48 " aria-hidden="true">
+                        <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-brand.svg#users-friends"/></svg><div class="dcom-c-featureGrid__item-content">
+                        <p class="dcom-c-featureGrid__item-heading"><a href="#sellerpool" target="_self" aria-label="The seller pool has grown">The seller pool has grown</a></p>
+                     </div>
+                  </div>
+               </div>
+               <div class="cbds-l-grid__col--6@md cbds-l-grid__col--3@xl">
+                  <div class="dcom-c-featureGrid__item"><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon dcom-c-featureGrid__item-icon cbds-c-icon--48 " aria-hidden="true">
+                        <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-brand.svg#world-locator"/></svg><div class="dcom-c-featureGrid__item-content">
+                        <p class="dcom-c-featureGrid__item-heading"><a href="#interestrise" target="_self" aria-label="Interest rises in AI, international deals">Interest rises in AI, international deals</a></p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008782">
+  <style>#iw_comp1733585008782{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/Testimonials/testimonials.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-testimonials cbds-u-backgroundColor--grey dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="dcom-c-testimonials__wrapper">
+               <div class="cbds-l-grid__row">
+                  <div class="cbds-l-grid__col--12">
+                     <ul class="dcom-c-testimonials__list">
+                        <li class="dcom-c-testimonials__list-item">
+                           <div class="dcom-c-testimonials__quote-container"><svg xmlns="http://www.w3.org/2000/svg" class="dcom-c-testimonials__quote-icon" aria-hidden="true" width="54" height="46" viewBox="0 0 54 46" fill="none">
+                                 <path d="M24.9363 46H0V27.1152C0 20.1626 1.47134 14.6757 4.41401 10.6544C7.35669 6.63317 12.4013 3.0817 19.5478 0L24.9363 10.0343C20.5414 12.0637 17.5032 14.0931 15.8217 16.1225C14.1401 18.1144 13.2038 20.482 13.0127 23.2255H24.9363V46ZM54 46H29.0637V27.1152C29.0637 20.1626 30.535 14.6757 33.4777 10.6544C36.4204 6.63317 41.465 3.0817 48.6115 0L54 10.0343C49.6051 12.0637 46.5669 14.0931 44.8853 16.1225C43.2038 18.1144 42.2675 20.482 42.0764 23.2255H54V46Z" fill="currentColor"/></svg><blockquote class="dcom-c-testimonials__quote"><p>"The prevailing headwinds of recent years have really moderated. We see companies and sponsors coming into 2025 with big plans, and this year's survey shows how focused they are on the growth environment."</p></blockquote>
+                           </div>
+                           <div class="dcom-c-testimonials__avatar-container"><img src="https://p1.aprimocdn.net/citizensbank/2dc302c1-1051-4369-9937-b252014bbacb/jason-wallace-D510011-headshot_Testimonial-R.jpg" alt="" loading="lazy" class="dcom-c-testimonials__avatar" width="72px" height="72px" srcset="https://p1.aprimocdn.net/citizensbank/2dc302c1-1051-4369-9937-b252014bbacb/jason-wallace-D510011-headshot_Testimonial-R.jpg 72w, https://p1.aprimocdn.net/citizensbank/2dc302c1-1051-4369-9937-b252014bbacb/jason-wallace-D510011-headshot_Testimonial-R.jpg 144w"><div class="dcom-c-testimonials__avatar-details">
+                                 <p class="dcom-c-testimonials__name">Jason Wallace</p>
+                                 <p class="dcom-c-testimonials__occupation">Managing Director, Head of M&A Advisory</p>
+                              </div>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008783">
+  <style>#iw_comp1733585008783{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/TextBlock/text-block.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-textBlock  dcom-c-textBlock--full-width dcom-component__padding-top--medium dcom-component__padding-bottom--medium " id="economicoutlook">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto">
+                  <h2 class="dcom-c-textBlock__heading">The growth outlook is strong, led by larger businesses</h2>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p>The economic backdrop is always important to M&amp;A plans, and bullish sentiment is on display in the 2025 M&amp;A Outlook survey. PE firms and larger midsize companies are closely aligned on their economic views, with more than six in 10 saying the economy will improve and about half saying that their economic expectations make them very likely to engage in M&amp;A in 2025. Smaller businesses in the midmarket segment are more measured about their economic expectations and M&amp;A plans.</p>
+<p><img src="https://p1.aprimocdn.net/citizensbank/fb20281c-c2cb-40cf-996a-b257010c8631/14202_01_CIT_M%26A-Outlook-2025-Web-Page-Assets_V4_rel_02_Original%20file.jpg" alt="Strong 2025 Outlook from Private Equity and Larger Corporates. Smaller corporates show M&amp;A caution."></p></div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto">
+                  <h2 class="dcom-c-textBlock__heading">The economy’s influence grows, boosted by U.S. election</h2>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p>59% of midsize businesses believe that the economic growth backdrop in the U.S. will make their business easier to operate in coming year &ndash; sentiment that was boosted by the U.S. election. Anticipated interest rate cuts and moderated inflation also top the list of factors making business easier.</p>
+<p>When it comes to M&amp;A plans, economic growth and the likely easing of inflation are key factors as well. The U.S. election and anticipated regulatory environment are also supporting M&amp;A plans, according to decision-makers.</p>
+<p><img src="https://p1.aprimocdn.net/citizensbank/e6ba0eb9-d07a-4fa4-84e6-b257010c8703/14202_01_CIT_M%26A-Outlook-2025-Web-Page-Assets_V4_rel_03_Original%20file.jpg" alt="Factors Driving 2025 M&amp;A Optimism. Growth expectations, interest rates and other factors cited."></p></div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008784">
+  <style>#iw_comp1733585008784{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/Testimonials/testimonials.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-testimonials cbds-u-backgroundColor--grey dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="dcom-c-testimonials__wrapper">
+               <div class="cbds-l-grid__row">
+                  <div class="cbds-l-grid__col--12">
+                     <ul class="dcom-c-testimonials__list">
+                        <li class="dcom-c-testimonials__list-item">
+                           <div class="dcom-c-testimonials__quote-container"><svg xmlns="http://www.w3.org/2000/svg" class="dcom-c-testimonials__quote-icon" aria-hidden="true" width="54" height="46" viewBox="0 0 54 46" fill="none">
+                                 <path d="M24.9363 46H0V27.1152C0 20.1626 1.47134 14.6757 4.41401 10.6544C7.35669 6.63317 12.4013 3.0817 19.5478 0L24.9363 10.0343C20.5414 12.0637 17.5032 14.0931 15.8217 16.1225C14.1401 18.1144 13.2038 20.482 13.0127 23.2255H24.9363V46ZM54 46H29.0637V27.1152C29.0637 20.1626 30.535 14.6757 33.4777 10.6544C36.4204 6.63317 41.465 3.0817 48.6115 0L54 10.0343C49.6051 12.0637 46.5669 14.0931 44.8853 16.1225C43.2038 18.1144 42.2675 20.482 42.0764 23.2255H54V46Z" fill="currentColor"/></svg><blockquote class="dcom-c-testimonials__quote"><p>"Sentiment is clearly up going into 2025, and that could mean healthy M&amp;A activity &ndash; or it could even mean surging M&amp;A activity. Companies that are planning M&amp;A this year should consider both possibilities and how their strategy would change."</p></blockquote>
+                           </div>
+                           <div class="dcom-c-testimonials__avatar-container"><img src="https://p1.aprimocdn.net/citizensbank/88bcf8cb-b5e4-4abd-a6ea-b252014bb812/david-dunstan-J059598-headshot_Testimonial-R.jpg" alt="" loading="lazy" class="dcom-c-testimonials__avatar" width="72px" height="72px" srcset="https://p1.aprimocdn.net/citizensbank/88bcf8cb-b5e4-4abd-a6ea-b252014bb812/david-dunstan-J059598-headshot_Testimonial-R.jpg 72w, https://p1.aprimocdn.net/citizensbank/88bcf8cb-b5e4-4abd-a6ea-b252014bb812/david-dunstan-J059598-headshot_Testimonial-R.jpg 144w"><div class="dcom-c-testimonials__avatar-details">
+                                 <p class="dcom-c-testimonials__name">Dave Dunstan</p>
+                                 <p class="dcom-c-testimonials__occupation">Managing Director, Head of Industrials M&A</p>
+                              </div>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008785">
+  <style>#iw_comp1733585008785{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/TextBlock/text-block.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-textBlock  dcom-c-textBlock--full-width dcom-component__padding-top--medium dcom-component__padding-bottom--medium " id="bettervaluations">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto">
+                  <h2 class="dcom-c-textBlock__heading">Positive valuations, especially from PE</h2>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p>In the 2025 outlook, M&amp;A decision-makers are more upbeat about valuation levels. Compared to recent years, more companies and PE firms expect valuations to rise or remain stable, and importantly, there are fewer who expect valuations to fall.</p>
+<p>Private equity and larger midsize firms were the most upbeat. More than half of PE respondents said they see company valuations rising in 2025, echoed by about 49% of larger-midsized company leaders. Smaller businesses were less bullish on valuations, in comparison.</p>
+<p><img src="https://p1.aprimocdn.net/citizensbank/e89c2973-584e-4119-8c9a-b257010c87b4/14202_01_CIT_M%26A-Outlook-2025-Web-Page-Assets_V4_rel_04_Original%20file.jpg" alt="Outlook More Bullish on Valuations. Private equity firms are confident about upside."></p></div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008786">
+  <style>#iw_comp1733585008786{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/Testimonials/testimonials.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-testimonials cbds-u-backgroundColor--grey dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="dcom-c-testimonials__wrapper">
+               <div class="cbds-l-grid__row">
+                  <div class="cbds-l-grid__col--12">
+                     <ul class="dcom-c-testimonials__list">
+                        <li class="dcom-c-testimonials__list-item">
+                           <div class="dcom-c-testimonials__quote-container"><svg xmlns="http://www.w3.org/2000/svg" class="dcom-c-testimonials__quote-icon" aria-hidden="true" width="54" height="46" viewBox="0 0 54 46" fill="none">
+                                 <path d="M24.9363 46H0V27.1152C0 20.1626 1.47134 14.6757 4.41401 10.6544C7.35669 6.63317 12.4013 3.0817 19.5478 0L24.9363 10.0343C20.5414 12.0637 17.5032 14.0931 15.8217 16.1225C14.1401 18.1144 13.2038 20.482 13.0127 23.2255H24.9363V46ZM54 46H29.0637V27.1152C29.0637 20.1626 30.535 14.6757 33.4777 10.6544C36.4204 6.63317 41.465 3.0817 48.6115 0L54 10.0343C49.6051 12.0637 46.5669 14.0931 44.8853 16.1225C43.2038 18.1144 42.2675 20.482 42.0764 23.2255H54V46Z" fill="currentColor"/></svg><blockquote class="dcom-c-testimonials__quote"><p>"There is a sentiment gap between larger and smaller firms in the middle market, which is a clue that they continue to face differences in their operating environments. Still, we see a high level of M&amp;A interest, especially in selling, among all sizes of midsize corporates."</p></blockquote>
+                           </div>
+                           <div class="dcom-c-testimonials__avatar-container"><img src="https://p1.aprimocdn.net/citizensbank/f5141ec7-96a9-4925-83c1-b252014bba05/tom-donahue-D510010-headshot_Testimonial-R.jpg" alt="" loading="lazy" class="dcom-c-testimonials__avatar" width="72px" height="72px" srcset="https://p1.aprimocdn.net/citizensbank/f5141ec7-96a9-4925-83c1-b252014bba05/tom-donahue-D510010-headshot_Testimonial-R.jpg 72w, https://p1.aprimocdn.net/citizensbank/f5141ec7-96a9-4925-83c1-b252014bba05/tom-donahue-D510010-headshot_Testimonial-R.jpg 144w"><div class="dcom-c-testimonials__avatar-details">
+                                 <p class="dcom-c-testimonials__name">Tom Donahue</p>
+                                 <p class="dcom-c-testimonials__occupation">Managing Director, M&A Advisory</p>
+                              </div>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008787">
+  <style>#iw_comp1733585008787{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/TextBlock/text-block.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-textBlock  dcom-c-textBlock--full-width dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto">
+                  <h2 class="dcom-c-textBlock__heading">Financials, Tech and Industrials top the valuation outlook</h2>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p>Businesses and sponsors in Financial Services and Technology, Media and Telecom (TMT) are the most confident about valuations for their sectors, with about half expecting valuations to rise. M&amp;A decision-makers in the Industrials sector are also quite confident. Transportation and Logistics respondents are at the lowest end of the spectrum, with just 32% expecting higher valuations.</p>
+<p><img src="https://p1.aprimocdn.net/citizensbank/b6a59dcf-89f3-4100-aece-b257010c886a/14202_01_CIT_M%26A-Outlook-2025-Web-Page-Assets_V4_rel_05_Original%20file.jpg" alt="Financials, TMT, and Industrials Display Momentum. Valuation perspectives vary across sectors."></p></div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008788">
+  <style>#iw_comp1733585008788{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/Testimonials/testimonials.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-testimonials cbds-u-backgroundColor--grey dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="dcom-c-testimonials__wrapper">
+               <div class="cbds-l-grid__row">
+                  <div class="cbds-l-grid__col--12">
+                     <ul class="dcom-c-testimonials__list">
+                        <li class="dcom-c-testimonials__list-item">
+                           <div class="dcom-c-testimonials__quote-container"><svg xmlns="http://www.w3.org/2000/svg" class="dcom-c-testimonials__quote-icon" aria-hidden="true" width="54" height="46" viewBox="0 0 54 46" fill="none">
+                                 <path d="M24.9363 46H0V27.1152C0 20.1626 1.47134 14.6757 4.41401 10.6544C7.35669 6.63317 12.4013 3.0817 19.5478 0L24.9363 10.0343C20.5414 12.0637 17.5032 14.0931 15.8217 16.1225C14.1401 18.1144 13.2038 20.482 13.0127 23.2255H24.9363V46ZM54 46H29.0637V27.1152C29.0637 20.1626 30.535 14.6757 33.4777 10.6544C36.4204 6.63317 41.465 3.0817 48.6115 0L54 10.0343C49.6051 12.0637 46.5669 14.0931 44.8853 16.1225C43.2038 18.1144 42.2675 20.482 42.0764 23.2255H54V46Z" fill="currentColor"/></svg><blockquote class="dcom-c-testimonials__quote"><p>"The macro environment is incredibly important, but you can't overlook the dynamics of specific sectors. The buyer pools are quite different from one sector to the next, and that shapes the choices that sellers face."</p></blockquote>
+                           </div>
+                           <div class="dcom-c-testimonials__avatar-container"><img src="https://p1.aprimocdn.net/citizensbank/f957f354-7c97-459b-9a55-b252014bb8f2/devin-ryan-D620128-headshot_Testimonial-R.jpeg" alt="" loading="lazy" class="dcom-c-testimonials__avatar" width="72px" height="72px" srcset="https://p1.aprimocdn.net/citizensbank/f957f354-7c97-459b-9a55-b252014bb8f2/devin-ryan-D620128-headshot_Testimonial-R.jpeg 72w, https://p1.aprimocdn.net/citizensbank/f957f354-7c97-459b-9a55-b252014bb8f2/devin-ryan-D620128-headshot_Testimonial-R.jpeg 144w"><div class="dcom-c-testimonials__avatar-details">
+                                 <p class="dcom-c-testimonials__name">Devin Ryan</p>
+                                 <p class="dcom-c-testimonials__occupation">Managing Director, Director of Financial Technology Research</p>
+                              </div>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008789">
+  <style>#iw_comp1733585008789{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/TextBlock/text-block.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-textBlock  dcom-c-textBlock--full-width dcom-component__padding-top--medium dcom-component__padding-bottom--medium " id="sellerpool">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto">
+                  <h2 class="dcom-c-textBlock__heading">Seller pool increases, and larger firms are buyers</h2>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p>The pool of potential sellers added 10%, totaling 73% of companies in the 2025 survey, and seller interest is broad-based across different company sizes. The majority of would-be sellers say they are more open to a partial sale or ancillary business-unit sale, rather than a full exit.</p>
+<p><img src="https://p1.aprimocdn.net/citizensbank/d37b8147-feaa-4af3-b1c5-b257010c8916/14202_01_CIT_M%26A-Outlook-2025-Web-Page-Assets_V4_rel_06_Original%20file.jpg" alt="Seller Pool Pops, with Broad-Based Enthusiasm. The seller pool grew 10 percent this year, with consistent trends across company sizes."></p>
+<p>Private equity firms also anticipate a busier year. 64% of sponsors said they expect deal flow to increase in 2025 &ndash; particularly because they expect more PE-backed assets to come to market.</p>
+<p>The strategic buyer pool indicates its own interesting trends. <a href="/corporate-finance/insights/mergers-acquisitions-outlook-2024.aspx">After rising 3% in 2024</a>, the share of potential buyers was steady year-over-year. However, there's a gap between larger and smaller firms, with much more buying interest among larger firms in the midsize market.</p>
+<p><img src="https://p1.aprimocdn.net/citizensbank/8b22972d-8385-4a46-ad43-b257010c89e2/14202_01_CIT_M%26A-Outlook-2025-Web-Page-Assets_V4_rel_07_Original%20file.jpg" alt="PE Firms Anticipate Deal Surge in 2025. Nearly half see market-ready PE assets driving growth."></p></div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto">
+                  <h2 class="dcom-c-textBlock__heading">Balanced buyer/seller dynamics drive confidence</h2>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p>Buyers and sellers are perceived to be on fairly equal footing in the current market, another factor that could reinforce confidence in dealmaking. Both private equity and midsize companies view the M&amp;A market as fairly balanced overall.</p>
+<p>Across specific sectors, dealmaking conditions vary. In 2025, respondents see a buyer's market dominating in Consumer and Industrials. In contrast, a strong seller's market is perceived in Aerospace, Defense and Government Services.</p>
+<p><img src="https://p1.aprimocdn.net/citizensbank/3674d802-1fa1-4f47-b318-b257010c8a85/14202_01_CIT_M%26A-Outlook-2025-Web-Page-Assets_V4_rel_08_Original%20file.jpg" alt="Buyer Seller Pool Balance Expected for 2025. Sector trends reveal key divergences"></p></div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008790">
+  <style>#iw_comp1733585008790{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/Testimonials/testimonials.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-testimonials cbds-u-backgroundColor--grey dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="dcom-c-testimonials__wrapper">
+               <div class="cbds-l-grid__row">
+                  <div class="cbds-l-grid__col--12">
+                     <ul class="dcom-c-testimonials__list">
+                        <li class="dcom-c-testimonials__list-item">
+                           <div class="dcom-c-testimonials__quote-container"><svg xmlns="http://www.w3.org/2000/svg" class="dcom-c-testimonials__quote-icon" aria-hidden="true" width="54" height="46" viewBox="0 0 54 46" fill="none">
+                                 <path d="M24.9363 46H0V27.1152C0 20.1626 1.47134 14.6757 4.41401 10.6544C7.35669 6.63317 12.4013 3.0817 19.5478 0L24.9363 10.0343C20.5414 12.0637 17.5032 14.0931 15.8217 16.1225C14.1401 18.1144 13.2038 20.482 13.0127 23.2255H24.9363V46ZM54 46H29.0637V27.1152C29.0637 20.1626 30.535 14.6757 33.4777 10.6544C36.4204 6.63317 41.465 3.0817 48.6115 0L54 10.0343C49.6051 12.0637 46.5669 14.0931 44.8853 16.1225C43.2038 18.1144 42.2675 20.482 42.0764 23.2255H54V46Z" fill="currentColor"/></svg><blockquote class="dcom-c-testimonials__quote"><p>"What we are seeing is that the highest quality companies face a seller's market, regardless of sector. There is always a premium on quality, but that effect may be stronger than usual as the market continues to work through the backlog of activity."</p></blockquote>
+                           </div>
+                           <div class="dcom-c-testimonials__avatar-container"><img src="https://p1.aprimocdn.net/citizensbank/b4fefc59-03a7-44d6-91f1-b252014bbbb5/andrew-male-J059614-headshot_Testimonial-R.JPG" alt="" loading="lazy" class="dcom-c-testimonials__avatar" width="72px" height="72px" srcset="https://p1.aprimocdn.net/citizensbank/b4fefc59-03a7-44d6-91f1-b252014bbbb5/andrew-male-J059614-headshot_Testimonial-R.JPG 72w, https://p1.aprimocdn.net/citizensbank/b4fefc59-03a7-44d6-91f1-b252014bbbb5/andrew-male-J059614-headshot_Testimonial-R.JPG 144w"><div class="dcom-c-testimonials__avatar-details">
+                                 <p class="dcom-c-testimonials__name">Andy Male</p>
+                                 <p class="dcom-c-testimonials__occupation">Managing Director, M&A Advisory</p>
+                              </div>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008791">
+  <style>#iw_comp1733585008791{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/TextBlock/text-block.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-textBlock  dcom-c-textBlock--full-width dcom-component__padding-top--medium dcom-component__padding-bottom--medium " id="interestrise">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto">
+                  <h2 class="dcom-c-textBlock__heading">Interest in AI and international deals is still growing</h2>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p>Among private equity firms, the majority expect deal flow to increase in 2025. Among those who anticipate more deals, one core reason is the ongoing race to add artificial intelligence (AI) companies and capabilities to fund portfolios. The breakthrough technology continues to mature into new use cases, including its expanding role in financial processes within midsize firms and sponsors, as seen in Citizens&rsquo; recent <a href="/corporate-finance/insights/artificial-intelligence-trends-report-2025.aspx">AI trends survey.</a></p>
+<p>Another trend that has grown since 2024 is the interest in finding international deal partners. Granted, most midsize U.S. companies are talking about nearby neighbors Canada and Mexico &ndash; but many are also open to deals with parties in the UK or Europe.</p>
+<p><img src="https://p1.aprimocdn.net/citizensbank/40c58ebb-8453-4887-b226-b257010c8be4/14202_01_CIT_M%26A-Outlook-2025-Web-Page-Assets_V4_rel_09_Original%20file.jpg" alt="International M and A interest remains strong. Sentiment shift from 2024 carries through to this year's survey results."></p></div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto">
+                  <h2 class="dcom-c-textBlock__heading">Actions to consider in 2025</h2>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><ul>
+<li>If selling, be prepared to go through a thorough marketing process. Though activity is recovering, the buyer pool remains thin in certain areas of the market. A thoughtful and comprehensive approach to marketing can add significant value to the final deal terms.</li>
+<li>With balanced market dynamics, deals are still moving at a measured pace. However, if the M&amp;A market surges in 2025, it could shift to a seller&rsquo;s environment quickly. Buyers may be penalized for moving slowly.</li>
+<li>Market dynamics still differ considerably by sector. It&rsquo;s important to find an advisor who knows your specific space and has the relationships to generate interest and opportunities.</li>
+</ul></div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto">
+                  <h2 class="dcom-c-textBlock__heading">Explanation of methodology</h2>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12 cbds-l-grid__col--8@xl  cbds-u-margin__auto"><p>The Citizens 2025 M&amp;A Outlook reflects data from the 14th annual survey of M&amp;A decision-makers in the U.S. midsize market, defined as companies with $25M to $1B in annual revenue. Research was conducted over October and November of 2024, in partnership with independent market research firm Escalent. Researchers surveyed 400 midsize-company CEOs, CFOs, and private equity principals who participate in the midsize market. Respondents were selected to represent a mix of sectors and are not necessarily clients of Citizens.</p></div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008792">
+  <style>#iw_comp1733585008792{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/CallToActionStandalone/call-to-action-standalone.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--md">
+      <section class="dcom-c-cta-standalone  ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <div class="dcom-c-cta-standalone__content">
+                     <h2 class="dcom-c-cta-standalone__heading">Get more details on the 2025 M&A Outlook</h2><a class="cbds-c-button cbds-c-button--contained  cbds-c-button cbds-c-button--contained" href="https://p1.aprimocdn.net/citizensbank/495950e0-8c07-4d42-b333-b25d00f20786/Citizens_MA_2025_Outlook_Original%20file.pdf" target="_self"><span class="cbds-c-button__label">Download the report</span></a></div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div><script type="module" src="/assets/CB_resources/GlobalComponents/CallToActionStandalone/call-to-action-standalone.min.js"></script></html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008793">
+  <style>#iw_comp1733585008793{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/SectionTitleGlobal/section-title-global.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--md">
+      <div class="dcom-c-section-title-global cbds-u-backgroundColor--grey dcom-component__padding-top--medium dcom-component__padding-bottom--none ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <h2 class="dcom-c-section-title-global__header dcom-c-section-title-global__header--commercial-green">Ready to take the next step? Get in touch with our team.</h2>
+                  <p class="dcom-c-section-title-global__subheader">All fields are required unless marked as "Optional".</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008794">
+  <style>#iw_comp1733585008794{}</style><script xmlns:xlink="http://www.w3.org/1999/xlink" type="text/javascript">            
+			var jsonfile = '/iwov-resources/messages/forms/messages';
+			var locale = '';			
+			</script><style xmlns:xlink="http://www.w3.org/1999/xlink" type="text/css">
+				 
+		
+		 .hint-block 
+		 {
+			  font-size:14px;
+			  display: block;
+			  margin-top: -5px;
+			  margin-bottom: 16px;
+			  color: #737373;
+		 }
+		 .hide
+		 {
+		    display:none;
+		 }
+		
+		
+			</style><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <link rel="stylesheet" type="text/css" href="/iwov-resources/scripts/jQuery-datetimepicker/jquery.datetimepicker.min.css"><script src="/iwov-resources/scripts/jQuery/jquery.min.js"></script><script>
+	$(document).ready(function() {
+		$.getScript("/iwov-resources/scripts/jQuery-datetimepicker/jquery.datetimepicker.full.min.js");
+	});
+</script><script src="/iwov-resources/scripts/forms/formrenderer.js"></script>
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5BMP7-Q46DH-MA9ZE-K574A-MZT88",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5BMP7-Q46DH-MA9ZE-K574A-MZT88";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="bv6uzsyx3wnzw2bgbqhq-f-f26249a77-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1415775","ak.ai":parseInt("340899",10),"ak.ol":"0","ak.cr":7,"ak.ipv":4,"ak.proto":"h2","ak.rid":"114e0596","ak.r":23491,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.125.76.0","ak.cport":65476,"ak.gh":"23.67.53.68","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747323919","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==MbRZIcMN7NTEzwOE+0ETobWSl8+pYIEuUsiWXj34ftCMS4SUhVASMnmhffs6mLhjOyH4zSV1R80mIq8SYvoObfo7BBwAWvweJIyBr0wyDzi/nn+hhMKZyPFNgkLWT1pMk10GR5kuZoaB7ApfZxb1Y8rp7SkJod/y86ypdWbHEsjkEFwPvRky1YCMKB2jx0hHvG+hYcf9+3piqINOngf3t/+rKMq6uJDxqInI8u553C92OGGga6u5VjsGbg9MoSPMx2IwUUZIukPJR/hcE6COp2rKO9V8TnwwCgV7tm3jJVhYz0inE/b+HySawDLg5wLOeK8gRKTGs2Y0U6xMjQNYuEJ0JOCQyJmei0EgdfPU5RHxpzg4gIEAA5x8zdkaLkFexJ3wGVFrdeLDplcU2WQNM8Tmu21oZLiRf9Aw2L8mNng=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   <body>
+      <div style="color:red" align="center" id="genericerrorpathid"></div>
+      <link rel="stylesheet" href="/assets/CB_resources/GlobalComponents/Form/forms-component.min.css" type="text/css">
+      <div class="cbds-u-topSpacing--none">
+         <section class="dcom-c-forms-component-container">
+            <div id="dcom-c-forms">
+               <div class="dcom-l-container cbds-l-grid">
+                  <div class="cbds-l-grid__row">
+                     <div class="cbds-l-grid__col">
+                        <form data-run-validation="true" class="cbds-c-form" formtype="" connectorname="" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" id="CommercialForm" name="dcom-c-forms-component" enctype="application/x-www-form-urlencoded" method="post" target="_self" autocomplete="true" novalidate="false" onsubmit="return isFormValid('dcom-c-forms-component','false');" onreset="return clearErrors('dcom-c-forms-component');"><input type="hidden" name="oid" id="oid" value="00D300000000XHP"><input type="hidden" name="00N5a00000DDPrF" id="00N5a00000DDPrF" value="www.citizensbank.com/corporate-finance/insights/mergers-acquisitions-outlook-2025.aspx"><div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="first_name">First Name</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id);" name="first_name" id="first_name" maxlength="40" title="Valid First Name required" pattern=""></div>
+                              <div id="cbds-formMicroalert-id-first_name" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid First Name required</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="last_name">Last Name</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id);" name="last_name" id="last_name" maxlength="80" title="Valid Last Name required" pattern=""></div>
+                              <div id="cbds-formMicroalert-id-last_name" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Last Name required</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="company">Company Name</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id);" name="company" id="company" maxlength="40" title="Valid Company Name required" pattern=""></div>
+                              <div id="cbds-formMicroalert-id-company" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Company Name required</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="company_state">Company State</label><div class="cbds-c-formElement__control">
+                                 <div class="cbds-c-select"><select class="cbds-c-select__select" required="" aria-required="true" aria-invalid="true" onblur="validateForm(this.form,this.id);" name="00N5a00000DDPrD" id="company_state" title="Company State">
+                                       <option class="cbds-c-select__option" selected="true" value="">Choose an option</option>
+                                       <option class="cbds-c-select__option" value="AL">AL</option>
+                                       <option class="cbds-c-select__option" value="AK">AK</option>
+                                       <option class="cbds-c-select__option" value="AZ">AZ</option>
+                                       <option class="cbds-c-select__option" value="AR">AR</option>
+                                       <option class="cbds-c-select__option" value="CA">CA</option>
+                                       <option class="cbds-c-select__option" value="CO">CO</option>
+                                       <option class="cbds-c-select__option" value="CT">CT</option>
+                                       <option class="cbds-c-select__option" value="DC">DC</option>
+                                       <option class="cbds-c-select__option" value="DE">DE</option>
+                                       <option class="cbds-c-select__option" value="FL">FL</option>
+                                       <option class="cbds-c-select__option" value="GA">GA</option>
+                                       <option class="cbds-c-select__option" value="HI">HI</option>
+                                       <option class="cbds-c-select__option" value="ID">ID</option>
+                                       <option class="cbds-c-select__option" value="IL">IL</option>
+                                       <option class="cbds-c-select__option" value="IN">IN</option>
+                                       <option class="cbds-c-select__option" value="IA">IA</option>
+                                       <option class="cbds-c-select__option" value="KS">KS</option>
+                                       <option class="cbds-c-select__option" value="KY">KY</option>
+                                       <option class="cbds-c-select__option" value="LA">LA</option>
+                                       <option class="cbds-c-select__option" value="ME">ME</option>
+                                       <option class="cbds-c-select__option" value="MD">MD</option>
+                                       <option class="cbds-c-select__option" value="MA">MA</option>
+                                       <option class="cbds-c-select__option" value="MI">MI</option>
+                                       <option class="cbds-c-select__option" value="MN">MN</option>
+                                       <option class="cbds-c-select__option" value="MS">MS</option>
+                                       <option class="cbds-c-select__option" value="MO">MO</option>
+                                       <option class="cbds-c-select__option" value="MT">MT</option>
+                                       <option class="cbds-c-select__option" value="NE">NE</option>
+                                       <option class="cbds-c-select__option" value="NV">NV</option>
+                                       <option class="cbds-c-select__option" value="NH">NH</option>
+                                       <option class="cbds-c-select__option" value="NJ">NJ</option>
+                                       <option class="cbds-c-select__option" value="NY">NM</option>
+                                       <option class="cbds-c-select__option" value="NYC Metro">NYC Metro</option>
+                                       <option class="cbds-c-select__option" value="NC">NC</option>
+                                       <option class="cbds-c-select__option" value="ND">ND</option>
+                                       <option class="cbds-c-select__option" value="OH">OH</option>
+                                       <option class="cbds-c-select__option" value="OK">OK</option>
+                                       <option class="cbds-c-select__option" value="OR">OR</option>
+                                       <option class="cbds-c-select__option" value="PA">PA</option>
+                                       <option class="cbds-c-select__option" value="RI">RI</option>
+                                       <option class="cbds-c-select__option" value="SC">SC</option>
+                                       <option class="cbds-c-select__option" value="SD">SD</option>
+                                       <option class="cbds-c-select__option" value="TN">TN</option>
+                                       <option class="cbds-c-select__option" value="TX">TX</option>
+                                       <option class="cbds-c-select__option" value="UT">UT</option>
+                                       <option class="cbds-c-select__option" value="VT">VT</option>
+                                       <option class="cbds-c-select__option" value="VA">VA</option>
+                                       <option class="cbds-c-select__option" value="WA">WA</option>
+                                       <option class="cbds-c-select__option" value="WV">WV</option>
+                                       <option class="cbds-c-select__option" value="WI">WI</option>
+                                       <option class="cbds-c-select__option" value="WY">WY</option></select><span class="cbds-c-select__indicator"><svg height="24" width="24" aria-hidden="true" focusable="false" role="img" class="cbds-c-icon cbds-c-select__indicatorIcon">
+                                          <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down"></use></svg></span></div>
+                              </div>
+                              <div id="cbds-formMicroalert-id-00N5a00000DDPrD" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Company State required.</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="phone">Phone Number</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id, true);&#xA;&#x9;&#x9;&#x9;&#x9;" validate="true" name="phone" id="phone" maxlength="10" title="Valid phone required must be 10 digits number 0-9" pattern="^\d{10}$"></div>
+                              <div id="cbds-formMicroalert-id-phone" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid phone required must be 10 digits number 0-9</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="email">Email</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id);" name="email" id="email" maxlength="80" title="Valid Email required must have @ included." pattern="^[\w\-_\.]+@[\w\-_\.]+\.\w+$"></div>
+                              <div id="cbds-formMicroalert-id-email" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Email required must have @ included.</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="capability_of_interest">Capability of Interest</label><div class="cbds-c-formElement__control">
+                                 <div class="cbds-c-select"><select class="cbds-c-select__select" required="" aria-required="true" aria-invalid="true" onblur="validateForm(this.form,this.id);" name="00N5a00000DDPrB" id="capability_of_interest" title="Capability of Interest">
+                                       <option class="cbds-c-select__option" selected="true" value="">Choose an option</option>
+                                       <option class="cbds-c-select__option" value="Capital Markets">Capital Markets</option>
+                                       <option class="cbds-c-select__option" value="Credit Card / Payments">Credit Card / Payments</option>
+                                       <option class="cbds-c-select__option" value="Financing">Financing</option>
+                                       <option class="cbds-c-select__option" value="MandA">MandA</option>
+                                       <option class="cbds-c-select__option" value="Treasury Management">Treasury Management</option>
+                                       <option class="cbds-c-select__option" value="Risk Management">Risk Management</option>
+                                       <option class="cbds-c-select__option" value="Commercial Real Estate">Commercial Real Estate</option>
+                                       <option class="cbds-c-select__option" value="Other (specify)">Other (specify)</option></select><span class="cbds-c-select__indicator"><svg height="24" width="24" aria-hidden="true" focusable="false" role="img" class="cbds-c-icon cbds-c-select__indicatorIcon">
+                                          <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down"></use></svg></span></div>
+                              </div>
+                              <div id="cbds-formMicroalert-id-00N5a00000DDPrB" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Capability of Interest required.</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="capability_of_interest_other_interest">Other Interest</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id);" name="00N5a00000DDPrE" id="capability_of_interest_other_interest" maxlength="255" title="Valid other interest required" pattern=""></div>
+                              <div id="cbds-formMicroalert-id-00N5a00000DDPrE" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid other interest required</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="company_revenue_size">Company Revenue Size</label><div class="cbds-c-formElement__control">
+                                 <div class="cbds-c-select"><select class="cbds-c-select__select" required="" aria-required="true" aria-invalid="true" onblur="validateForm(this.form,this.id);" name="00N5a00000DDPrA" id="company_revenue_size" title="Company Revenue Size">
+                                       <option class="cbds-c-select__option" selected="true" value="">Choose an option</option>
+                                       <option class="cbds-c-select__option" value="$0-25mm">$0-25MM</option>
+                                       <option class="cbds-c-select__option" value="$25-100mm">$25-100MM</option>
+                                       <option class="cbds-c-select__option" value="$100-$500mm">$100-$500MM</option>
+                                       <option class="cbds-c-select__option" value="$500mm+">$500MM+</option></select><span class="cbds-c-select__indicator"><svg height="24" width="24" aria-hidden="true" focusable="false" role="img" class="cbds-c-icon cbds-c-select__indicatorIcon">
+                                          <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down"></use></svg></span></div>
+                              </div>
+                              <div id="cbds-formMicroalert-id-00N5a00000DDPrA" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Annual Revenue required.</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="how_can_we_help">How can we help?<span class="dcom-c-formElement__label--optional"> (Optional)</span></label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" aria-required="false" name="00N5a00000DDPrC" id="how_can_we_help" maxlength="" title="" pattern=""><div style="color:red" align="left" id="how_can_we_help_errortext"></div>
+                              </div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="_464"></label><div class="cbds-c-formElement__control"></div>
+                           </div><button class="cbds-c-button cbds-c-button--contained cbensightenevent" data-cbdata-type="button" data-cbdata-reason="dcom-c-forms-component-container--submit" type="submit"><span class="cbds-c-button__label">Submit</span></button></form>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+      </div>
+      <div class="dcom-c-overlay-component cbds-u-display__none" id="dcom-form-component-overlay-success">
+         <div class="dcom-c-overlay-component__content">
+            <div class="dcom-c-forms-component-success-container" id="dcom-c-forms-component-success-container">
+               <div class="dcom-c-forms-component-success-container__icon-container">
+                  <div id="cbds-formMicroalert-id-form-success" class="cbds-c-formMicroalert"><svg fill="green" height="48" width="48" aria-label="Success:" focusable="false" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                        <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#checkmark-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#checkmark-circle"></use></svg></div>
+               </div>
+               <h2 class="dcom-c-forms-component-success-container__title">Thank you!</h2>
+               <p class="dcom-c-forms-component-success-container__details">We have received your inquiry. A Citizens Securities, Inc. (CSI) Advisor will be in
+                  touch shortly.</p>
+               <p style="font-size:10px">This popup will be autoclosed.</p>
+            </div>
+         </div>
+      </div><script src="/iwov-resources/scripts/forms/CommercialForms.min.js" type="text/javascript"></script><script type="text/javascript">
+       window.addEventListener('load', (event) => {
+			setdefaults('CommercialForm');
+			
+				focusElement('CommercialForm');
+			
+		});
+   	
+	</script></body>
+</html>
+ </div>
+</div>
+<div class="iw_placeholder" id="iw_placeholder1686033793418">
+ <div class="iw_component" id="iw_comp1733585008795">
+  <style>#iw_comp1733585008795{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/FooterGlobal/footer-global.min.css" rel="stylesheet" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5BMP7-Q46DH-MA9ZE-K574A-MZT88",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5BMP7-Q46DH-MA9ZE-K574A-MZT88";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="bv6uzsyx3wnzw2bgbqhq-f-f26249a77-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1415775","ak.ai":parseInt("340899",10),"ak.ol":"0","ak.cr":7,"ak.ipv":4,"ak.proto":"h2","ak.rid":"114e0596","ak.r":23491,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.125.76.0","ak.cport":65476,"ak.gh":"23.67.53.68","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747323919","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==MbRZIcMN7NTEzwOE+0ETobWSl8+pYIEuUsiWXj34ftCMS4SUhVASMnmhffs6mLhjOyH4zSV1R80mIq8SYvoObfo7BBwAWvweJIyBr0wyDzi/nn+hhMKZyPFNgkLWT1pMk10GR5kuZoaB7ApfZxb1Y8rp7SkJod/y86ypdWbHEsjkEFwPvRky1YCMKB2jx0hHvG+hYcf9+3piqINOngf3t/+rKMq6uJDxqInI8u553C92OGGga6u5VjsGbg9MoSPMx2IwUUZIukPJR/hcE6COp2rKO9V8TnwwCgV7tm3jJVhYz0inE/b+HySawDLg5wLOeK8gRKTGs2Y0U6xMjQNYuEJ0JOCQyJmei0EgdfPU5RHxpzg4gIEAA5x8zdkaLkFexJ3wGVFrdeLDplcU2WQNM8Tmu21oZLiRf9Aw2L8mNng=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   <div class="cbds-u-topSpacing--none">
+      <footer class="cbds-c-globalFooter dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-c-globalFooter__primarySection">
+            <div class="cbds-l-grid--@xl">
+               <div class="cbds-l-grid__row cbds-c-globalFooter__main">
+                  <div class="cbds-l-grid__col--12 cbds-l-grid__col--3@lg cbds-l-grid__col--3@md"><img src="/assets/CB_resources/images/cbds-logos/logo-citizens__horz-deepGreen.svg" alt="citizens commercial" loading="eager" class="dcom-logo dcom-logo--commercial dcom-c-nav-header__logo dcom-c-navigation-bar-header__logo" width="174px" height="28px"></div>
+                  <div class="cbds-l-grid__col--12 cbds-l-grid__col--6@lg cbds-l-grid__col--8@md">
+                     <nav class="cbds-c-globalFooterPrimaryNav" aria-label="Footer Primary">
+                        <div class="cbds-l-grid__row">
+                           <div class="cbds-c-globalFooterPrimaryNav__column">
+                              <h5 class="cbds-c-globalFooterPrimaryNav__heading">Company</h5>
+                              <ul class="cbds-c-globalFooterPrimaryNav__list" id="cbds-c-footer__nav-Company">
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="https://investor.citizensbank.com/about-us/our-company.aspx" target="_self"><span>About Us</span></a></li>
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="https://jobs.citizensbank.com/commercial-banking?utm_source=citizensbank.com&amp;utm_medium=referral&amp;utm_campaign=careersite" target="_self"><span>Career</span></a></li>
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="/community/overview.aspx" target="_self"><span>Community</span></a></li>
+                              </ul>
+                           </div>
+                           <div class="cbds-c-globalFooterPrimaryNav__column">
+                              <h5 class="cbds-c-globalFooterPrimaryNav__heading">Help</h5>
+                              <ul class="cbds-c-globalFooterPrimaryNav__list" id="cbds-c-footer__nav-Help">
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="/customer-service/contact-us.aspx" target="_self"><span>Contact Us</span></a></li>
+                              </ul>
+                           </div>
+                           <div class="cbds-c-globalFooterPrimaryNav__column">
+                              <h5 class="cbds-c-globalFooterPrimaryNav__heading">Resources</h5>
+                              <ul class="cbds-c-globalFooterPrimaryNav__list" id="cbds-c-footer__nav-Resources">
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="/customer-service/branch-locator.aspx" target="_self"><span>Branch Locator</span></a></li>
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="/corporate-finance/insights.aspx" target="_self"><span>Insights</span></a></li>
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " id="custfeedback" href="#0" target="_self"><span>Share Feedback</span></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="cbds-c-globalFooter__secondarySection">
+            <div class="cbds-l-grid--@xl">
+               <div class="cbds-l-grid__row">
+                  <div class="cbds-l-grid__col--12">
+                     <ul class="cbds-c-globalFooterSocialMedia">
+                        <li class="cbds-c-globalFooterSocialMedia__item"><a href="https://www.linkedin.com/company/citizenscommercialbanking" class="cbds-c-iconButton cbds-c-iconButton--textTertiary cbds-c-iconButton--sm cbds-c-globalFooterSocialMedia__button" target="_blank" aria-label="Citizens Bank Linkedin" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon cbds-c-iconButton__icon  " aria-hidden="true">
+                                 <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#linkedin"/></svg></a></li>
+                        <li class="cbds-c-globalFooterSocialMedia__item"><a href="https://twitter.com/CFGCommercial" class="cbds-c-iconButton cbds-c-iconButton--textTertiary cbds-c-iconButton--sm cbds-c-globalFooterSocialMedia__button" target="_blank" aria-label="Citizens Bank Twitter" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon cbds-c-iconButton__icon  " aria-hidden="true">
+                                 <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-brand.svg#twitter"/></svg></a></li>
+                        <li class="cbds-c-globalFooterSocialMedia__item"><a href="https://www.youtube.com/channel/UCJbwTXaW4kY_VihhzTllnUg" class="cbds-c-iconButton cbds-c-iconButton--textTertiary cbds-c-iconButton--sm cbds-c-globalFooterSocialMedia__button" target="_blank" aria-label="Citizens Bank YouTube" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon cbds-c-iconButton__icon  " aria-hidden="true">
+                                 <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-brand.svg#youtube"/></svg></a></li>
+                     </ul>
+                  </div>
+               </div>
+               <nav class="cbds-c-globalFooterUtilityNav" aria-label="Footer Utility">
+                  <ul class="cbds-c-globalFooterUtilityNav__list">
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/about-our-ads/overview.aspx" target="_self"><span>About Our Ads</span></a></li>
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/site-requirements/overview.aspx" target="_self"><span>Site Requirements</span></a></li>
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/account-safeguards/overview.aspx" target="_self"><span>Security &amp; Legal</span></a></li>
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/account-safeguards/privacy.aspx" target="_self"><span>Privacy Policy</span></a></li>
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/account-safeguards/privacy.aspx" target="_self"><span>Privacy Rights</span></a></li>
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/ada-compliance/overview.aspx" target="_self"><span>Accessibility</span></a></li>
+                  </ul>
+               </nav>
+            </div>
+         </div>
+      </footer>
+   </div><script type="module" src="/assets/CB_resources/GlobalComponents/FooterGlobal/footer-global.min.js"></script></html>
+ </div>
+ <div class="iw_component" id="iw_comp1733585008796">
+  <style>#iw_comp1733585008796{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/styles/foundation-support.css" rel="stylesheet" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5BMP7-Q46DH-MA9ZE-K574A-MZT88",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5BMP7-Q46DH-MA9ZE-K574A-MZT88";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="bv6uzsyx3wnzw2bgbqhq-f-f26249a77-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1415775","ak.ai":parseInt("340899",10),"ak.ol":"0","ak.cr":7,"ak.ipv":4,"ak.proto":"h2","ak.rid":"114e0596","ak.r":23491,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.125.76.0","ak.cport":65476,"ak.gh":"23.67.53.68","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747323919","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==MbRZIcMN7NTEzwOE+0ETobWSl8+pYIEuUsiWXj34ftCMS4SUhVASMnmhffs6mLhjOyH4zSV1R80mIq8SYvoObfo7BBwAWvweJIyBr0wyDzi/nn+hhMKZyPFNgkLWT1pMk10GR5kuZoaB7ApfZxb1Y8rp7SkJod/y86ypdWbHEsjkEFwPvRky1YCMKB2jx0hHvG+hYcf9+3piqINOngf3t/+rKMq6uJDxqInI8u553C92OGGga6u5VjsGbg9MoSPMx2IwUUZIukPJR/hcE6COp2rKO9V8TnwwCgV7tm3jJVhYz0inE/b+HySawDLg5wLOeK8gRKTGs2Y0U6xMjQNYuEJ0JOCQyJmei0EgdfPU5RHxpzg4gIEAA5x8zdkaLkFexJ3wGVFrdeLDplcU2WQNM8Tmu21oZLiRf9Aw2L8mNng=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   <section class="dcom-c-disclosure">
+      <div class="cbds-l-grid dcom-c-disclosure__wrapper">
+         <div class="cbds-l-grid__row">
+            <div class="cbds-l-grid__col--12@sm">
+               <p class="dcom-c-disclosure__paragraph--disclosure">
+                  				© 
+                  			<span id="copyright"><script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span>
+                  Citizens Financial Group, Inc. All rights reserved. Citizens is a brand name of Citizens
+                  Bank, N.A. Member FDIC
+                  </p>
+               <div class="dcom-c-disclosure__securities">
+                  <p><p class="cbds-u-paddingBottom__4x">&ldquo;Citizens&rdquo; is the marketing name for the business of Citizens Financial Group, Inc. (&ldquo;CFG&rdquo;) and its subsidiaries. &ldquo;Citizens Capital Markets &amp; Advisory&rdquo; is the marketing name for the investment banking, research, sales, and trading activities of our institutional broker-dealer, Citizens JMP Securities, LLC (&ldquo;CJMPS&rdquo;), Member <a href="https://brokercheck.finra.org/firm/summary/22208" target="_blank" rel="noopener">FINRA </a>and <a href="https://www.sipc.org/" target="_blank" rel="noopener">SIPC</a> (See<a href="https://brokercheck.finra.org/firm/summary/22208" target="_blank" rel="noopener"> FINRA BrokerCheck</a> and <a href="https://www.sipc.org/" target="_blank" rel="noopener">SIPC.org</a>). Securities products and services are offered to institutional clients through CJMPS. (<a href="/corporate-finance/disclosures/citizens-jmp.aspx">CJMPS disclosures</a>&nbsp;and <a href="https://files.brokercheck.finra.org/crs_22208.pdf" target="_blank" rel="noopener">CJMP Form CRS</a>). Banking products and services are offered through Citizens Bank, N.A., Member FDIC. Citizens Valuation Services is a business division of Willamette Management Associates, Inc. (a wholly owned subsidiary of CFG).</p>
+<p class="cbds-u-paddingBottom__4x">Securities and investment products are subject to risk, including principal amount invested and are: NOT FDIC INSURED &middot; NOT BANK GUARANTEED &middot; MAY LOSE VALUE</p>
+<p>&nbsp;</p></p>
+               </div>
+               <div class="dcom-c-disclosure__logos">
+                  <div class="cbds-l-grid__row cbds-u-flexJustifyContent__end@sm">
+                     <div class="cbds-l-grid__col--12">
+                        <ul class="dcom-c-disclosure__logos-list">
+                           <li class="dcom-c-li"><img src="/assets/CB_resources/images/cbds-icons/disclosureIcons/housing.svg" alt="Equal Housing Lender Logo"></li>
+                           <li class="dcom-c-li"><img src="/assets/CB_resources/images/cbds-icons/disclosureIcons/verisign.svg" alt="Verisign Logo"></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section><script type="text/javascript" src="/assets/CB_resources/scripts/personalization_disclosure.js"></script><script src="/assets/CB_resources/scripts/vendor/vendor-bottom.min.js"></script><script src="/assets/CB_resources/scripts/main.min.js"></script><script type="text/javascript" src="/assets/CB_resources/scripts/dotcomAnalyticsDataLayer.js"></script></html>
+ </div>
+</div>
+<div class="dcom-c-textBlock--disclosure">
+ <div class="iw_placeholder" id="iw_placeholder1733585015725"></div>
+</div></div><script type="text/javascript">_satellite.pageBottom();</script><!--ls:end[body]--><!--ls:begin[page_track]--><!--ls:end[page_track]--></body>
+</html>

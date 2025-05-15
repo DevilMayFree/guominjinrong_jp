@@ -1,0 +1,854 @@
+<!DOCTYPE html>
+<!DOCTYPE HTML><html lang="en" prefix="og: http://ogp.me/ns#">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <title>Financial Institutions: Corporate Finance - Commercial Banking | Citizens</title>
+      <!--grid-layout--><!--ls:begin[stylesheet]-->
+      <style type="text/css">
+          
+          .iw_container
+          {
+            max-width:800px !important;
+            margin-left: auto !important;
+            margin-right: auto !important;
+          }
+          .iw_stretch
+          {
+            min-width: 100% !important;
+          }
+        </style><script type="text/javascript">
+	// script to add keyup event and make escape functional to exit from preview
+	// only if it is a preview environment.
+	var frame = window.frameElement;
+	if (frame && frame.src.indexOf("/iw-preview") != -1) {
+		document.addEventListener("DOMContentLoaded", function () {
+			document.body.addEventListener("keyup", function (event) {
+				var key = event.keyCode;
+				if (key === 27) {
+					frame.parentElement.ownerDocument.dispatchEvent(new KeyboardEvent('keyup', {keyCode: key}));
+				}
+			});
+		});
+	}
+	</script><style type="text/css"></style>
+      <!--ls:begin[canonical]--><!--ls:end[canonical]--><!--ls:begin[script]--><!--ls:end[script]--><!--ls:begin[meta-keywords]-->
+      <meta name="keywords" content="">
+      <!--ls:end[meta-keywords]--><!--ls:begin[meta-description]-->
+      <meta name="description" content="Learn how Citizens Corporate Finance supports non-bank financial institutions with industry expertise, best-in-class solutions and high-touch client service.">
+      <!--ls:end[meta-description]--><!--ls:begin[custom-meta-data]-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+      <meta datalayer="cbpgType" content="industryexpertise">
+      <meta datalayer="cbpgsubType" content="industryexpertise">
+      <meta datalayer="cbpgFunction" content="industries-financialservicessectorservices">
+      <meta datalayer="cbpgName" content="view">
+      <meta datalayer="cbproduct" content="commercial">
+      <meta datalayer="cbtype" content="consumer">
+      <meta datalayer="cbbrand" content="cb">
+      <meta datalayer="cbpgproductType" content="null">
+      <meta datalayer="cbpgSubFunction" content="null">
+      <meta datalayer="cbpgCategory" content="null">
+      <!--ls:end[custom-meta-data]--><!--ls:begin[meta-vpath]-->
+      <meta name="vpath" content="">
+      <!--ls:end[meta-vpath]--><!--ls:begin[meta-page-locale-name]-->
+      <meta name="page-locale-name" content="">
+      <!--ls:end[meta-page-locale-name]--><!--ls:begin[stylesheet]-->
+      <link rel="stylesheet" href="/assets/CB_resources/styles/globalComponents.css" type="text/css" data-ocde-desktop_or_tablet_or_phone="show">
+      <!--ls:end[stylesheet]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/vendor/jquery-2.2.0.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/siteTop.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="//cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/vendor/main.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/vendor/vendor-bottom.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/vendor/vendor-top.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/globalComponents.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/svgxuse.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/globalComponentsSupport.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/globalComponentsControl.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/custom/canonical.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/vendor/dotcomAnalytics.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/dotcomAnalyticsheadDataLayer.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[script]--><script src="/assets/CB_resources/scripts/regionalization.min.js" type="text/javascript" data-ocde-desktop_or_tablet_or_phone="show"></script>
+      <!--ls:end[script]--><!--ls:begin[favicon]--><link rel="shortcut icon" href="/assets/CB_resources/images/favicon.ico" type="image/x-icon">
+      <!--ls:end[favicon]--><!--ls:begin[stylesheet]-->
+      <link rel="stylesheet" href="/assets/CB_resources/styles/disclosure.css" type="text/css" data-ocde-desktop_or_tablet_or_phone="show">
+      <!--ls:end[stylesheet]--><!--ls:begin[head-injection]--><script type="text/javascript" src="//assets.adobedtm.com/c6a477a8a7f5/67e13b3dacd1/launch-7cea2ebfa8de.min.js" ></script><!--ls:end[head-injection]--><!--ls:begin[tracker-injection]--><!--ls:end[tracker-injection]--><!--ls:begin[script]--><!--ls:end[script]--><!--ls:begin[script]--><!--ls:end[script]-->
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5BMP7-Q46DH-MA9ZE-K574A-MZT88",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5BMP7-Q46DH-MA9ZE-K574A-MZT88";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="bv6uzsyxffo7y2bgbcwq-f-f326a8fe6-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1415775","ak.ai":parseInt("340899",10),"ak.ol":"0","ak.cr":2,"ak.ipv":4,"ak.proto":"h2","ak.rid":"3cc4628","ak.r":23482,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.125.76.0","ak.cport":49352,"ak.gh":"104.70.122.29","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747323053","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==I3U8KInHA2qKlqpy1CkKCMuRoxVltqTZgQjOchRx0hUiTaX/y4+cTv11XMsEuN0W2brLGFSrNik8EABOVdoXt8xLFEyG5JZw3RUbgE30EwOSW/4S1rb603wXAiW9lymK65vNUOwAojLZZD75v+YiAf9zYtdtktMHRf9uFEYK2txJEw3o6sRS77q8Tymc9gHE7xBJn+/f12kN1LmQMj161i8+jIVt1xDk0njG5lW0x/agIMJzymXKX6JOvskPBbgX1zj1SBLBk7aXZwDEz/obK9icXA+B20Pz7gNdSDoJ5jC4WSfhA8G8UcnU56xzrSlKp4p+6KIiUJ3aqzuBMQLW0trYPfn58bGws783eV1p4CHEI3qRxe9XYShBXvzcRkQqlaT9MMKDnoVByiwr58HsaNykmhYkjmX+ID9/gWv+Zgw=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   <body><!--ls:begin[body]-->
+      <div class="iw_viewport-wrapper"><div class="iw_placeholder" id="iw_placeholder1686033793416">
+ <div class="iw_component" id="iw_comp1663478803320">
+  <style>#iw_comp1663478803320{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link type="text/css" href="/assets/CB_resources/GlobalComponents/NavigationGlobal/navigation-global.min.css" rel="stylesheet">
+   <link type="text/css" href="/assets/CB_resources/GlobalComponents/FDICContent/fdic-content.min.css" rel="stylesheet">
+   <header class="dcom-c-header">
+      <section class="dcom-c-nav-header" id="dcom_navGlobal_header">
+         <div class="cbds-l-grid dcom-l-container">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <nav aria-label="Primary Navigation" class="dcom-c-nav-header__nav dcom-c-nav-header__nav--citizens-commercial"><a href="/corporate-finance/default.aspx"><img src="/assets/CB_resources/images/cbds-logos/logo-citizens__horz-deepGreen.svg" alt="citizens commercial" loading="eager" class="dcom-logo dcom-logo--commercial dcom-c-nav-header__logo dcom-c-navigation-bar-header__logo" width="174px" height="28px"></a><ul class="dcom-c-nav-header__ul dcom-hide-on-mobile"></ul>
+                     <div class="dcom-mobile-only dcom-c-li cbds-u-display__inlineFlex">
+                        <div class="dcom-c-navigation-bar__login" id="dcom-c-login-mobile"><button class="dcom-c-btn dcom-c-btn--small dcom-c-btn--primary"><svg class="cbds-c-icon cbds-c-button__icon" aria-hidden="true" focusable="false">
+                                 <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#lock"></use></svg>Log in
+                              </button></div><button class="dcom-c-btn dcom-c-iconBtn" aria-label="Accessible icon button label" id="dcom-nav-mobile-menu"><svg class="cbds-c-icon cbds-c-iconButton__icon" aria-hidden="true" focusable="false">
+                              <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#menu"></use></svg></button></div>
+                  </nav>
+               </div>
+            </div>
+         </div>
+      </section>
+      <section class="dcom-c-navigation-bar" id="dcom_navGlobal_bar">
+         <div class="cbds-l-grid dcom-l-container dcom-c-navigation-bar-desktop" id="dcom_nav_desktop">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <div class="dcom-c-navigation-bar__primary-row">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Primary Navigation" id="primary_nav">
+                        <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-primary">
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="primary" id="primary-dcom-navrow-0"><a class="dcom-c-navigation-bar__link" title="Personal Navigation" id="Personal" href="/homepage.aspx"><span>Personal</span></a></li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="primary" id="primary-dcom-navrow-1"><a class="dcom-c-navigation-bar__link" title="Business Navigation" id="Business" href="/small-business/overview.aspx"><span>Business</span></a></li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="primary" id="primary-dcom-navrow-2"><a class="dcom-c-navigation-bar__link" title="Corporate Navigation" id="Corporate" href="/corporate-finance/overview.aspx"><span>Corporate</span></a></li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="primary" id="primary-dcom-navrow-3"><a class="dcom-c-navigation-bar__link" title="Private Bank Navigation" id="Private Bank" href="/private-banking/overview.aspx"><span>Private Bank</span></a></li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="primary" id="primary-dcom-navrow-4"><a class="dcom-c-navigation-bar__link" title="About Us Navigation" id="About Us" href="https://investor.citizensbank.com/about-us.aspx"><span>About Us</span></a></li>
+                        </ul>
+                     </nav>
+                     <div class="dcom-c-navigation-bar__controls">
+                        <div class="dcom-c-navigation-bar__search">
+                           <form id="dcom-desktop-search-form" style="all:inherit" action="/cfg/corporate-finance/industries/financial-services.aspx?submit=true&amp;componentID=1663478803320" method="post"><input type="submit" style="display:none"><a class="dcom-nav-desktop-search"><svg class="dcom-c-navigation-bar__search-icon cbds-c-icon cbds-c-button__icon" aria-label="Search button" focusable="false">
+                                    <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#search"></use></svg></a><input id="dcom-desktop_search-query" type="text" aria-describedby="searchDescrip" placeholder="How can we help you?"><span hidden="" id="searchDescrip">How can we help you?</span></form>
+                        </div>
+                        <div class="dcom-c-navigation-bar__login" id="dcom-c-login-desktop"><button class="dcom-c-btn dcom-c-btn--small dcom-c-btn--primary"><svg class="cbds-c-icon cbds-c-button__icon" aria-hidden="true" focusable="false">
+                                 <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#lock"></use></svg>Log in</button></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12" id="dcom-nav-secondary">
+                  <div class="dcom-c-navigation-bar__secondary-row dcom-c-navigation-bar__secondary-row--hidden" id="dcom-navrow-0">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Secondary Navigation">
+                        <ul class="dcom-nav-secondary-links dcom-c-navigation-bar__ul"></ul>
+                     </nav>
+                  </div>
+                  <div class="dcom-c-navigation-bar__secondary-row dcom-c-navigation-bar__secondary-row--hidden" id="dcom-navrow-1">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Secondary Navigation">
+                        <ul class="dcom-nav-secondary-links dcom-c-navigation-bar__ul"></ul>
+                     </nav>
+                  </div>
+                  <div class="dcom-c-navigation-bar__secondary-row dcom-c-navigation-bar__secondary-row--hidden" id="dcom-navrow-2">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Secondary Navigation">
+                        <ul class="dcom-nav-secondary-links dcom-c-navigation-bar__ul">
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" title="Solutions Navigation" href="#"><span>Solutions</span></a><div class="dcom-c-navigation-bar__dropdown dcom-c-navigation-bar__dropdown--hidden"><a href="/corporate-finance/capability/financing/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Financing Navigation">Financing</a><a href="/corporate-finance/capability/capital-markets/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Capital Markets &amp; Advisory Navigation">Capital Markets & Advisory</a><a href="/corporate-finance/capability/risk-management/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Risk Management Navigation">Risk Management</a><a href="/corporate-finance/capability/treasury-management/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Treasury Management Navigation">Treasury Management</a><a href="/corporate-finance/capability/credit-card-and-payment-services/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Credit Card &amp; Payment Services Navigation">Credit Card & Payment Services</a></div>
+                           </li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" title="Industries Navigation" href="#"><span>Industries</span></a><div class="dcom-c-navigation-bar__dropdown dcom-c-navigation-bar__dropdown--hidden"><a href="/corporate-finance/industries/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Industry Expertise Navigation">Industry Expertise</a><a href="/corporate-finance/industries/aerospace-defense-and-government-services.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Aerospace, Defense, &amp; Government Services Navigation">Aerospace, Defense, & Government Services</a><a href="/corporate-finance/industries/business-services.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Business Services Navigation">Business Services</a><a href="/corporate-finance/industries/consumer-restaurant-food-service-franchise.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Consumer/Restaurant/Food Services/Franchise Navigation">Consumer/Restaurant/Food Services/Franchise</a><a href="/corporate-finance/industries/financial-services.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Financial Services Navigation">Financial Services</a><a href="/corporate-finance/industries/real-estate-gaming-lodging-leisure.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Real Estate Gaming, Lodging &amp; Leisure Navigation">Real Estate Gaming, Lodging & Leisure</a><a href="/corporate-finance/industries/government-banking.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Government Banking Navigation">Government Banking</a><a href="/corporate-finance/industries/healthcare.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Healthcare Navigation">Healthcare</a><a href="/corporate-finance/industries/industrials.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Industrial Navigation">Industrial</a><a href="/corporate-finance/industries/technology-and-communications.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Technology &amp; Communications Navigation">Technology & Communications</a><a href="/corporate-finance/industries/transportation-and-logistics.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Transportation &amp; Logistics Navigation">Transportation & Logistics</a></div>
+                           </li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" title="Insights Navigation" href="#"><span>Insights</span></a><div class="dcom-c-navigation-bar__dropdown dcom-c-navigation-bar__dropdown--hidden"><a href="/corporate-finance/insights.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Insights Library Navigation">Insights Library</a><a href="/corporate-finance/insights/artificial-intelligence-trends-report-2025.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="2025 AI Trends Navigation">2025 AI Trends</a></div>
+                           </li>
+                           <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" title="Why Citizens Navigation" href="#"><span>Why Citizens</span></a><div class="dcom-c-navigation-bar__dropdown dcom-c-navigation-bar__dropdown--hidden"><a href="/corporate-finance/why-citizens/overview.aspx" class="dcom-c-navigation-bar__link dcom-c-navigation-bar__dropdown-link" title="Our Approach Navigation">Our Approach</a></div>
+                           </li>
+                        </ul>
+                     </nav>
+                  </div>
+                  <div class="dcom-c-navigation-bar__secondary-row dcom-c-navigation-bar__secondary-row--hidden" id="dcom-navrow-3">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Secondary Navigation">
+                        <ul class="dcom-nav-secondary-links dcom-c-navigation-bar__ul"></ul>
+                     </nav>
+                  </div>
+                  <div class="dcom-c-navigation-bar__secondary-row dcom-c-navigation-bar__secondary-row--hidden" id="dcom-navrow-4">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Secondary Navigation">
+                        <ul class="dcom-nav-secondary-links dcom-c-navigation-bar__ul"></ul>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="dcom-c-navigation-bar-mobile ">
+            <div class="dcom-c-navigation-backdrop "></div>
+            <div class="dcom-c-navigation-mobilewrapper" id="dcom-nav-mobile">
+               <div class="dcom-c-navigation-bar-header"><a href="/corporate-finance/default.aspx"><img src="/assets/CB_resources/images/cbds-logos/logo-citizens__horz-deepGreen.svg" alt="citizens commercial" loading="eager" class="dcom-logo dcom-logo--commercial dcom-c-nav-header__logo dcom-c-navigation-bar-header__logo" width="174px" height="28px"></a><button aria-label="Close this dialog window" class="dcom-c-navigation-bar__close-button" id="dcom-nav-close">
+                     							✕
+                     </button></div>
+               <div class="dcom-c-navigation-bar__search">
+                  <form id="dcom-mobile-search-form" style="all:inherit" action="/cfg/corporate-finance/industries/financial-services.aspx?submit=true&amp;componentID=1663478803320" method="post"><input type="submit" style="display:none"><a class="dcom-nav-mobile-search"><svg class="dcom-c-navigation-bar__search-icon cbds-c-icon cbds-c-button__icon" aria-label="Mobile Search button" focusable="false">
+                           <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#search"></use></svg></a><input id="dcom-mobile_search-query" type="text" placeholder="How can we help you?"></form>
+               </div>
+               <div class="dcom-c-navigation-bar__mobile">
+                  <nav class="dcom-c-navigation-bar__nav dcom-c-navigation-bar__mobile-primary" aria-label="Primary Navigation" id="primary_nav">
+                     <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-primary">
+                        <li class="dcom-c-li dcom-c-navigation-bar__li" id="mobile-primary-dcom-navrow-0"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__primary-link" navlevel="primary" title="Personal" id="navigation-li-Personal" href="/homepage.aspx"><span class="dcom-c-navigation-bar__primary-header">Personal</span></a><div class="dcom-c-navigation-bar__mobile-secondary">
+                              <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-secondary"></ul>
+                           </div>
+                        </li>
+                        <li class="dcom-c-li dcom-c-navigation-bar__li" id="mobile-primary-dcom-navrow-1"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__primary-link" navlevel="primary" title="Business" id="navigation-li-Business" href="/small-business/overview.aspx"><span class="dcom-c-navigation-bar__primary-header">Business</span></a><div class="dcom-c-navigation-bar__mobile-secondary">
+                              <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-secondary"></ul>
+                           </div>
+                        </li>
+                        <li class="dcom-c-li dcom-c-navigation-bar__li" id="mobile-primary-dcom-navrow-2"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__primary-link" navlevel="primary" title="Corporate" id="navigation-li-Corporate" href="/corporate-finance/overview.aspx"><span class="dcom-c-navigation-bar__primary-header">Corporate</span></a><div class="dcom-c-navigation-bar__mobile-secondary">
+                              <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-secondary">
+                                 <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" navlevel="secondary" tabIndex="-1" title="Solutions Navigation" href="#"><span>Solutions</span></a></li>
+                                 <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" navlevel="secondary" tabIndex="-1" title="Industries Navigation" href="#"><span>Industries</span></a></li>
+                                 <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" navlevel="secondary" tabIndex="-1" title="Insights Navigation" href="#"><span>Insights</span></a></li>
+                                 <li class="dcom-c-li dcom-c-navigation-bar__li" navlevel="secondary"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__secondary-link" navlevel="secondary" tabIndex="-1" title="Why Citizens Navigation" href="#"><span>Why Citizens</span></a></li>
+                              </ul>
+                           </div>
+                        </li>
+                        <li class="dcom-c-li dcom-c-navigation-bar__li" id="mobile-primary-dcom-navrow-3"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__primary-link" navlevel="primary" title="Private Bank" id="navigation-li-Private Bank" href="/private-banking/overview.aspx"><span class="dcom-c-navigation-bar__primary-header">Private Bank</span></a><div class="dcom-c-navigation-bar__mobile-secondary">
+                              <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-secondary"></ul>
+                           </div>
+                        </li>
+                        <li class="dcom-c-li dcom-c-navigation-bar__li" id="mobile-primary-dcom-navrow-4"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__primary-link" navlevel="primary" title="About Us" id="navigation-li-About Us" href="https://investor.citizensbank.com/about-us.aspx"><span class="dcom-c-navigation-bar__primary-header">About Us</span></a><div class="dcom-c-navigation-bar__mobile-secondary">
+                              <ul class="dcom-c-navigation-bar__ul" id="dcom-nav-mobile-secondary"></ul>
+                           </div>
+                        </li>
+                     </ul>
+                  </nav>
+                  <div class="dcom-c-navigation-bar__mobile-tertiary" id="dcom-nav-mobile-tertiary">
+                     <nav class="dcom-c-navigation-bar__nav" aria-label="Tertiary Navigation"><a class="dcom-c-navigation-bar__link dcom-c-navigation-bar__mobile-header" id="dcom-nav-tertiary-header" tabIndex="-1" href="#"><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                              <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-left"/></svg><span id="dcom-nav-mobile-tertiary__header">Header Name</span></a><ul class="dcom-c-navigation-bar__ul" id="dcom-nav-tertiary"></ul>
+                     </nav>
+                  </div>
+               </div>
+               <div class="dcom-c-navigation-bar__utility-links">
+                  <ul class="dcom-c-navigation-bar__ul"></ul>
+               </div>
+               <div class="dcom-c-navigation-bar__login"><button class="dcom-c-btn dcom-c-btn--small dcom-c-btn--primary"><svg class="cbds-c-icon cbds-c-button__icon" aria-hidden="true" focusable="false">
+                        <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#lock"></use></svg>Log in</button></div>
+            </div>
+         </div>
+      </section>
+      <section class="dcom-c-nav-login dcom-c-nav-login--hidden" id="dcom-c-login-popup">
+         <div class="dcom-l-container dcom-c-nav-login__main">
+            <div class="dcom-c-nav-login__header">
+               			  Select a secure login
+               </div>
+            <div class="dcom-c-custom-select__wrapper" style="width:100%;"><select id="loginDropdown" onchange="logChange(this)">
+                  <option value="https://commercial-sso.citizensbank.com/sso/uportal/login" selected="">Corporate Login</option>
+                  <option value="https://commercial-sso.citizensbank.com/sso/uportal/login">Corporate Card Management</option></select></div>
+            <div class="dcom-c-nav-login__button"><button class="dcom-c-btn dcom-c-btn--small dcom-c-btn--primary dcom-c-btn--cta"><svg class="cbds-c-icon cbds-c-button__icon" aria-hidden="true" focusable="false">
+                     <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#lock"></use></svg>
+                  				Log in
+                  </button></div>
+            <div class="dcom-c-nav-login__help" style="display:none"><a href="https://www.citizensbankonline.com/efs/efs/index.html#login/trouble" class="dcom-c-nav-login__help-link">
+                  				  Trouble logging in?
+                  </a></div>
+            <div class="dcom-c-nav-login__cta" style="display:none"><span class="dcom-c-nav-login__cta-prompt">
+                  				New to Online Banking?
+                  </span><a href="https://www.citizensbankonline.com/efs/efs/index.html#enroll/identify-customer" class="dcom-c-nav-login__cta-link">
+                  				Enroll Now
+                  </a></div>
+            <div class="dcom-c-nav-login__uppercarrot"></div>
+         </div><script>
+		function logChange(el) {
+			var selectOption = el.options[el.selectedIndex].innerHTML;
+			if(selectOption == "Personal/Small Business"){
+				document.querySelector(".dcom-c-nav-login__cta").removeAttribute("style","display:none");
+				document.querySelector(".dcom-c-nav-login__help").removeAttribute("style","display:none");
+
+			}
+			else{
+			document.querySelector(".dcom-c-nav-login__cta").setAttribute("style","display:none");
+				document.querySelector(".dcom-c-nav-login__help").setAttribute("style","display:none");
+			}
+		}
+      </script></section>
+   </header>
+</html>
+ </div>
+</div>
+<div class="iw_placeholder" id="iw_placeholder1686033793417">
+ <div class="iw_component" id="iw_comp1663478803330">
+  <style>#iw_comp1663478803330{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/HeroCommercial/hero-commercial.min.css" rel="stylesheet" type="text/css">
+   <section class="dcom-c-hero-commercial cbds-u-backgroundColor--commercial-green ">
+      <div class="cbds-l-grid--@xl">
+         <div class="cbds-l-grid__row dcom-c-hero-commercial__wrapper ">
+            <div class="cbds-l-grid__col--12 dcom-c-hero-commercial__content-container cbds-l-grid__col--6@md dcom-component__padding-top--medium dcom-component__padding-bottom--medium">
+               <div class="dcom-c-hero-commercial__message-container">
+                  <h1 style="color: var(--cbds-tkn-colorBrand__white);">Financial Services</h1>
+                  <p style="color: var(--cbds-tkn-colorBrand__white);">Delivering industry expertise, integrated solutions and high-touch client service.</p>
+               </div>
+            </div>
+            <div class="cbds-l-grid__col--12@sm cbds-l-grid__col--6@md dcom-c-hero-commercial__image-container"><img src="https://p1.aprimocdn.net/citizensbank/b6a569b8-2c44-4ed5-b33b-b004017024a9/GettyImages%20618196156_hero-commercial-NR.jpg" alt="two women at a meeting with a financial advisor" loading="eager" class="dcom-c-hero-commercial__image" width="375px" height="317px" srcset="https://p1.aprimocdn.net/citizensbank/b6a569b8-2c44-4ed5-b33b-b004017024a9/GettyImages%20618196156_hero-commercial-NR.jpg 592w, https://p1.aprimocdn.net/citizensbank/b6a569b8-2c44-4ed5-b33b-b004017024a9/GettyImages%20618196156_hero-commercial-Retina.jpg 1184w"></div>
+         </div>
+      </div>
+   </section>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1663478803321">
+  <style>#iw_comp1663478803321{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link type="text/css" href="/assets/CB_resources/GlobalComponents/Breadcrumbs/breadcrumbs.min.css" rel="stylesheet">
+   <div class="cbds-l-grid dcom-c__breadcrumbs-container">
+      <div class="cbds-l-grid__row">
+         <div class="cbds-l-grid__col--12">
+            <nav aria-label="Breadcrumb" class="dcom-c__breadcrumbs">
+               <ol>
+                  <li class="dcom-c-breadcrumb" id="primNav_Breadcrumbs"><a class="cbds-c-link" href="#"><span>primary</span></a></li>
+                  <li class="dcom-c-breadcrumb" id="secNav_Breadcrumbs"><a class="cbds-c-link" href="#"><span>secondary</span></a></li>
+                  <li class="dcom-c-breadcrumb" id="terNav_Breadcrumbs"><span aria-current="page">teritary</span></li>
+               </ol>
+               <ol>
+                  <li class="dcom-c-breadcrumb--mobile" id="nav_mobileBreadcrumb"><a href=""><svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                           <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-left"/></svg><span>Back to Industries</span></a></li>
+               </ol>
+            </nav>
+         </div>
+      </div>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1663478803331">
+  <style>#iw_comp1663478803331{}</style><script type="application/ld+json">{
+"@context": "https://schema.org",
+"@type": "WebPage",
+"name": "Financial Services",
+"description": "With more than 60 years of combined experience in helping financial institutions attain their goals, our senior bankers have a proven track record of delivering best-in-class solutions, thoughtful advice and consistent execution",
+"keywords": "financial services, financing, capital markets, treasury management, risk management",
+"url": "https://www.citizensbank.com/corporate-finance/industries/financial-services.aspx",
+"speakable":
+
+{ "@type": "SpeakableSpecification", "xpath": [ "/html/head/title", "/html/head/meta[@name='description']/@content"]}
+}
+
+</script>
+<script type="application/ld+json">
+
+{"@context": "http://schema.org/", "@type": "FinancialProduct", "brand": "Citizens", "name": "Financial Services", "description": "With more than 60 years of combined experience in helping financial institutions attain their goals, our senior bankers have a proven track record of delivering best-in-class solutions, thoughtful advice and consistent execution", "logo": "https://www.citizensbank.com/assets/CB_resources/images/logo.png", "url":"https://www.citizensbank.com/corporate-finance/industries/financial-services.aspx" }
+</script>
+<script type="application/ld+json">
+{ "@context": "https://schema.org/",
+"@type": "BreadcrumbList",
+"itemListElement": [
+
+{ "@type": "ListItem", "position": 1, "name": "Citizens", "item": "https://www.citizensbank.com/" }
+,
+
+{ "@type": "ListItem", "position": 2, "name": "Corporate Finance", "item": "https://www.citizensbank.com/corporate-finance/" }
+,
+
+{ "@type": "ListItem", "position": 3, "name": "Industries", "item": "https://www.citizensbank.com/corporate-finance/industries/" }
+,
+
+{ "@type": "ListItem", "position": 4, "name": "Financial Services", "item": "https://www.citizensbank.com/corporate-finance/industries/financial-services.aspx" }
+]
+}
+</script>
+ </div>
+ <div class="iw_component" id="iw_comp1670860859037">
+  <style>#iw_comp1670860859037{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/SectionTitleGlobal/section-title-global.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <div class="dcom-c-section-title-global  dcom-component__padding-top--large dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <h2 class="dcom-c-section-title-global__header commercial-green">How we support the Financial Services sector</h2>
+                  <p class="dcom-c-section-title-global__subheader">Our senior bankers have a track record of delivering best-in-class solutions, thoughtful advice and consistent execution. We specialize in supporting insurance underwriters, insurance distribution and services, asset and wealth management and broker-dealers.<br /><br /></p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1663478803323">
+  <style>#iw_comp1663478803323{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5BMP7-Q46DH-MA9ZE-K574A-MZT88",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5BMP7-Q46DH-MA9ZE-K574A-MZT88";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="bv6uzsyxffo7y2bgbcwq-f-f326a8fe6-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1415775","ak.ai":parseInt("340899",10),"ak.ol":"0","ak.cr":2,"ak.ipv":4,"ak.proto":"h2","ak.rid":"3cc4628","ak.r":23482,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.125.76.0","ak.cport":49352,"ak.gh":"104.70.122.29","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747323053","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==I3U8KInHA2qKlqpy1CkKCMuRoxVltqTZgQjOchRx0hUiTaX/y4+cTv11XMsEuN0W2brLGFSrNik8EABOVdoXt8xLFEyG5JZw3RUbgE30EwOSW/4S1rb603wXAiW9lymK65vNUOwAojLZZD75v+YiAf9zYtdtktMHRf9uFEYK2txJEw3o6sRS77q8Tymc9gHE7xBJn+/f12kN1LmQMj161i8+jIVt1xDk0njG5lW0x/agIMJzymXKX6JOvskPBbgX1zj1SBLBk7aXZwDEz/obK9icXA+B20Pz7gNdSDoJ5jC4WSfhA8G8UcnU56xzrSlKp4p+6KIiUJ3aqzuBMQLW0trYPfn58bGws783eV1p4CHEI3qRxe9XYShBXvzcRkQqlaT9MMKDnoVByiwr58HsaNykmhYkjmX+ID9/gWv+Zgw=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   <div class="cbds-u-topSpacing--md">
+      <section class="dcom-c-faqs cbds-u-backgroundColor--grey">
+         <div class="cbds-l-grid dcom-l-container">
+            <div class="cbds-l-grid__row dcom-c-faqs__wrapper dcom-c-faqs__wrapper--grey">
+               <div class="cbds-l-grid__col--12">
+                  <div class="cbds-l-grid__col--10 cbds-l-grid__col--offset1 cbds-l-grid__col--8@lg cbds-l-grid__col--offset2@lg dcom-c-faqs__heading-wrapper"><svg xmlns="http://www.w3.org/2000/svg" class="dcom-c-faqs__icon" aria-hidden="true">
+                        <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#message-answer"/></svg><h2 class="dcom-c-faqs__heading">Sector services</h2>
+                     <p class="dcom-c-faqs__subheading"></p>
+                     <div class="dcom-c-faqs__divider"></div>
+                  </div>
+                  <div class="cbds-l-grid__col--12 cbds-l-grid__col--10@xl cbds-l-grid__col--offset1@xl">
+                     <ul class="dcom-c-faqs__list dcom_accordion">
+                        <li class="dcom-c-faqs__list-item dcom-c-faqs__list-item--grey"><button class="dcom-c-faqs__list-link dcom_accordion_link" aria-expanded="false" data-target="faq_panel_0" aria-controls="faq_panel_0" id="faq-list-item0">Financing
+                              <div class="dcom-c-faqs__plusMinusToggle" aria-hidden="true"></div></button><div class="dcom-c-faqs__list-content dcom_accordion_content" id="faq_panel_0" aria-hidden="true" role="region" aria-labelledby="faq-list-item0"><p>Everyday working capital. Long-term financing to fund growth. Seasonal inventory. Technology upgrades. Specialty financing. Whatever your needs, we&rsquo;ll work closely with you to structure flexible financial solutions.</p>
+<p>Short-term financing options enable your company to borrow working capital for operations, payroll, and more. Long-term loans can fund capital improvements and expansion initiatives. Either way, we'll work with you to evaluate your financing options and support your long-term success.</p>
+<p>As one of the nation&rsquo;s leading asset-based financing (ABF) providers, we offer a wealth of asset-based options like revolving credit facilities from $20MM to over $1bn, term loans, FILO loans and more. You&rsquo;ll work with a dedicated ABF specialist to find a tailored solution to reach your goals.</p></div>
+                        </li>
+                        <li class="dcom-c-faqs__list-item dcom-c-faqs__list-item--grey"><button class="dcom-c-faqs__list-link dcom_accordion_link" aria-expanded="false" data-target="faq_panel_1" aria-controls="faq_panel_1" id="faq-list-item1">Treasury Management
+                              <div class="dcom-c-faqs__plusMinusToggle" aria-hidden="true"></div></button><div class="dcom-c-faqs__list-content dcom_accordion_content" id="faq_panel_0" aria-hidden="true" role="region" aria-labelledby="faq-list-item1"><p>Comprehensive tools, services and global trade resources ready to help you accelerate productivity and growth.</p>
+<p><strong>Fraud Protection</strong><br />From mitigating unauthorized transactions to cybercrime prevention, securing corporate financial assets and information is a critical priority for all companies. Our wide range of solutions and insights can help detect and protect against fraud.</p>
+<p><strong>Liquidity Management</strong><br />Managing liquidity is key to a strong balance sheet, ensuring that cash is on hand to cover all your payment needs while maximizing earnings. But moving money constantly to make sure you have the right level of working capital can be time-consuming. A Treasury Solutions Specialist can help you in designing and implementing liquidity management solutions that deliver efficiency for your money and your time.</p>
+<p><strong>Global Trade Finance</strong><br />Global markets offer growth and profit opportunities, but managing commercial, market and currency risks can be challenging and time-consuming. We have a comprehensive array of solutions that support your global trade success, like navigating international trade documentation, managing exchange rate risks, foreign currency loans, supply chain finance and more.</p></div>
+                        </li>
+                        <li class="dcom-c-faqs__list-item dcom-c-faqs__list-item--grey"><button class="dcom-c-faqs__list-link dcom_accordion_link" aria-expanded="false" data-target="faq_panel_2" aria-controls="faq_panel_2" id="faq-list-item2">Interest Rate Risk Management
+                              <div class="dcom-c-faqs__plusMinusToggle" aria-hidden="true"></div></button><div class="dcom-c-faqs__list-content dcom_accordion_content" id="faq_panel_0" aria-hidden="true" role="region" aria-labelledby="faq-list-item2"><p>There is inherent interest expense volatility associated with floating rate debt facilities. Companies may look to mitigate the risks deriving from floating rate exposures.</p>
+<p>With years of experience, our derivatives specialists can help identify your interest rate exposure and structure tailored solutions based on company objectives and risk appetite. We work with you to customize strategies and solutions to mitigate the risk of interest rate uncertainty and efficiently manage funding costs.</p>
+<p><strong>Existing Debt Hedging</strong><br />Solutions such as swaps and other hedge products can convert variable rate liability to fixed-rate certainty without changing the underlying debt structure.</p>
+<p><strong>Restructuring Debt Hedging</strong><br />Amend current hedges to appropriately address evolving financing needs and market dynamics.</p>
+<p><strong>Future Debt Hedging</strong><br />Leverage the current rate environment to mitigate future risk.</p></div>
+                        </li>
+                        <li class="dcom-c-faqs__list-item dcom-c-faqs__list-item--grey"><button class="dcom-c-faqs__list-link dcom_accordion_link" aria-expanded="false" data-target="faq_panel_3" aria-controls="faq_panel_3" id="faq-list-item3">Capital Markets
+                              <div class="dcom-c-faqs__plusMinusToggle" aria-hidden="true"></div></button><div class="dcom-c-faqs__list-content dcom_accordion_content" id="faq_panel_0" aria-hidden="true" role="region" aria-labelledby="faq-list-item3"><p>Our capital markets professionals apply decades of experience in debt and equity capital markets to partner with you on your capital-raising objectives. Our strategic approach helps clients fund growth initiatives through acquisitions, capital expenditures and recapitalizations. Our teams are organized by industry to better serve our clients in the sectors where they operate. This lets us provide relevant solutions to each client&rsquo;s unique needs.</p>
+<p>As a top-tier provider of debt capital markets services, we offer syndicated loan origination, structuring and distribution services to support our clients including fully underwritten and best-efforts financings, secured and unsecured bank debt, junior capital, asset-based loans, fixed income and more. Our expertise and the results we&rsquo;ve delivered for hundreds of middle market and large corporate clients have propelled us to leadership positions in the Refinitiv LCDs Middle Market and Leveraged Loan League Tables.</p></div>
+                        </li>
+                        <li class="dcom-c-faqs__list-item dcom-c-faqs__list-item--grey"><button class="dcom-c-faqs__list-link dcom_accordion_link" aria-expanded="false" data-target="faq_panel_4" aria-controls="faq_panel_4" id="faq-list-item4">Escrow Agency Services
+                              <div class="dcom-c-faqs__plusMinusToggle" aria-hidden="true"></div></button><div class="dcom-c-faqs__list-content dcom_accordion_content" id="faq_panel_0" aria-hidden="true" role="region" aria-labelledby="faq-list-item4"><p>We understand the inherent pressure in escrow transactions. Ensuring the successful deposit and transfer of funds in a secure, timely and seamless manner is of paramount importance with no room for error. Furthermore, it is critical that the entire process is easy and consistent from one escrow transaction to the next.</p>
+<p>Citizens can serve as a neutral third party to hold and administer funds required to meet your escrow agent&rsquo;s needs. Our experienced escrow specialists are dedicated to our clients&rsquo; success and the facilitation of efficient and unbiased, third-party escrow services. Our service ensures your escrow arrangements are administered smoothly and efficiently.</p>
+<p>Your dedicated escrow specialist will work with you, members of your team and the other parties to the transaction to ensure the transaction meets your needs. Your specialist will serve as your single point of contact, ready to help you meet all challenges as business needs continue to evolve.</p></div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1670860859038">
+  <style>#iw_comp1670860859038{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/SectionTitleGlobal/section-title-global.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--md">
+      <div class="dcom-c-section-title-global  dcom-component__padding-top--medium dcom-component__padding-bottom--none ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <h2 class="dcom-c-section-title-global__header commercial-green">Representative transactions</h2>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1663478803325">
+  <style>#iw_comp1663478803325{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/Tombstone/tombstone.min.css" rel="stylesheet" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5BMP7-Q46DH-MA9ZE-K574A-MZT88",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5BMP7-Q46DH-MA9ZE-K574A-MZT88";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="bv6uzsyxffo7y2bgbcwq-f-f326a8fe6-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1415775","ak.ai":parseInt("340899",10),"ak.ol":"0","ak.cr":2,"ak.ipv":4,"ak.proto":"h2","ak.rid":"3cc4628","ak.r":23482,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.125.76.0","ak.cport":49352,"ak.gh":"104.70.122.29","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747323053","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==I3U8KInHA2qKlqpy1CkKCMuRoxVltqTZgQjOchRx0hUiTaX/y4+cTv11XMsEuN0W2brLGFSrNik8EABOVdoXt8xLFEyG5JZw3RUbgE30EwOSW/4S1rb603wXAiW9lymK65vNUOwAojLZZD75v+YiAf9zYtdtktMHRf9uFEYK2txJEw3o6sRS77q8Tymc9gHE7xBJn+/f12kN1LmQMj161i8+jIVt1xDk0njG5lW0x/agIMJzymXKX6JOvskPBbgX1zj1SBLBk7aXZwDEz/obK9icXA+B20Pz7gNdSDoJ5jC4WSfhA8G8UcnU56xzrSlKp4p+6KIiUJ3aqzuBMQLW0trYPfn58bGws783eV1p4CHEI3qRxe9XYShBXvzcRkQqlaT9MMKDnoVByiwr58HsaNykmhYkjmX+ID9/gWv+Zgw=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-tombstones dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--6@sm cbds-l-grid__col--3@lg" data-sector="">
+                  <div class="dcom-c-tombstones__item "><img src="https://p1.aprimocdn.net/citizensbank/6f1d7bc9-2ce9-4b8e-be3b-b23e0164b2e2/10.24_Redwood_Trust_WebDate_Original%20file.jpg" alt="" loading="lazy" class="dcom-c-tombstones__item-image" width="386px" height="462px"><div class="dcom-c-tombstones__item-link"></div>
+                  </div>
+               </div>
+               <div class="cbds-l-grid__col--6@sm cbds-l-grid__col--3@lg" data-sector="">
+                  <div class="dcom-c-tombstones__item "><img src="https://p1.aprimocdn.net/citizensbank/2b26f5e4-37fb-49b5-8958-b1f001201c02/05.24_Bowhead_tombstone-386-462.jpg" alt="" loading="lazy" class="dcom-c-tombstones__item-image" width="386px" height="462px"><div class="dcom-c-tombstones__item-link"></div>
+                  </div>
+               </div>
+               <div class="cbds-l-grid__col--6@sm cbds-l-grid__col--3@lg" data-sector="">
+                  <div class="dcom-c-tombstones__item "><img src="https://p1.aprimocdn.net/citizensbank/e967e1e6-353b-4e8a-b862-b1f001201650/05.24_CreativePlanning_tombstone-386-462.jpg" alt="" loading="lazy" class="dcom-c-tombstones__item-image" width="386px" height="462px"><div class="dcom-c-tombstones__item-link"></div>
+                  </div>
+               </div>
+               <div class="cbds-l-grid__col--6@sm cbds-l-grid__col--3@lg" data-sector="">
+                  <div class="dcom-c-tombstones__item "><img src="https://p1.aprimocdn.net/citizensbank/d4ffc6b5-42ba-451c-b550-b1f001201a7c/02.24_PWP_tombstone-386-462.jpg" alt="" loading="lazy" class="dcom-c-tombstones__item-image" width="386px" height="462px"><div class="dcom-c-tombstones__item-link"></div>
+                  </div>
+               </div>
+               <div class="cbds-l-grid__col--6@sm cbds-l-grid__col--3@lg" data-sector="">
+                  <div class="dcom-c-tombstones__item "><img src="https://p1.aprimocdn.net/citizensbank/88a4a47e-6324-4543-8aca-b1f0012019be/12.23_WesternAsset_tombstone-386-462.jpg" alt="" loading="lazy" class="dcom-c-tombstones__item-image" width="386px" height="462px"><div class="dcom-c-tombstones__item-link"></div>
+                  </div>
+               </div>
+               <div class="cbds-l-grid__col--6@sm cbds-l-grid__col--3@lg" data-sector="">
+                  <div class="dcom-c-tombstones__item "><img src="https://p1.aprimocdn.net/citizensbank/c6e311cd-4898-4311-8f94-b1f0012018ed/12.23_HCI_tombstone-386-462.jpg" alt="" loading="lazy" class="dcom-c-tombstones__item-image" width="386px" height="462px"><div class="dcom-c-tombstones__item-link"></div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1663478803326">
+  <style>#iw_comp1663478803326{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/Testimonials/testimonials.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-testimonials  dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl">
+            <div class="dcom-c-testimonials__wrapper">
+               <div class="cbds-l-grid__row">
+                  <div class="cbds-l-grid__col--12">
+                     <ul class="dcom-c-testimonials__list">
+                        <li class="dcom-c-testimonials__list-item">
+                           <div class="dcom-c-testimonials__quote-container"><svg xmlns="http://www.w3.org/2000/svg" class="dcom-c-testimonials__quote-icon" aria-hidden="true" width="54" height="46" viewBox="0 0 54 46" fill="none">
+                                 <path d="M24.9363 46H0V27.1152C0 20.1626 1.47134 14.6757 4.41401 10.6544C7.35669 6.63317 12.4013 3.0817 19.5478 0L24.9363 10.0343C20.5414 12.0637 17.5032 14.0931 15.8217 16.1225C14.1401 18.1144 13.2038 20.482 13.0127 23.2255H24.9363V46ZM54 46H29.0637V27.1152C29.0637 20.1626 30.535 14.6757 33.4777 10.6544C36.4204 6.63317 41.465 3.0817 48.6115 0L54 10.0343C49.6051 12.0637 46.5669 14.0931 44.8853 16.1225C43.2038 18.1144 42.2675 20.482 42.0764 23.2255H54V46Z" fill="currentColor"/></svg><blockquote class="dcom-c-testimonials__quote">Citizens delivered an exceptional outcome for Merit and Digney shareholders. They leveraged their deep facility services experience and designed a tight, hands-on process which ultimately delivered the optimal buyer for the company. We thoroughly enjoyed working with the Citizens team.</blockquote>
+                           </div>
+                           <div class="dcom-c-testimonials__avatar-container">
+                              <div class="dcom-c-testimonials__avatar-details">
+                                 <p class="dcom-c-testimonials__name">Tim Mackenzie</p>
+                                 <p class="dcom-c-testimonials__occupation">Managing Director at Merit Capital Partners</p>
+                              </div>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1690983281007">
+  <style>#iw_comp1690983281007{}</style><link xmlns:xlink="http://www.w3.org/1999/xlink" href="/assets/CB_resources/GlobalComponents/ColleagueHighlight/colleague-highlight.min.css" rel="stylesheet" type="text/css"><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <div class="cbds-u-topSpacing--none">
+      <section class="dcom-c-colleague-highlight dcom-c-colleague-highlight--count-1 dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-l-grid--@xl dcom-c-colleague-highlight__wrapper">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <div class="dcom-c-colleague-highlight__card-wrapper--full dcom-c-colleague-highlight__card-wrapper dcom-c-colleague-highlight__card-wrapper--inline ">
+                     <div class="dcom-c-colleague-highlight__avatar-section ">
+                        <div class="dcom-c-colleague-highlight__avatar"><img src="https://p1.aprimocdn.net/citizensbank/5807f944-90d2-4c5b-9a66-b1230126038d/Kung-Jeff_colleague-highlight-NR.jpg" alt="" loading="lazy" class="dcom-c-colleague-highlight__avatar-img" width="96px" height="96px" srcset="https://p1.aprimocdn.net/citizensbank/5807f944-90d2-4c5b-9a66-b1230126038d/Kung-Jeff_colleague-highlight-NR.jpg 96w, https://p1.aprimocdn.net/citizensbank/5807f944-90d2-4c5b-9a66-b1230126038d/Kung-Jeff_colleague-highlight-Retina.jpg 192w"></div>
+                        <div class="dcom-c-colleague-highlight__titles">
+                           <p class="dcom-c-colleague-highlight__name">Jeffrey Kung</p>
+                           <p class="dcom-c-colleague-highlight__title"></p>
+                        </div>
+                     </div>
+                     <div class="dcom-c-colleague-highlight__divider dcom-c-colleague-highlight__single-card-divider"></div>
+                     <div class="dcom-c-colleague-highlight__contacts-section ">
+                        <ul class="dcom-c-colleague-highlight__contacts-list">
+                           <li class="dcom-c-colleague-highlight__contact-li dcom-c-colleague-highlight__contact-li--email"><a href="mailto:jeffrey.f.kung@citizensbank.com"><svg xmlns="http://www.w3.org/2000/svg" class="dcom-c-colleague-highlight__icon" aria-label="Email" role="img">
+                                    <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#envelope"/></svg><span>jeffrey.f.kung@citizensbank.com</span></a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1690983281008">
+  <style>#iw_comp1690983281008{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/SectionTitleGlobal/section-title-global.min.css" rel="stylesheet" type="text/css">
+   <div class="cbds-u-topSpacing--lg">
+      <div class="dcom-c-section-title-global cbds-u-backgroundColor--grey dcom-component__padding-top--medium dcom-component__padding-bottom--none ">
+         <div class="cbds-l-grid--@xl">
+            <div class="cbds-l-grid__row">
+               <div class="cbds-l-grid__col--12">
+                  <h2 class="dcom-c-section-title-global__header commercial-green">Ready to take the next step? Get in touch with our team.</h2>
+                  <p class="dcom-c-section-title-global__subheader">All fields are required unless marked as "Optional".</p>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+</html>
+ </div>
+ <div class="iw_component" id="iw_comp1718277684879">
+  <style>#iw_comp1718277684879{}</style><script xmlns:xlink="http://www.w3.org/1999/xlink" type="text/javascript">            
+			var jsonfile = '/iwov-resources/messages/forms/messages';
+			var locale = '';			
+			</script><style xmlns:xlink="http://www.w3.org/1999/xlink" type="text/css">
+				 
+		
+		 .hint-block 
+		 {
+			  font-size:14px;
+			  display: block;
+			  margin-top: -5px;
+			  margin-bottom: 16px;
+			  color: #737373;
+		 }
+		 .hide
+		 {
+		    display:none;
+		 }
+		
+		
+			</style><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <link rel="stylesheet" type="text/css" href="/iwov-resources/scripts/jQuery-datetimepicker/jquery.datetimepicker.min.css"><script src="/iwov-resources/scripts/jQuery/jquery.min.js"></script><script>
+	$(document).ready(function() {
+		$.getScript("/iwov-resources/scripts/jQuery-datetimepicker/jquery.datetimepicker.full.min.js");
+	});
+</script><script src="/iwov-resources/scripts/forms/formrenderer.js"></script>
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5BMP7-Q46DH-MA9ZE-K574A-MZT88",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5BMP7-Q46DH-MA9ZE-K574A-MZT88";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="bv6uzsyxffo7y2bgbcwq-f-f326a8fe6-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1415775","ak.ai":parseInt("340899",10),"ak.ol":"0","ak.cr":2,"ak.ipv":4,"ak.proto":"h2","ak.rid":"3cc4628","ak.r":23482,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.125.76.0","ak.cport":49352,"ak.gh":"104.70.122.29","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747323053","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==I3U8KInHA2qKlqpy1CkKCMuRoxVltqTZgQjOchRx0hUiTaX/y4+cTv11XMsEuN0W2brLGFSrNik8EABOVdoXt8xLFEyG5JZw3RUbgE30EwOSW/4S1rb603wXAiW9lymK65vNUOwAojLZZD75v+YiAf9zYtdtktMHRf9uFEYK2txJEw3o6sRS77q8Tymc9gHE7xBJn+/f12kN1LmQMj161i8+jIVt1xDk0njG5lW0x/agIMJzymXKX6JOvskPBbgX1zj1SBLBk7aXZwDEz/obK9icXA+B20Pz7gNdSDoJ5jC4WSfhA8G8UcnU56xzrSlKp4p+6KIiUJ3aqzuBMQLW0trYPfn58bGws783eV1p4CHEI3qRxe9XYShBXvzcRkQqlaT9MMKDnoVByiwr58HsaNykmhYkjmX+ID9/gWv+Zgw=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   <body>
+      <div style="color:red" align="center" id="genericerrorpathid"></div>
+      <link rel="stylesheet" href="/assets/CB_resources/GlobalComponents/Form/forms-component.min.css" type="text/css">
+      <div class="cbds-u-topSpacing--none">
+         <section class="dcom-c-forms-component-container">
+            <div id="dcom-c-forms">
+               <div class="dcom-l-container cbds-l-grid">
+                  <div class="cbds-l-grid__row">
+                     <div class="cbds-l-grid__col">
+                        <form data-run-validation="true" class="cbds-c-form" formtype="" connectorname="" action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8 " id="CommercialForm" name="dcom-c-forms-component" enctype="application/x-www-form-urlencoded" method="post" target="_self" autocomplete="true" novalidate="false" onsubmit="return isFormValid('dcom-c-forms-component','false');" onreset="return clearErrors('dcom-c-forms-component');"><input type="hidden" name="oid" id="oid" value="00D300000000XHP"><input type="hidden" name="00N5a00000DDPrF" id="00N5a00000DDPrF" value="www.citizensbank.com/corporate-finance/industries/financial-services.aspx"><div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="first_name">First Name</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id);" name="first_name" id="first_name" maxlength="40" title="Valid First Name required" pattern=""></div>
+                              <div id="cbds-formMicroalert-id-first_name" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid First Name required</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="last_name">Last Name</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id);" name="last_name" id="last_name" maxlength="80" title="Valid Last Name required" pattern=""></div>
+                              <div id="cbds-formMicroalert-id-last_name" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Last Name required</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="company">Company Name</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id);" name="company" id="company" maxlength="40" title="Valid Company Name required" pattern=""></div>
+                              <div id="cbds-formMicroalert-id-company" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Company Name required</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="company_state">Company State</label><div class="cbds-c-formElement__control">
+                                 <div class="cbds-c-select"><select class="cbds-c-select__select" required="" aria-required="true" aria-invalid="true" onblur="validateForm(this.form,this.id);" name="00N5a00000DDPrD" id="company_state" title="Company State">
+                                       <option class="cbds-c-select__option" selected="true" value="">Choose an option</option>
+                                       <option class="cbds-c-select__option" value="AL">AL</option>
+                                       <option class="cbds-c-select__option" value="AK">AK</option>
+                                       <option class="cbds-c-select__option" value="AZ">AZ</option>
+                                       <option class="cbds-c-select__option" value="AR">AR</option>
+                                       <option class="cbds-c-select__option" value="CA">CA</option>
+                                       <option class="cbds-c-select__option" value="CO">CO</option>
+                                       <option class="cbds-c-select__option" value="CT">CT</option>
+                                       <option class="cbds-c-select__option" value="DC">DC</option>
+                                       <option class="cbds-c-select__option" value="DE">DE</option>
+                                       <option class="cbds-c-select__option" value="FL">FL</option>
+                                       <option class="cbds-c-select__option" value="GA">GA</option>
+                                       <option class="cbds-c-select__option" value="HI">HI</option>
+                                       <option class="cbds-c-select__option" value="ID">ID</option>
+                                       <option class="cbds-c-select__option" value="IL">IL</option>
+                                       <option class="cbds-c-select__option" value="IN">IN</option>
+                                       <option class="cbds-c-select__option" value="IA">IA</option>
+                                       <option class="cbds-c-select__option" value="KS">KS</option>
+                                       <option class="cbds-c-select__option" value="KY">KY</option>
+                                       <option class="cbds-c-select__option" value="LA">LA</option>
+                                       <option class="cbds-c-select__option" value="ME">ME</option>
+                                       <option class="cbds-c-select__option" value="MD">MD</option>
+                                       <option class="cbds-c-select__option" value="MA">MA</option>
+                                       <option class="cbds-c-select__option" value="MI">MI</option>
+                                       <option class="cbds-c-select__option" value="MN">MN</option>
+                                       <option class="cbds-c-select__option" value="MS">MS</option>
+                                       <option class="cbds-c-select__option" value="MO">MO</option>
+                                       <option class="cbds-c-select__option" value="MT">MT</option>
+                                       <option class="cbds-c-select__option" value="NE">NE</option>
+                                       <option class="cbds-c-select__option" value="NV">NV</option>
+                                       <option class="cbds-c-select__option" value="NH">NH</option>
+                                       <option class="cbds-c-select__option" value="NJ">NJ</option>
+                                       <option class="cbds-c-select__option" value="NY">NY</option>
+                                       <option class="cbds-c-select__option" value="NYC Metro">NYC Metro</option>
+                                       <option class="cbds-c-select__option" value="NC">NC</option>
+                                       <option class="cbds-c-select__option" value="ND">ND</option>
+                                       <option class="cbds-c-select__option" value="OH">OH</option>
+                                       <option class="cbds-c-select__option" value="OK">OK</option>
+                                       <option class="cbds-c-select__option" value="OR">OR</option>
+                                       <option class="cbds-c-select__option" value="PA">PA</option>
+                                       <option class="cbds-c-select__option" value="RI">RI</option>
+                                       <option class="cbds-c-select__option" value="SC">SC</option>
+                                       <option class="cbds-c-select__option" value="SD">SD</option>
+                                       <option class="cbds-c-select__option" value="TN">TN</option>
+                                       <option class="cbds-c-select__option" value="TX">TX</option>
+                                       <option class="cbds-c-select__option" value="UT">UT</option>
+                                       <option class="cbds-c-select__option" value="VT">VT</option>
+                                       <option class="cbds-c-select__option" value="VA">VA</option>
+                                       <option class="cbds-c-select__option" value="WA">WA</option>
+                                       <option class="cbds-c-select__option" value="WV">WV</option>
+                                       <option class="cbds-c-select__option" value="WI">WI</option>
+                                       <option class="cbds-c-select__option" value="WY">WY</option></select><span class="cbds-c-select__indicator"><svg height="24" width="24" aria-hidden="true" focusable="false" role="img" class="cbds-c-icon cbds-c-select__indicatorIcon">
+                                          <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down"></use></svg></span></div>
+                              </div>
+                              <div id="cbds-formMicroalert-id-00N5a00000DDPrD" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Company State required.</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="phone">Phone Number</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id, true);&#xA;&#x9;&#x9;&#x9;&#x9;" validate="true" name="phone" id="phone" maxlength="10" title="Valid Phone required must be 10 digits number 0-9" pattern="^\d{10}$"></div>
+                              <div id="cbds-formMicroalert-id-phone" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Phone required must be 10 digits number 0-9</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="email">Email</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id);" name="email" id="email" maxlength="80" title="Valid Email required must have @ included." pattern="^[\w\-_\.]+@[\w\-_\.]+\.\w+$"></div>
+                              <div id="cbds-formMicroalert-id-email" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Email required must have @ included.</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="capability_of_interest">Capability of Interest</label><div class="cbds-c-formElement__control">
+                                 <div class="cbds-c-select"><select class="cbds-c-select__select" required="" aria-required="true" aria-invalid="true" onblur="validateForm(this.form,this.id);" name="00N5a00000DDPrB" id="capability_of_interest" title="Capability of Interest">
+                                       <option class="cbds-c-select__option" selected="true" value="">Choose an option</option>
+                                       <option class="cbds-c-select__option" value="Capital Markets">Capital Markets</option>
+                                       <option class="cbds-c-select__option" value="Credit Card / Payments">Credit Card / Payments</option>
+                                       <option class="cbds-c-select__option" value="Financing">Financing</option>
+                                       <option class="cbds-c-select__option" value="MandA">MandA</option>
+                                       <option class="cbds-c-select__option" value="Treasury Management">Treasury Management</option>
+                                       <option class="cbds-c-select__option" value="Risk Management">Risk Management</option>
+                                       <option class="cbds-c-select__option" value="Commercial Real Estate">Commercial Real Estate</option>
+                                       <option class="cbds-c-select__option" value="Other (specify)">Other (specify)</option></select><span class="cbds-c-select__indicator"><svg height="24" width="24" aria-hidden="true" focusable="false" role="img" class="cbds-c-icon cbds-c-select__indicatorIcon">
+                                          <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down"></use></svg></span></div>
+                              </div>
+                              <div id="cbds-formMicroalert-id-00N5a00000DDPrB" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Capability of Interest required.</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="capability_of_interest_other_interest">Other Interest</label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" required="" aria-invalid="true" aria-required="true" onblur="validateForm(this.form,this.id);" name="00N5a00000DDPrE" id="capability_of_interest_other_interest" maxlength="255" title="Valid other interest required" pattern=""></div>
+                              <div id="cbds-formMicroalert-id-00N5a00000DDPrE" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid other interest required</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="company_revenue_size">Company Revenue Size</label><div class="cbds-c-formElement__control">
+                                 <div class="cbds-c-select"><select class="cbds-c-select__select" required="" aria-required="true" aria-invalid="true" onblur="validateForm(this.form,this.id);" name="00N5a00000DDPrA" id="company_revenue_size" title="Company Revenue Size">
+                                       <option class="cbds-c-select__option" selected="true" value="">Choose an option</option>
+                                       <option class="cbds-c-select__option" value="$0-25mm">$0-25MM</option>
+                                       <option class="cbds-c-select__option" value="$25-100mm">$25-100MM</option>
+                                       <option class="cbds-c-select__option" value="$100-$500mm">$100-$500MM</option>
+                                       <option class="cbds-c-select__option" value="$500mm+">$500MM+</option></select><span class="cbds-c-select__indicator"><svg height="24" width="24" aria-hidden="true" focusable="false" role="img" class="cbds-c-icon cbds-c-select__indicatorIcon">
+                                          <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#chevron-down"></use></svg></span></div>
+                              </div>
+                              <div id="cbds-formMicroalert-id-00N5a00000DDPrA" class="cbds-c-formMicroalert cbds-u-display__none"><svg height="16" width="16" aria-label="Error:" focusable="false" role="img" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                                    <use xlink:href="./assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#error-circle"></use></svg>Valid Annual Revenue required.</div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="how_can_we_help">How can we help?<span class="dcom-c-formElement__label--optional"> (Optional)</span></label><div class="cbds-c-formElement__control"><input type="text" size="20" class="cbds-c-textInput" aria-required="false" name="00N5a00000DDPrC" id="how_can_we_help" maxlength="" title="" pattern=""><div style="color:red" align="left" id="how_can_we_help_errortext"></div>
+                              </div>
+                           </div>
+                           <div class="cbds-c-formElement"><label class="cbds-c-formLabel cbds-c-formElement__label" for="_464"></label><div class="cbds-c-formElement__control"></div>
+                           </div><script src="https://www.google.com/recaptcha/api.js"></script><script>
+		$(document).ready(function() {
+			 $(':input[type="submit"]').prop('disabled', true);
+		});
+	</script><script type="text/javascript">
+			function onloadCallback(response) {
+				if(response) {
+					$(':input[type="submit"]').removeAttr("disabled");
+				}
+   			}
+	</script><div id="g-recaptchaCheck" class="g-recaptcha" data-callback="onloadCallback" data-sitekey="6LfbebwpAAAAAKoaRVSaxwBqKHIUiE7r4U0BpB4c" data-theme="light" data-size="normal"></div><button class="cbds-c-button cbds-c-button--contained cbensightenevent" data-cbdata-type="button" data-cbdata-reason="dcom-c-forms-component-container--submit" type="submit"><span class="cbds-c-button__label">Submit</span></button></form>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </section>
+      </div>
+      <div class="dcom-c-overlay-component cbds-u-display__none" id="dcom-form-component-overlay-success">
+         <div class="dcom-c-overlay-component__content">
+            <div class="dcom-c-forms-component-success-container" id="dcom-c-forms-component-success-container">
+               <div class="dcom-c-forms-component-success-container__icon-container">
+                  <div id="cbds-formMicroalert-id-form-success" class="cbds-c-formMicroalert"><svg fill="green" height="48" width="48" aria-label="Success:" focusable="false" class="cbds-c-icon cbds-c-formMicroalert__icon">
+                        <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#checkmark-circle" href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#checkmark-circle"></use></svg></div>
+               </div>
+               <h2 class="dcom-c-forms-component-success-container__title">Thank you!</h2>
+               <p class="dcom-c-forms-component-success-container__details">We have received your inquiry. A Citizens Securities, Inc. (CSI) Advisor will be in
+                  touch shortly.</p>
+               <p style="font-size:10px">This popup will be autoclosed.</p>
+            </div>
+         </div>
+      </div><script src="/iwov-resources/scripts/forms/CommercialForms.min.js" type="text/javascript"></script><script type="text/javascript">
+       window.addEventListener('load', (event) => {
+			setdefaults('CommercialForm');
+			
+				focusElement('CommercialForm');
+			
+		});
+   	
+	</script></body>
+</html>
+ </div>
+</div>
+<div class="iw_placeholder" id="iw_placeholder1686033793418">
+ <div class="iw_component" id="iw_comp1663478803328">
+  <style>#iw_comp1663478803328{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/GlobalComponents/FooterGlobal/footer-global.min.css" rel="stylesheet" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5BMP7-Q46DH-MA9ZE-K574A-MZT88",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5BMP7-Q46DH-MA9ZE-K574A-MZT88";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="bv6uzsyxffo7y2bgbcwq-f-f326a8fe6-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1415775","ak.ai":parseInt("340899",10),"ak.ol":"0","ak.cr":2,"ak.ipv":4,"ak.proto":"h2","ak.rid":"3cc4628","ak.r":23482,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.125.76.0","ak.cport":49352,"ak.gh":"104.70.122.29","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747323053","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==I3U8KInHA2qKlqpy1CkKCMuRoxVltqTZgQjOchRx0hUiTaX/y4+cTv11XMsEuN0W2brLGFSrNik8EABOVdoXt8xLFEyG5JZw3RUbgE30EwOSW/4S1rb603wXAiW9lymK65vNUOwAojLZZD75v+YiAf9zYtdtktMHRf9uFEYK2txJEw3o6sRS77q8Tymc9gHE7xBJn+/f12kN1LmQMj161i8+jIVt1xDk0njG5lW0x/agIMJzymXKX6JOvskPBbgX1zj1SBLBk7aXZwDEz/obK9icXA+B20Pz7gNdSDoJ5jC4WSfhA8G8UcnU56xzrSlKp4p+6KIiUJ3aqzuBMQLW0trYPfn58bGws783eV1p4CHEI3qRxe9XYShBXvzcRkQqlaT9MMKDnoVByiwr58HsaNykmhYkjmX+ID9/gWv+Zgw=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   <div class="cbds-u-topSpacing--none">
+      <footer class="cbds-c-globalFooter dcom-component__padding-top--medium dcom-component__padding-bottom--medium ">
+         <div class="cbds-c-globalFooter__primarySection">
+            <div class="cbds-l-grid--@xl">
+               <div class="cbds-l-grid__row cbds-c-globalFooter__main">
+                  <div class="cbds-l-grid__col--12 cbds-l-grid__col--3@lg cbds-l-grid__col--3@md"><img src="/assets/CB_resources/images/cbds-logos/logo-citizens__horz-deepGreen.svg" alt="citizens commercial" loading="eager" class="dcom-logo dcom-logo--commercial dcom-c-nav-header__logo dcom-c-navigation-bar-header__logo" width="174px" height="28px"></div>
+                  <div class="cbds-l-grid__col--12 cbds-l-grid__col--6@lg cbds-l-grid__col--8@md">
+                     <nav class="cbds-c-globalFooterPrimaryNav" aria-label="Footer Primary">
+                        <div class="cbds-l-grid__row">
+                           <div class="cbds-c-globalFooterPrimaryNav__column">
+                              <h5 class="cbds-c-globalFooterPrimaryNav__heading">Company</h5>
+                              <ul class="cbds-c-globalFooterPrimaryNav__list" id="cbds-c-footer__nav-Company">
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="https://investor.citizensbank.com/about-us/our-company.aspx" target="_self"><span>About Us</span></a></li>
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="https://jobs.citizensbank.com/commercial-banking?utm_source=citizensbank.com&amp;utm_medium=referral&amp;utm_campaign=careersite" target="_self"><span>Career</span></a></li>
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="/community/overview.aspx" target="_self"><span>Community</span></a></li>
+                              </ul>
+                           </div>
+                           <div class="cbds-c-globalFooterPrimaryNav__column">
+                              <h5 class="cbds-c-globalFooterPrimaryNav__heading">Help</h5>
+                              <ul class="cbds-c-globalFooterPrimaryNav__list" id="cbds-c-footer__nav-Help">
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="/customer-service/contact-us.aspx" target="_self"><span>Contact Us</span></a></li>
+                              </ul>
+                           </div>
+                           <div class="cbds-c-globalFooterPrimaryNav__column">
+                              <h5 class="cbds-c-globalFooterPrimaryNav__heading">Resources</h5>
+                              <ul class="cbds-c-globalFooterPrimaryNav__list" id="cbds-c-footer__nav-Resources">
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="/customer-service/branch-locator.aspx" target="_self"><span>Branch Locator</span></a></li>
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " href="/corporate-finance/insights.aspx" target="_self"><span>Insights</span></a></li>
+                                 <li class="cbds-c-globalFooterPrimaryNav__item"><a class="cbds-c-globalFooterPrimaryNav__link " id="custfeedback" href="#0" target="_self"><span>Share Feedback</span></a></li>
+                              </ul>
+                           </div>
+                        </div>
+                     </nav>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div class="cbds-c-globalFooter__secondarySection">
+            <div class="cbds-l-grid--@xl">
+               <div class="cbds-l-grid__row">
+                  <div class="cbds-l-grid__col--12">
+                     <ul class="cbds-c-globalFooterSocialMedia">
+                        <li class="cbds-c-globalFooterSocialMedia__item"><a href="https://www.linkedin.com/company/citizenscommercialbanking" class="cbds-c-iconButton cbds-c-iconButton--textTertiary cbds-c-iconButton--sm cbds-c-globalFooterSocialMedia__button" target="_blank" aria-label="Citizens Bank Linkedin" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon cbds-c-iconButton__icon  " aria-hidden="true">
+                                 <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-ui.svg#linkedin"/></svg></a></li>
+                        <li class="cbds-c-globalFooterSocialMedia__item"><a href="https://twitter.com/CFGCommercial" class="cbds-c-iconButton cbds-c-iconButton--textTertiary cbds-c-iconButton--sm cbds-c-globalFooterSocialMedia__button" target="_blank" aria-label="Citizens Bank Twitter" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon cbds-c-iconButton__icon  " aria-hidden="true">
+                                 <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-brand.svg#twitter"/></svg></a></li>
+                        <li class="cbds-c-globalFooterSocialMedia__item"><a href="https://www.youtube.com/channel/UCJbwTXaW4kY_VihhzTllnUg" class="cbds-c-iconButton cbds-c-iconButton--textTertiary cbds-c-iconButton--sm cbds-c-globalFooterSocialMedia__button" target="_blank" aria-label="Citizens Bank YouTube" rel="noopener noreferrer"><svg xmlns="http://www.w3.org/2000/svg" class="cbds-c-icon cbds-c-iconButton__icon  " aria-hidden="true">
+                                 <use xlink:href="/assets/CB_resources/images/cbds-icons/cbds-icons-brand.svg#youtube"/></svg></a></li>
+                     </ul>
+                  </div>
+               </div>
+               <nav class="cbds-c-globalFooterUtilityNav" aria-label="Footer Utility">
+                  <ul class="cbds-c-globalFooterUtilityNav__list">
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/about-our-ads/overview.aspx" target="_self"><span>About Our Ads</span></a></li>
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/site-requirements/overview.aspx" target="_self"><span>Site Requirements</span></a></li>
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/account-safeguards/overview.aspx" target="_self"><span>Security &amp; Legal</span></a></li>
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/account-safeguards/privacy.aspx" target="_self"><span>Privacy Policy</span></a></li>
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/account-safeguards/privacy.aspx" target="_self"><span>Privacy Rights</span></a></li>
+                     <li class="cbds-c-globalFooterUtilityNav__item"><a class="cbds-c-globalFooterUtilityNav__link " href="/ada-compliance/overview.aspx" target="_self"><span>Accessibility</span></a></li>
+                  </ul>
+               </nav>
+            </div>
+         </div>
+      </footer>
+   </div><script type="module" src="/assets/CB_resources/GlobalComponents/FooterGlobal/footer-global.min.js"></script></html>
+ </div>
+ <div class="iw_component" id="iw_comp1663478803329">
+  <style>#iw_comp1663478803329{}</style><!DOCTYPE HTML><html xmlns:xlink="http://www.w3.org/1999/xlink">
+   <link href="/assets/CB_resources/styles/foundation-support.css" rel="stylesheet" type="text/css">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch","rua.ceh":"false","rua.ueh":"false","rua.ieh.st":"0"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="5BMP7-Q46DH-MA9ZE-K574A-MZT88",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"5BMP7-Q46DH-MA9ZE-K574A-MZT88";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="cookiepresent",a="bv6uzsyxffo7y2bgbcwq-f-f326a8fe6-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"1415775","ak.ai":parseInt("340899",10),"ak.ol":"0","ak.cr":2,"ak.ipv":4,"ak.proto":"h2","ak.rid":"3cc4628","ak.r":23482,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"13.125.76.0","ak.cport":49352,"ak.gh":"104.70.122.29","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"","ak.t":"1747323053","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==I3U8KInHA2qKlqpy1CkKCMuRoxVltqTZgQjOchRx0hUiTaX/y4+cTv11XMsEuN0W2brLGFSrNik8EABOVdoXt8xLFEyG5JZw3RUbgE30EwOSW/4S1rb603wXAiW9lymK65vNUOwAojLZZD75v+YiAf9zYtdtktMHRf9uFEYK2txJEw3o6sRS77q8Tymc9gHE7xBJn+/f12kN1LmQMj161i8+jIVt1xDk0njG5lW0x/agIMJzymXKX6JOvskPBbgX1zj1SBLBk7aXZwDEz/obK9icXA+B20Pz7gNdSDoJ5jC4WSfhA8G8UcnU56xzrSlKp4p+6KIiUJ3aqzuBMQLW0trYPfn58bGws783eV1p4CHEI3qRxe9XYShBXvzcRkQqlaT9MMKDnoVByiwr58HsaNykmhYkjmX+ID9/gWv+Zgw=","ak.pv":"78","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+   <section class="dcom-c-disclosure">
+      <div class="cbds-l-grid dcom-c-disclosure__wrapper">
+         <div class="cbds-l-grid__row">
+            <div class="cbds-l-grid__col--12@sm">
+               <p class="dcom-c-disclosure__paragraph--disclosure">
+                  				© 
+                  			<span id="copyright"><script>document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))</script></span>
+                  Citizens Financial Group, Inc. All rights reserved. Citizens is a brand name of Citizens
+                  Bank, N.A. Member FDIC
+                  </p>
+               <div class="dcom-c-disclosure__securities">
+                  <p><p class="cbds-u-paddingBottom__4x">&ldquo;Citizens&rdquo; is the marketing name for the business of Citizens Financial Group, Inc. (&ldquo;CFG&rdquo;) and its subsidiaries. &ldquo;Citizens Capital Markets &amp; Advisory&rdquo; is the marketing name for the investment banking, research, sales, and trading activities of our institutional broker-dealer, Citizens JMP Securities, LLC (&ldquo;CJMPS&rdquo;), Member <a href="https://brokercheck.finra.org/firm/summary/22208" target="_blank" rel="noopener">FINRA </a>and <a href="https://www.sipc.org/" target="_blank" rel="noopener">SIPC</a> (See<a href="https://brokercheck.finra.org/firm/summary/22208" target="_blank" rel="noopener"> FINRA BrokerCheck</a> and <a href="https://www.sipc.org/" target="_blank" rel="noopener">SIPC.org</a>). Securities products and services are offered to institutional clients through CJMPS. (<a href="/corporate-finance/disclosures/citizens-jmp.aspx">CJMPS disclosures</a>&nbsp;and <a href="https://files.brokercheck.finra.org/crs_22208.pdf" target="_blank" rel="noopener">CJMP Form CRS</a>). Banking products and services are offered through Citizens Bank, N.A., Member FDIC. Citizens Valuation Services is a business division of Willamette Management Associates, Inc. (a wholly owned subsidiary of CFG).</p>
+<p class="cbds-u-paddingBottom__4x">Securities and investment products are subject to risk, including principal amount invested and are: NOT FDIC INSURED &middot; NOT BANK GUARANTEED &middot; MAY LOSE VALUE</p>
+<p>&nbsp;</p></p>
+               </div>
+               <div class="dcom-c-disclosure__logos">
+                  <div class="cbds-l-grid__row cbds-u-flexJustifyContent__end@sm">
+                     <div class="cbds-l-grid__col--12">
+                        <ul class="dcom-c-disclosure__logos-list">
+                           <li class="dcom-c-li"><img src="/assets/CB_resources/images/cbds-icons/disclosureIcons/housing.svg" alt="Equal Housing Lender Logo"></li>
+                           <li class="dcom-c-li"><img src="/assets/CB_resources/images/cbds-icons/disclosureIcons/verisign.svg" alt="Verisign Logo"></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </section><script type="text/javascript" src="/assets/CB_resources/scripts/personalization_disclosure.js"></script><script src="/assets/CB_resources/scripts/vendor/vendor-bottom.min.js"></script><script src="/assets/CB_resources/scripts/main.min.js"></script><script type="text/javascript" src="/assets/CB_resources/scripts/dotcomAnalyticsDataLayer.js"></script></html>
+ </div>
+</div>
+<div class="dcom-c-textBlock--disclosure">
+ <div class="iw_placeholder" id="iw_placeholder1733585015725"></div>
+</div></div><script type="text/javascript">_satellite.pageBottom();</script><!--ls:end[body]--><!--ls:begin[page_track]--><!--ls:end[page_track]--></body>
+</html>
