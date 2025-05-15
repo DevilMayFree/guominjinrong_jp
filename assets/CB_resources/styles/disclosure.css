@@ -1,0 +1,11 @@
+.dcom-c-textBlock--disclosure.dcom-c-textBlock--disclosure * {
+    font-family: FiraSans, Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 14px !important;
+    line-height: 2 !important;
+    color: #757474 !important;
+    padding-bottom: 0 !important;
+}
+
+.dcom-c-textBlock--disclosure .dcom-c-textBlock p{
+        margin-bottom:0!important;
+}

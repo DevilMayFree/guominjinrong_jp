@@ -1,0 +1,349 @@
+@font-face {
+    font-family: Addington;
+    font-style: normal;
+    font-weight: 600;
+    font-display: fallback;
+    src: url(/assets/CB_resources/fonts/addington/AddingtonCF-DemiBold.woff2) format("woff2"), url(/assets/CB_resources/fonts/addington/AddingtonCF-DemiBold.woff) format("woff")
+}
+
+@font-face {
+    font-family: Addington;
+    font-style: normal;
+    font-display: fallback;
+    src: url(/assets/CB_resources/fonts/addington/AddingtonCF-Regular.woff2) format("woff2"), url(/assets/CB_resources/fonts/addington/AddingtonCF-Regular.woff) format("woff")
+}
+
+@font-face {
+    font-family: Addington;
+    font-style: normal;
+    font-weight: 600;
+    font-style: italic;
+    font-display: fallback;
+    src: url(/assets/CB_resources/fonts/addington/AddingtonCF-DemiBoldItalic.woff2) format("woff2"), url(/assets/CB_resources/fonts/addington/AddingtonCF-DemiBoldItalic.woff) format("woff")
+}
+
+@font-face {
+    font-family: Addington;
+    font-style: normal;
+    font-style: italic;
+    font-display: fallback;
+    src: url(/assets/CB_resources/fonts/addington/AddingtonCF-MediumItalic.woff2) format("woff2"), url(/assets/CB_resources/fonts/addington/AddingtonCF-MediumItalic.woff) format("woff")
+}
+
+@font-face {
+    font-family: Addington;
+    font-style: light;
+    font-weight: 300;
+    font-display: fallback;
+    src: url(/assets/CB_resources/fonts/addington/AddingtonCF-DemiBold.woff2) format("woff2"), url(/assets/CB_resources/fonts/addington/AddingtonCF-DemiBold.woff) format("woff")
+}
+
+@font-face {
+    font-family: Addington;
+    font-style: light;
+    font-weight: 300;
+    font-display: fallback;
+    src: url(/assets/CB_resources/fonts/addington/AddingtonCF-Light.woff2) format("woff2"), url(/assets/CB_resources/fonts/addington/AddingtonCF-Light.woff) format("woff")
+}
+
+/* Background colors */
+.cbds-u-backgroundColor--black,
+.cbds-u-backgroundColor--black .dcom-c-forms-component-container {
+    background: #231F20;
+}
+
+.cbds-u-backgroundColor--eggshell {
+    background: #FFF8F1;
+}
+
+/* Headlines colors */
+.cbds-u-backgroundColor--black h1,
+.cbds-u-backgroundColor--black h2,
+.cbds-u-backgroundColor--black h3,
+.cbds-u-backgroundColor--black h4,
+.cbds-u-backgroundColor--black p,
+.cbds-u-backgroundColor--black.dcom-c-hero-commercial h1,
+.cbds-u-backgroundColor--black.dcom-c-hero-commercial p,
+.cbds-u-backgroundColor--black .cbds-c-formLabel,
+.cbds-u-backgroundColor--black.dcom-c-hero-commercial h1,
+.cbds-u-backgroundColor--black.dcom-c-hero-commercial p,
+.cbds-u-backgroundColor--black.dcom-c-section-title-global .dcom-c-section-title-global__header,
+.cbds-u-backgroundColor--black .cbds-c-formLabel,
+.dcom-component__infographic p,
+.cbds-u-backgroundColor--black.dcom-c-featureGrid .dcom-c-featureGrid__item p,
+.cbds-u-backgroundColor--black.dcom-c-featureGrid .dcom-c-featureGrid__item h3 {
+    color: #FFF8F1 !important;
+   
+}
+
+
+.cbds-u-backgroundColor--black.dcom-c-textBlock.cbds-u-text--eyebrow p,
+.dcom-component__infographic h3 {
+    color: #FFDFBE !important;
+}
+
+.cbds-u-backgroundColor--eggshell.dcom-c-textBlock.cbds-u-text--eyebrow p,
+.cbds-u-backgroundColor--black.dcom-c-featureGrid .dcom-c-featureGrid__item .dcom-c-featureGrid__item-heading,
+.dcom-c-featureGrid .dcom-c-featureGrid__item .dcom-c-featureGrid__item-heading,
+.dcom-c-featureGrid .dcom-c-featureGrid__item p,
+.cbds-u-backgroundColor--black.dcom-c-featureGrid .dcom-c-featureGrid__item p, .cbds-u-backgroundColor--eggshell h3, .dcom-c-comparison .cbds-c-button--contained .cbds-c-button__label {
+    color: #231F20 !important;
+}
+
+/* Link styles */
+.cbds-u-backgroundColor--eggshell.dcom-c-textBlock a,
+.cbds-u-backgroundColor--black.dcom-c-textBlock a,
+.dcom-c-featureGrid .cbds-c-button, .dcom-c-featureGrid a,.dcom-c-colleague-highlight .dcom-c-colleague-highlight__contact-li a {
+    color: #339D77 !important;
+    text-decoration: underline;
+}
+
+.dcom-c-colleague-highlight .dcom-c-colleague-highlight__icon  {fill: #231f20!important;}
+
+/* Headline styles */
+.cbds-u-backgroundColor--eggshell h1,
+.cbds-u-backgroundColor--black h1,
+.cbds-u-backgroundColor--eggshell h2,
+.cbds-u-backgroundColor--black h2,
+.cbds-u-backgroundColor--black h3,
+.cbds-u-backgroundColor--black h4,
+.cbds-u-backgroundColor--black h5,
+.cbds-u-backgroundColor--eggshell h3,
+.cbds-u-backgroundColor--eggshell h4,
+.cbds-u-backgroundColor--eggshell h5,
+.cbds-u-backgroundColor--eggshell h2.dcom-c-featureSingle__heading,
+.cbds-u-backgroundColor--black h2.dcom-c-featureSingle__heading {
+    font-family: Addington, serif !important;
+    font-weight: 600!important;
+    font-style: normal;
+}
+.dcom-component__infographic     .dcom-c-section-title-global .dcom-c-section-title-global__subheader{font-size:14px; padding:0; margin:0;}
+
+.dcom-component__infographic h3, .dcom-component__infographic h3 span {
+    font-family: FiraSans, Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+    font-size: 41px;
+    font-style: normal;
+    font-weight: 300;
+    margin: 0;
+    line-height: 48px;
+}
+
+.dcom-component__infographic p {
+    padding: 0;
+    margin: 0;
+    font-family: FiraSans, Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.dcom-c-textBlock.cbds-u-text--eyebrow p {
+    margin: 0;
+    text-transform: uppercase
+}
+
+/* button Colors */
+.cbds-u-backgroundColor--black .cbds-c-button--contained,
+.cbds-u-backgroundColor--black.dcom-c-featureSingle .cbds-c-button--contained, .cbds-u-backgroundColor--black .dcom-c-comparison .dcom-c-comparison__content a.cbds-c-button.cbds-c-button--contained {
+    border: 2px solid #FFDFBE;
+    background: #FFF8F1;
+    color: #231F20!important;
+}
+
+.cbds-u-backgroundColor--black .cbds-c-button--contained:hover,
+.cbds-u-backgroundColor--black.dcom-c-featureSingle .cbds-c-button--contained:hover {
+    border: 2px solid #FFF8F1;
+    background: #FFDFBE;
+    color: var(--color-neutral-Citizens-Black, #231F20);
+}
+
+.cbds-u-backgroundColor--black .cbds-c-button--ghost {
+    color: #FFF8F1;
+}
+
+.cbds-u-backgroundColor--black .cbds-c-button--ghost:hover,
+.cbds-u-backgroundColor--black .cbds-c-button--ghost:active {
+    color: #FFF8F1;
+    border: 1px solid #FFF8F1;
+    background: var(--color-neutral-Citizens-Black, #231F20);
+}
+
+.cbds-u-backgroundColor--eggshell .cbds-c-button--contained, .dcom-c-btn.dcom-c-btn--primary, .dcom-c-btn.dcom-c-btn--primary:hover, .dcom-c-btn.dcom-c-btn--primary:active {
+    border: 1px solid #FFDFBE;
+    background: var(--color-neutral-Citizens-Black, #231F20);
+    color: #FFF8F1;
+}
+
+.cbds-u-backgroundColor--black .dcom-c-forms-component-container .cbds-c-button--contained.cbds-is-disabled,
+.cbds-c-button--contained[aria-disabled=true],
+.cbds-c-button--contained[disabled] {
+    border: 1px solid rgb(255, 223, 190, .8);
+    background: rgb(255, 249, 241, .8);
+    color: rgb(35, 31, 32);
+}
+
+.dcom-component__infographic {
+    padding: 32px 0;
+}
+
+
+.row {
+   width:auto!important;
+    padding:0!important;
+    
+}
+.dcom-c-textBlock__keytakeaways {margin: 0 !important;}
+
+@media (min-width: 767px) {
+    .row, .dcom-c-textBlock__keytakeaways {margin: 0 24px 0 24px !important;}
+
+}
+@media (min-width: 1280px) {
+    .row, .dcom-c-textBlock__keytakeaways {margin: 0 32px 0 32px !important;}
+    .dcom-c-comparison .dcom-c-comparison__heading{font-size:23px!important; line-height: 1.35!important;}
+}
+
+
+.dcom-c-textBlock__keytakeaways {
+   
+border-bottom: 1px solid var(--color-neutral-Neutral-700, #636262);
+   
+border-left: 6px solid var(--color-neutral-Neutral-700, #636262);
+   
+background: #F8F1EB;
+}
+.dcom-c-textBlock__keytakeaways .dcom-c-textBlock__heading{
+    font-size: 18px;font-weight: 600;
+    line-height: 28px;
+}
+.dcom-c-textBlock__keytakeaways .dcom-c-colleague-highlight .dcom-c-colleague-highlight__avatar-img {
+    height: 48px;
+    width: 48px;
+}
+
+.dcom-c-textBlock__keytakeaways .dcom-c-colleague-highlight .dcom-c-colleague-highlight__name,
+.dcom-c-textBlock__keytakeaways .dcom-c-textBlock p,
+.dcom-c-textBlock__keytakeaways .dcom-c-textBlock ul li {
+    font-size: 16px;
+    font-style: normal;
+    line-height: 24px;
+}
+
+.dcom-c-textBlock__keytakeaways .dcom-c-colleague-highlight .dcom-c-colleague-highlight__title,
+.dcom-c-textBlock__keytakeaways .dcom-c-colleague-highlight .dcom-c-colleague-highlight__subtitle{
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 16px;
+    color: #231f20;
+}
+
+.dcom-c-textBlock__keytakeaways .dcom-c-textBlock p strong {
+    font-weight: 500 !important;
+}
+
+.dcom-c-textBlock__keytakeaways .dcom-c-textBlock p {
+    margin-bottom: 12px;
+}
+
+.dcom-c-textBlock__keytakeaways .dcom-c-colleague-highlight .dcom-c-colleague-highlight__card-wrapper {
+    border: none;
+}
+
+.dcom-c-textBlock__keytakeaways .dcom-c-colleague-highlight .dcom-c-colleague-highlight__avatar-section {
+    padding: 0 !important;
+}
+sup
+{
+    vertical-align: super!important;
+    font-size: small;
+    font-weight:300;
+    font-family: FiraSans, Arial, "Helvetica Neue", Helvetica, sans-serif !important;
+}
+
+
+/* remove foundation styles for video */
+
+.card {
+    margin: 0;
+    padding: 0 !important;
+    box-shadow: none !important;
+}
+video {padding-top:0!important}
+
+.card h2 {
+       font-size: 23px;
+    line-height: 1.35;
+    font-weight: 500;
+    color: #231f20;
+    font-family: FiraSans, Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin: 0;
+    font-weight: 600 !important;
+    margin-bottom: var(--cbds-tkn-space__4x);
+}
+
+.card p {
+   font-size: 16px;
+    line-height: 1.5;
+    font-weight: 400;
+    color: #231f20;
+    font-family: FiraSans, Arial, "Helvetica Neue", Helvetica, sans-serif;
+    margin: 0;
+    margin-bottom: 24px;
+}
+
+/* main.css clear */
+.card-content,
+.col-xs-1,
+.col-sm-1,
+.col-md-1,
+.col-lg-1,
+.col-xs-2,
+.col-sm-2,
+.col-md-2,
+.col-lg-2,
+.col-xs-3,
+.col-sm-3,
+.col-md-3,
+.col-lg-3,
+.col-xs-4,
+.col-sm-4,
+.col-md-4,
+.col-lg-4,
+.col-xs-5,
+.col-sm-5,
+.col-md-5,
+.col-lg-5,
+.col-xs-6,
+.col-sm-6,
+.col-md-6,
+.col-lg-6,
+.col-xs-7,
+.col-sm-7,
+.col-md-7,
+.col-lg-7,
+.col-xs-8,
+.col-sm-8,
+.col-md-8,
+.col-lg-8,
+.col-xs-9,
+.col-sm-9,
+.col-md-9,
+.col-lg-9,
+.col-xs-10,
+.col-sm-10,
+.col-md-10,
+.col-lg-10,
+.col-xs-11,
+.col-sm-11,
+.col-md-11,
+.col-lg-11,
+.col-xs-12,
+.col-sm-12,
+.col-md-12,
+.col-lg-12 {
+    padding: 0 !important;
+    margin: 0 !important;
+}   
+
