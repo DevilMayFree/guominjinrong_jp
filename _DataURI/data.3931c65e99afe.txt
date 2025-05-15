@@ -1,0 +1,1 @@
+chrome-extension://ikhdkkncnoglghljlkmcimlnlhkeamad/blueprint-select.css

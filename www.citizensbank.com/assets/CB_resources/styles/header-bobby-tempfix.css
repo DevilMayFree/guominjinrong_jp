@@ -1,0 +1,46 @@
+@font-face {
+    font-family: "Bobby";
+    font-weight: 600;
+    font-display: fallback;
+    src: url(/assets/CB_resources/fonts/bobby/F37Bobby-Regular.woff2) format("woff2")
+}
+
+.dcom-c-comparison .dcom-c-comparison__heading,
+.dcom-section-title-global__section .dcom-section-title-global__header,
+.dcom-c-featureGrid .dcom-c-featureGrid__item-heading,
+.dcom-c-hero-commercial__wrapper h1,
+.dcom-c-textBlock-column h2,
+.dcom-c-featureSingle .dcom-c-featureSingle__heading {
+    font-family: Bobby, serif !important;
+    font-weight: 600 !important;
+}
+
+.dcom-c-hero-commercial h1 .cbds-u-fontcolor__neongreen {
+    color: var(--color-brand-Citizens-Lime-Green, #4AFF75);
+    font-family: "F37 Bobby";
+    font-size: 32px;
+    line-height: 38px;
+    font-style: italic;
+}
+
+.dcom-c-featureGrid .dcom-c-featureGrid__item-icon {
+    fill: rgb(0, 133, 85);
+}
+
+@media screen and (min-width: 768px) {
+    .dcom-c-featureSingle .dcom-c-featureSingle__image {
+        box-shadow: none;
+    }
+
+    .dcom-c-hero-commercial h1 .cbds-u-fontcolor__neongreen {
+        font-size: 32px;
+        line-height: 38px;
+    }
+}
+
+@media (width >=1280px) {
+    .dcom-c-hero-commercial h1 .cbds-u-fontcolor__neongreen {
+        font-size: var(--cbds-tkn-typeScale__3xl--41, 41px);
+        line-height: var(--cbds-tkn-lineHeight__3xl--48, 48px);
+    }
+}

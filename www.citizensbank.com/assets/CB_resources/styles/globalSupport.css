@@ -1,0 +1,309 @@
+/* Hover issue fix starts */
+.cbds-c-iconButton.cbds-c-iconButton--ghostPrimary :hover {
+    background: transparent;
+}
+
+/*Hover issue fix ends */
+/*nav issue in preview*/
+@media screen and (min-width: 768px) {
+    #dcom_navGlobal_bar {
+        height: auto;
+
+    }
+}
+
+/* Forms issue on override by main.css*/
+.cbds-c-form input[type=text] {
+    box-sizing: border-box;
+
+    -webkit-box-sizing: border-box;
+
+    box-sizing: border-box;
+
+    display: block;
+
+    width: 100%;
+
+    height: 48px;
+
+    margin: 0;
+
+    padding: 8px 12px;
+
+    font-size: inherit;
+
+    line-height: inherit;
+
+    font-style: normal;
+
+    letter-spacing: 0;
+
+    text-align: left;
+
+    text-decoration: none;
+
+    text-indent: 0;
+
+    text-shadow: none;
+
+    text-transform: none;
+
+    white-space: normal;
+
+    font-family: FiraSans, Arial, Helvetica Neue, Helvetica, sans-serif;
+
+    font-size: 16px;
+
+    line-height: 22px;
+
+    font-weight: 400;
+
+    color: #373535;
+
+    background-color: #fff;
+
+    border-radius: 0;
+
+    border: 1px solid #878686;
+
+    -webkit-transition: border .1s linear, background-color .1s linear;
+
+    transition: border .1s linear, background-color .1s linear;
+
+    -webkit-appearance: none;
+
+    -moz-appearance: none;
+
+    appearance: none;
+
+}
+
+/* Added for cross button not getting hovered on tab
+  .cbds-c-iconButton.cbds-c-iconButton--ghostPrimary button :focus {
+     outline: solid #000000;
+     outline-offset: 2px;
+ }
+/* Ends for ADA fix */
+/* below fixes are for mobile device only fix for cross button */
+@media (max-width: 768px) and (orientation : portrait) {
+    button.dcom-c-close-alert-button.cbensightenevent {
+        margin-bottom: 0px !important;
+    }
+
+    .align-button {
+        position: absolute;
+        right: -10px;
+    }
+}
+
+/*Added for estudio Layout Code - Starts*/
+
+.iw_viewport-wrapper .ls-canvas .ls-row .ls-area {
+    overflow: visible !important;
+}
+
+@media only screen and (min-width: 64.063em) {
+    body>.iw_viewport-wrapper .ls-canvas {
+        max-width: 1024px;
+        margin: auto;
+    }
+
+    body>.iw_viewport-wrapper .fullwidth {
+        min-width: 920px;
+        width: 100%;
+        /* max-width: initial !important*/
+        max-width: inherit !important;
+    }
+}
+
+/*Added for estudio Layout Code - Ends*/
+/* Device related fixes ends*/
+
+.dcom-c-testimonials .dcom-c-testimonials__quote--medium {
+    z-index: 0 !important;
+}
+
+.dcom-c-faqs__list-item :focus-visible {
+    outline: black 1px solid !important;
+}
+
+#dcom_footer_global {
+    padding-bottom: 0px !important;
+}
+
+@media screen and (min-width: 768px) {
+    .dcom-c-faqs .dcom-c-faqs__list-link {
+        text-align: left !important;
+    }
+}
+
+a.dcom-c-footer-global__anchor.ot-sdk-show-settings.cbensightenevent:hover {
+    color: #474444 !important;
+}
+
+@media screen and (min-width: 768px) {
+    .dcom-mobile-only.dcom-c-li.cbds-u-display__inlineFlex {
+        display: none !important;
+    }
+}
+
+.dcom-c-overlay-component .dcom-c-forms-component-success-container__icon-container svg {
+    fill: #008555 !important;
+}
+
+#dcom-featureGrid-video,
+div#dcom-featureSingle-video {
+    background: url('/assets/CB_resources/images/logo_ctz_brand.png') center center no-repeat !important;
+
+}
+
+
+
+/* Right fit calculator changes starts*/
+.form.cbds-c-formElement.cbds-c-formElement__control input#cbds-textInput :active,
+.form.cbds-c-formElement.cbds-c-formElement__control input#cbds-textInput :focus {
+    border-color: #4b4949 !important;
+}
+
+
+.cbds-c-button.cbds-is-disabled:hover,
+.cbds-c-button[aria-disabled=true]:hover,
+.cbds-c-button[disabled]:hover {
+    background-color: #d3d2d2 !important;
+    border-color: #bfbebe;
+    box-shadow: inset 0 2px 0 0 hsla(0, 0%, 100%, .2);
+    color: #757474;
+}
+
+.cbds-c-button.cbds-is-disabled:focus,
+.cbds-c-button[aria-disabled=true]:focus,
+.cbds-c-button[disabled]:focus {
+    background: #f6f6f6;
+    border-color: black !important;
+    color: #292627;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: 2px;
+}
+
+@media screen and (min-width: 992px) {
+    .dcom-c-zipcomponent-container .dcom-l-container {
+        padding: 16px 34px !important;
+    }
+}
+
+.cbds_amount:hover {
+    color: black !important;
+}
+
+.cbds-c-accordion__item.cbds-c-accordion--active.cbds_amount:hover {
+    color: black !important;
+}
+
+
+
+label.cbds-c-checkbox__control {
+    display: inline-flex !important;
+}
+
+
+
+svg.cbds-c-popoverButton__icon {
+    color: black !important;
+}
+
+h2.dcom-calc-input-header {
+    color: #231F20;
+}
+
+.cbds-l-grid__col--12.cbds-l-grid__col--6\@md.dcom-checkbox-input span.cbds-c-checkbox__faux {
+    top: 40px;
+    margin-right: -24px;
+    margin-bottom: 40px;
+}
+
+.cbds-l-grid__col--12.cbds-l-grid__col--6\@md.dcom-checkbox-input span.cbds-c-checkbox__label {
+    position: relative;
+}
+
+.CalcInput label.cbds-c-formLabel.cbds-c-formElement__label {
+    height: 22px;
+}
+
+
+button.cbds-c-accordion__trigger.dcom-cal-accordion-icon:hover {
+    color: #000;
+    background: transparent;
+}
+
+button.cbds-c-accordion__trigger.dcom-cal-accordion-icon.dcom-is-disabled:hover {
+    color: #878686;
+    background: transparent;
+}
+
+.cbds-c-accordion__iconContainer.dcom-cal-accordion-iconContainer svg.cbds-c-icon.cbds-c-iconButton__icon--minus:hover,
+.cbds-c-accordion__iconContainer.dcom-cal-accordion-iconContainer svg.cbds-c-icon.cbds-c-iconButton__icon--plus:hover {
+    background: transparent !important;
+}
+
+button.cbds-c-accordion__trigger.dcom-cal-accordion-icon:focus-visible {
+    outline: solid;
+}
+
+button.cbds-c-accordion__trigger.dcom-cal-accordion-icon {
+    outline: none;
+}
+
+button#cbds-popover-id-\#:hover {
+    background-color: none !important;
+    outline: none;
+}
+
+.CalcComponent .CalcError .dcom-c-errorBlock__singleColumn h1 {
+    color: #000;
+    font-weight: 600;
+}
+
+.CalcComponent .CalcError .dcom-c-errorBlock .dcom-c-errorBlock__content {
+    margin-left: 0px;
+}
+
+.dcom-c-forms-component__header p {
+    color: #231F20 !important;
+}
+
+#calcInput .dcom-c-forms-component__header h2 {
+    color: #231F20 !important;
+}
+
+
+
+/* Right fit calculator changes ends*/
+/* Modal widow changes starts*/
+.cbds-c-modal__dialog_featuresingle {
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 592px;
+    pointer-events: none;
+    position: relative;
+    width: auto;
+    z-index: 1000;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1020px) {
+    .dcom-c-calculator .dcom-c-calculator__wrapper--grey {
+        padding: 48px 64px 64px;
+        box-shadow: 0 4px 8px -2px rgba(35, 31, 32, .38), 0 4px 8px -2px rgba(35, 31, 32, .14);
+        width: auto !important;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .dcom-calc-accordion .cbds-c-accordion .cbds-c-accordion__item.dcom-calc-accordion__item.cbds-c-accordion--active .dcom-is-disabled {
+        border-bottom: none;
+        margin-top: 0px !important;
+        color: #878686 !important;
+    }
+}
+
+/* Modal widow changes ends*/
