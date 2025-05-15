@@ -1,4 +1,4 @@
-﻿$(document).ready(function () {
+$(document).ready(function () {
 
     var isMobile = $('#initial_mobile_header').is(':visible');
     if (isMobile) {

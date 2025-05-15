@@ -226,14 +226,14 @@ $(document).ready(function () {
         function desktopSearch() {
             if ($("#dcom-desktop_search-query").val() != "") {
                 const searchQuery = $("#dcom-desktop_search-query").val();
-                window.location = '/search/answers.html?query=' + encodeURI(searchQuery);
+                window.location = '/search/answers.aspx?query=' + encodeURI(searchQuery);
             }
 
         }
         function mobileSearch() {
             if ($("#dcom-mobile_search-query").val() != "") {
                 const searchQuery = $("#dcom-mobile_search-query").val();
-                window.location = '/search/answers.html?query=' + encodeURI(searchQuery);
+                window.location = '/search/answers.aspx?query=' + encodeURI(searchQuery);
             }
 
         }
