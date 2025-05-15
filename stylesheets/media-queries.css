@@ -1,0 +1,598 @@
+/* Citizens Media Queries */
+
+
+
+/*--------- iPad Landscape and Desktops ---------*/
+
+@media all and (max-width: 1036px) and (min-width: 990px) {
+ul.rad-popup li { margin-left:9px; }
+ul.rad-popup li {width: 24%;}
+}
+
+@media all and (max-width: 1050px) {
+.head-sub-menu ul { margin-right:0; }
+}
+
+@media all and (max-width: 1024px) {
+
+.home-box3 .home-box3-inner p.more-box-link { padding-top:15px; }
+.home-box2-inner { padding: 10px 10px 7px; }
+.home-box2-links { padding: 25px 0 0; }
+.home-box2-inner { min-height: 253px; }
+.content-banner-wrapper .banner-text { left:0; }
+.our-company-box .news-box-inner { min-height: 214px; }
+.safari .home-box1-inner{min-height:253px;}
+}
+
+@media all and (max-width: 1020px) {
+.our-company-left-content{ width:50%; }
+.pie-chart-box{ margin-left:20px; }
+.pie-chart-box ul li{ margin-top:0; margin-left: 10px;}
+}
+
+@media all and (max-width: 1015px) and (min-width:990px) {
+.investing-in-citizens-bank .page-bottom-content ul li:first-child{width:125px;}
+}
+
+@media all and (min-width: 1000px) {
+.ie8 .home-box img { height:217px; width:302px; }
+}
+
+@media all and (max-width: 992px) {
+.our-company-left-content{ width:50%; }
+.pie-chart-box ul li{margin-top: 0; margin-left: 10px;}
+}
+
+
+@media all and (max-width: 991px) {
+.our-company-box .news-box-inner { min-height: 251px; }
+.content-left-col > h1#page-doc-name { padding-left:10px; padding-right:10px; }
+.content-right-col > div { padding-left:0; }
+
+.safari .home-box1-inner{min-height: 231px;}
+.container { max-width:100%; }
+.home-content { padding:20px 12px; }
+.breadcrumb-title { padding-left:20px; padding-right:20px; }
+.footer-wrapper { margin-left:12px; margin-right:12px; }
+.logo, .head-sub-menu { padding-left:20px; padding-right:20px; }
+#searchbox { margin-right:20px; }
+
+.content-left-inner { padding-left:4px; padding-right:4px; }
+
+.our-company-left-content { padding-left:16px; }
+.our-company-right-content { padding-right:16px; }
+
+.content-intro-text, .alert-text, .rp-main-container, .bod-content, .page-top-content, .two-box-main, .contactFormContainer, .leadership-container, .tab-container, .event-pres-main-container { padding-left:8px; padding-right:8px; }
+.full-width-content { padding:31px 12px 0; }
+.ir-box3, .ir-box4 { margin-bottom: 15px; }
+
+.content-left-inner > div.tab-container { padding-left:8px; padding-right:8px; }
+
+.date-doc-line.last { margin-bottom:0; }
+
+.bod-content .leadership-container { padding-left:0; padding-right:0; }
+.page-content-wrapper .breadcrumb-title.container { padding-left:20px; }
+.tab-content { padding-left:8px; padding-right:8px; }
+.tab-content .page-top-content { padding-left:0; padding-right:0; }
+
+.content-left-inner { padding-top:0; }
+.investing-bank-inner-content.tab-container { margin-top:0; }
+.two-box-intro-text.content-intro-text p { line-height:23px; }
+
+.main-content .our-company-left-content p a.rad-link { margin-top:0; }
+
+/*--  Content banner  --*/
+
+.banner-text h1 { line-height: 45px; margin-bottom:5px; }
+.banner-text .rad-introtext li p strong { font-size: 25px; }
+.banner-text .rad-introtext li { margin-right: 20px; width:99px; }
+.content-banner-wrapper { padding-right:20px; padding-left:20px; }
+.content-banner-wrapper .banner-text { left:20px; width:54%;  padding: 10px 18px; top:15px; }
+.content-banner-wrapper img { padding-left:20px; }
+
+/*--  Grey box  --*/
+
+.grey-box .grey-inner { bottom:25px; }
+.grey-box > img { width:100%; }
+
+.home-box1-inner, .home-box2-inner { min-height:231px !important; }
+.news-box.home-box .news-box-inner { min-height:220px; }
+.home-box3, .home-box4, .home-box5 { padding-top:0; }
+
+.banner-text h2 { line-height: 45px; }
+.content-right-col { margin-top:15px; padding-top:0; }
+.page-content-wrapper .content-left-inner { padding-bottom:0;  } 
+.home-box { padding-bottom:15px; }
+.tab-content #home-news-tab.tab-item-main .news-title { min-height: 170px; }
+.home-box3 { padding-top:0; }
+.main-menu {margin: 0 0 0 20px;}
+.recent-strategy-link{margin: 0;}
+.content-right-related-links ul li { display:inline-block; margin-right:30px; background:none; }
+.home-box4.home-box { padding-top:0; }
+
+.adobe-icon { float: left; width: 100%; padding-bottom:20px; }
+
+.home-box4-inner { min-height: 209px; }
+.home-box2-inner { padding: 10px 10px 18px; }
+
+/*--  Our company landing  --*/
+
+.our-company-box1, .our-company-box2, .our-company-box3, .our-company-box4 { margin-bottom:15px; }
+.investing-landing-blocks { padding-left:8px; padding-right:8px; }
+.investing-landing-blocks .rad-popup { margin-left:0; margin-right:0; }
+
+.our-company-box .news-box-inner { margin-left:4px; }
+
+/*--  Right col  --*/
+
+.content-right-col > div { padding-left: 12px; padding-right: 12px; }
+
+/*--  Why invest  --*/
+
+.investing-in-citizens-bank > .home-box.grey-box > img { width:100%; }
+.investing-in-citizens-bank > .home-box.grey-box { padding-top:0; }
+.investing-in-citizens-bank .investing-landing-blocks { padding-bottom:20px; }
+
+}
+
+@media (min-width: 960px) {
+div#sidr.mm-opened, html.mm-opening #bodyOverlay { display: none; }
+}
+
+@media all and (max-width: 930px) {
+#searchbox {margin: 2px 21px 0 0;}
+.adobe-icon { display:none; }
+}
+
+@media all and (max-width: 850px) {
+
+/*--  Banner  --*/
+
+.banner-text { padding:10px 40px 10px 24px; }
+.banner-text h1 { font-size:3.5em; line-height:30px; }
+
+#sidr .external-menu{display:none; background: #fff; position: absolute; width: 100%; z-index: 8000; top:78px; left:0; border-bottom: 1px solid #b2b2b2;}
+#sidr .external-menu ul{padding: 15px 0 0 30px;}
+#sidr .external-menu ul li{font-size:1em; float:none; padding-top: 10px;}
+#sidr .external-menu ul li span{background:none;line-height: 30px; padding: 0;}
+span.menu-parent-arrw{background:url(/media/Images/C/CitizensBank-IR/css/menu-parent-arrw.png) no-repeat 8px 5px; display:inline-block; float:left; padding-left: 30px;; height:20px; cursor:pointer;}
+span.menu-parent-arrw.selected{background:url(/media/Images/C/CitizensBank-IR/css/menu-parent-arrw-active.png) no-repeat 8px 5px;}
+.menu-parent{border-bottom: 1px solid #b2b2b2; color: #666; font-size: 1.8em; line-height: 17px; margin: 0 0 26px; padding: 30px 30px 23px 10px; color:#035d67;}
+.header-wrapper-top{margin: 18px 0 12px;background:none;}
+.logo-submenu-wrapper.container{display:none;}
+.mobile-menu-logo{display:block; float:left;}
+.main-menu{display:none;}
+.mobile-menu-icon{background:url(/media/Images/C/CitizensBank-IR/css/mobile-menu-icon.png) no-repeat left top; display:block; width:22px; height:20px;float:left;}
+.show-slider-menu{display:block; float: left; padding: 2px 26px 0 20px;}
+.sidr{ display:none; position:absolute; position:fixed; top:0; height:100%; padding: 0 20px; z-index:999999; width:280px; overflow-x:none; overflow-y:auto; color:#fff; text-transform:uppercase; background-color:#fff; }
+.sidr.right{left:auto;right:-280px}
+.sidr.left{left:-280px;right:auto}
+
+#sidr ul{margin:0 0 15px;padding:0;}
+#sidr ul li:first-child{padding-top:0;}
+#sidr ul li{display:block;margin:0; position:relative; font-size:1.6em; padding-top:25px;}
+#sidr ul li:hover,.sidr ul li.active,.sidr ul li.sidr-class-active{border-top:none;}
+#sidr ul li a{display:block;text-decoration:none;color:#666}
+#sidr ul li span{color: #666;  display: inline-block; padding: 0 30px 0 37px; text-decoration: none; background: url(/media/Images/C/CitizensBank-IR/css/menu-arrw.png) no-repeat center right; line-height:20px;}
+.sidr ul ul{margin:0; display:none;}
+#sidr ul ul{margin:15px 0 0 20px;}
+#sidr ul ul ul{margin:26px 0 0 40px;}
+#sidr ul ul li span{padding:0 30px 0 40px; background: url("/media/Images/C/CitizensBank-IR/css/menu-arrw.png") no-repeat right 5px;}
+#sidr ul ul ul li span{padding:0 30px 15px 20px; line-height: 15px; background: url("/media/Images/C/CitizensBank-IR/css/menu-arrw.png") no-repeat right 3px;}
+#sidr ul li ul li:first-child{padding-top:0;}
+#sidr ul li ul li{font-size:14px; padding-top:10px;}
+#sidr ul li ul li a{color:#666;}
+#sidr ul li ul li ul li a{color:#666;}
+.sidr ul li ul li span{color:#666;padding-left:30px}
+
+#sidr ul span.dd-arrw{ background: url(/media/Images/C/CitizensBank-IR/css/menu-minus-icon.png) no-repeat center center; display: block; height: 25px; left: 0; padding: 0; position: absolute; top: 22px; width: 30px; cursor: pointer; z-index: 500;}
+
+#sidr ul #mob2-nav-our-company-level2 span.dd-arrw{top:-6px;}
+#sidr ul #mob2-nav-our-company-level2 li span.dd-arrw{top:6px;}
+#sidr ul ul li:first-child span.dd-arrw{top:0;}
+#sidr ul ul span.dd-arrw{top:8px;}
+#sidr ul ul li:frist-child span.dd-arrw{top:0;}
+
+#sidr ul span.dd-arrw.selected{ background: url(/media/Images/C/CitizensBank-IR/css/menu-plus-icon.png) no-repeat center center;}
+#mob2-section-reports-and-presentations-level4{display:none !important;}
+#mob2-section-latest-news-level3{display:none !important;}
+#mob2-nav-latest-news-level2 span.dd-arrw{background:none !important;}
+#mob2-nav-reports-and-presentations-level3 span.dd-arrw{background:none !important;}
+.mobile-logo{float:left;}
+
+#sidr > ul > li.current > span { color:#009d78; }
+#sidr > ul > li.selected > a > span { color:#009d78; }
+#sidr > ul > li.selected > a > span { color:#009d78; }
+#sidr > ul > li.selected > ul > li.current > span { color:#009d78; }
+#sidr > ul > li.selected > ul > li.selected > a > span { color:#009d78; }
+#sidr > ul > li.selected > ul > li.selected > ul > li.current > span { color:#009d78; }
+#sidr > ul > li.selected > ul > li.selected > ul > li.selected > a > span { color:#009d78; }
+
+}
+
+
+/*--------- iPad Portrait and large Tablets Portrait ---------*/
+@media all and (min-width: 767px) and (max-width: 991px) {
+ul.rad-popup li p strong sup {top: -3px;font-size:17px;}
+.content-right-col > div.first{ margin-top:15px !important;}
+.signpost-item p{padding:0 0 8px;}
+}
+@media all and (min-width: 415px) and (max-width: 767px) {
+	ul.rad-popup li p strong sup {top: -3px;font-size:17px;}
+}
+@media all and (min-width: 0px) and (max-width: 414px) {
+	ul.rad-popup li p strong sup {top: -6px;font-size:17px;}
+}
+@media all and (max-width: 807px) {
+.home-box4-inner { min-height: 227px; }
+}
+
+@media all and (max-width: 785px) {
+
+.home-box2-inner { padding: 10px 10px 5px; }
+
+
+}
+
+/*--------- All Small Tablets and Large Phones Global CSS ---------*/
+
+@media all and (max-width: 780px) {
+ul.rad-popup li{margin-left:9px;}
+ul.rad-popup li p{margin-left: 0; }
+ul.rad-popup li p strong {font-size: 25px; }
+}
+
+@media all and (min-width: 768px) {
+.news-filter{position: relative;min-height: 50px;margin-bottom: 15px;margin-left: 8px;}
+.news-filter-drop {width: 31%;z-index: 99999;background-color:#fff;margin-bottom: 20px;position: absolute;left: 0;}
+}
+
+
+@media all and (max-width: 768px) {
+
+/*----    Common    ----*/
+
+.content-right-related-links { padding:22px 17px 10px; }
+.content-right-related-links ul li { display:inline-block; margin-right:30px; background:none; }
+
+/*----   Home    ----*/
+
+.home-intro-text { max-width: 370px; margin: 112px 0 0; padding-left: 32px; min-height: 235px; }
+.home-intro-text h1 { font-size: 2.2em; line-height: 25px; }
+.home-intro-text a { background: url("/media/Images/C/CitizensBank-IR/css/right-green-arrow.png") no-repeat right 0; font-size: 1.4em; padding-right: 14px; margin:20px 0 0; }
+.home-box4-inner { min-height:225px; }
+.news-box.home-box .news-box-inner { min-height:245px; }
+.content-right-col { padding-top:0; }
+
+/*----   Footer    ----*/
+
+.footer-wrapper {margin: 46px 12px 20px;}
+.footer-text { margin: 19px 0 50px; }
+
+/*----    Right Signpost    ----*/
+
+.content-right-col { background-color:#fff; }
+.content-right-col > div { padding-left:8px; padding-right:8px; }
+.content-right-col > div.related-links-sp { margin:0; }
+.content-right-col { padding-left:12px; padding-right:12px; }
+.content-right-related-links ul li span { padding-right:20px; }
+
+/*--  Our company landing  --*/
+
+.our-company-box .news-box-inner { min-height: 251px; }
+#our-company .content-banner-wrapper .banner-text { top:3px; }
+
+/*--  Why invest  --*/
+
+.investing-in-citizens-bank > .home-box.grey-box { padding-top:0; }
+.investing-in-citizens-bank .investing-landing-blocks { padding-bottom:20px; }
+
+}
+
+
+@media (max-width: 767px) {
+
+/*-------    Grey boxes    -----*/
+
+.grey-box > img { padding-left:0 !important; }
+.grey-box .grey-inner { bottom: 15px; }
+
+/*----    Home banner    ----*/
+
+.banner-text { position:relative; }
+.banner-text { position:relative; width:100%; left:0; top:0; }
+.page-content-wrapper .breadcrumb-title.container { padding-top:0; }
+.home-banner-wrapper ul li { padding-left:0; }
+.content-banner-wrapper img { float:none; }
+
+.home-wrapper .breadcrumb-title.container { display:none; }
+.content-main-wrapper .breadcrumb-title { display:none; }
+
+.home-box1-inner, .home-box2-inner {min-height:231px;} 
+.news-box-inner { min-height:0 !important; }
+
+.ir-box5 { margin-bottom:15px; }
+
+.home-wrapper .home-box1-inner { margin-left:0; }
+.home-wrapper .home-box2-inner { margin-left:0; }
+.home-wrapper .news-box.home-box .news-box-inner { margin-left:0; }
+
+/*--  Content banner  --*/
+
+.content-banner-wrapper img { padding-left:0; }
+.content-banner-wrapper .banner-text { top:0; left:0; width:100%; }
+
+/*----    Common    ----*/
+
+.container { max-width:100%; }
+.main-content table { display:block; overflow-x:auto; }
+.main-content table#cr, .main-content table#crd {display:table}
+.tab-content { padding-left:0; padding-right:0; }
+.page-content-wrapper .footer-wrapper { margin-top:30px; }
+.full-width-content { padding:20px 12px; }
+.content-left-inner > div { padding-left:0; padding-right:0; }
+
+/*----   Header    ----*/
+
+.header-wrapper-top { margin: 18px 0 23px; }
+#searchbox { margin: 4px 20px 0 0; }
+#SearchButtonContainer { margin-top:2px; }
+.show-slider-menu{ padding: 0 18px 0 20px; }
+#breadcrumb { display:none; }
+
+/*----   Home    ----*/
+
+.home-content { padding: 0 12px; }
+.home-box { margin-bottom:15px; min-height:0; padding-bottom:0; }
+.home-box > div.tab-nav { border-bottom:0 none; padding-bottom:0; }
+.tab-content #home-news-tab.tab-item-main .news-title { min-height:0; }
+.news-content { min-height:0; padding-bottom:20px; }
+.home-wrapper .news-content { padding-bottom:12px; }
+.home-box1, .home-box2 { padding-bottom:0; }
+.home-intro-text h1 { font-size: 1.7em; line-height: 17px; }
+.home-intro-text { padding:0 15px; }
+.home-wrapper.inner-wrapper { background-position: left top; }
+.home-box4-inner { min-height:236px; }
+
+.home-wrapper .grey-box .grey-inner { left:-2px; }
+
+/*----   Footer    ----*/
+
+.footer-right { padding-top:47px; }
+.footer-right ul { float:none; }
+.footer-right ul li { padding-left:0; margin-left:0; margin-bottom:25px; float:none; border:0 none; }
+.footer-text { margin:15px 0 25px; }
+.footer-wrapper { margin: 29px 12px 20px; }
+.home-wrapper .footer-wrapper { margin: 9px 12px 20px; }
+.footer-left ul li { margin: 0 39px 0 5px; }
+
+/*----    Two col Content    ----*/
+
+.content-intro-text p { font-size:1.6em; line-height: 22px; }
+.content-left-inner { padding: 11px 12px 0; }
+.page-content-wrapper .content-left-inner { padding-bottom:0; } 
+.breadcrumb-title { padding: 10px 20px; }
+.breadcrumb-title h1 { font-size: 2.5em; }
+.home-intro-text a { font-size:1em; margin:15px 0 0; }
+.home-intro-text { margin:40px 0 0; min-height:133px; }
+
+/*----    Right signpost    ----*/
+
+.content-right-col > div { margin-bottom:0; }
+
+/*----    IR Landing    ----*/
+
+.content-video img { width:100%; }
+.content-left-inner blockquote { margin-left:0; }
+.content-video-text { margin-top:26px; }
+.content-video-text p { margin-left:0; }
+
+.leadership-text { max-width: 100%; padding-top:18px; }
+
+.ir-landing-wrapper .tab-content #home-news-tab.tab-item-main .news-title { min-height:0; padding-bottom:10px; }
+
+.ir-landing-wrapper .pie-chart-box .ir-box-inner { padding-left: 0; }
+
+.ir-landing-wrapper .content-left-inner .grey-box .grey-inner { margin-left: -17px; }
+.investing-in-citizens-bank > .home-box.grey-box > .grey-inner { left:2px; }
+
+/*----    Out company    ----*/
+
+.leadership-box, .page-img-content-bottom { padding-top:0; }
+.page-img-content-top > div, .page-img-content-bottom > div, .our-company-box5 { margin-bottom:15px; }
+.page-img-content-bottom > div.credo-box { margin-bottom:0; }
+.leadership-box-inner { width:100%; }
+.content-right-related-links ul li {display:block;}
+
+.our-company-left-content{ width:100%; }
+.pie-chart-box ul li{margin-left: 0;}
+.pie-chart-box ul li:first-child{margin-right: 20px;}
+.pie-chart-box{ margin-left:0;}
+
+.banner-text .rad-introtext li:nth-child(1), .banner-text .rad-introtext li:nth-child(2), .banner-text .rad-introtext li:nth-child(3) { border-right: 1px solid #fff; border-bottom:0 none; }
+
+#our-company .content-banner-wrapper .banner-text { top:0; }
+.our-company-left-content { padding-left:8px; }
+.our-company-right-content { padding-right:8px; }
+.our-company-box .news-box-inner { margin-left:0; }
+
+.content-left-inner .grey-box .grey-inner { margin-left:-12px; }
+
+.home-box.invest-box-6 { margin-bottom:0; }
+
+ul.rad-popup li p sub { font-size:0.5em; }
+
+}
+
+@media (max-width: 690px) {
+
+/*----    Form    ----*/
+
+#contactFormContainer > div { clear:left; float:none; width:100%; }
+#contactFormContainer > div#contactFormlbl-last-nameLabelContainer, #contactFormContainer > div#contactFormtxt-last-nameTextboxContainer, #contactFormContainer > div#contactFormtxt-titleTextboxContainer, #contactFormContainer > div#contactFormtxt-cityTextboxContainer, #contactFormContainer > div#contactFormtxt-zip-codeTextboxContainer, #contactFormContainer > div#contactFormtxt-faxTextboxContainer, #contactFormContainer > div#contactFormcaptcha-codeCaptchaContainer, #contactFormContainer > div#contactFormSubmitButtonContainer { clear:left; float:none; }
+
+#contactFormlbl-last-nameLabelContainer, #contactFormlbl-titleLabelContainer, #contactFormlbl-cityLabelContainer, #contactFormlbl-zip-codeLabelContainer, #contactFormlbl-faxLabelContainer, #contactFormlbl-captchaLabelContainer { margin-top:0; }
+
+#contactFormlbl-captchaLabelContainer { margin-top:16px; }
+
+#contactFormtxt-commentTextarea { width:100%; }
+
+}
+
+@media (min-width: 641px) and (max-width: 767px) {
+
+.investing-in-citizens-bank .page-bottom-content ul li:first-child{margin-right: 10px; padding-right: 10px; width: 110px;}
+.investing-in-citizens-bank .page-bottom-content ul{margin-bottom:0;}
+.investing-in-citizens-bank .page-bottom-content ul li.last img{margin-left: 10px;}
+.investing-in-citizens-bank .page-bottom-content ul li.last{width:150px;}
+
+#contactFormlbl-last-nameLabelContainer, #contactFormlbl-titleLabelContainer, #contactFormlbl-cityLabelContainer, #contactFormlbl-zip-codeLabelContainer, #contactFormlbl-faxLabelContainer, #contactFormlbl-captchaLabelContainer { margin-top:0; }
+
+.banner-text .rad-introtext li { width:21%; }
+
+}
+
+
+/*--------- All Mobiles Portrait and Landscape Global CSS ---------*/
+@media (max-width: 640px) {
+
+/*----------    Investing in bank    ------------*/
+
+.investing-in-citizens-bank .page-bottom-content ul li:first-child{border-right: 1px solid #d9d9d9; margin-right: 10px; padding-right: 10px; width: 130px;}
+.investing-in-citizens-bank .page-bottom-content ul li{border:none; padding-left:0; padding-right:0; margin-bottom:20px; width:140px; height:auto;}
+.investing-in-citizens-bank .page-bottom-content ul{margin-bottom:0; padding-bottom:0; width:295px;}
+.investing-in-citizens-bank .page-bottom-content ul li.last img{margin-left: 10px;}
+.investing-in-citizens-bank .home-news-item-inner img { margin: 0 auto 12px; }
+.investing-bank-inner-content.tab-container .tab-nav-mobile ul li.active { display:none; }
+
+/*--------    investing bank    ----------*/
+
+.investing-bank-inner-content.tab-container .tab-nav{display:none;}
+.investing-bank-inner-content.tab-container .tab-nav.tab-nav-mobile{display:block;}
+p.mobi-tabs-menu{display:block;background: url("/media/Images/C/CitizensBank-IR/css/mob-tab-menu-down.png") no-repeat 95% center; cursor: pointer; display: block; padding:10px 15px; border:1px solid #d9d9d9; color:#1b4e8f; font-size:1.6em; }
+
+p.mobi-tabs-menu.active { background: url("/media/Images/C/CitizensBank-IR/css/mob-tab-menu-up.png") no-repeat 95% center; }
+
+.news-filter-drop span { background: url("/media/Images/C/CitizensBank-IR/css/mob-tab-menu-down.png") no-repeat 95% center}
+
+.investing-bank-inner-content.tab-container .tab-nav ul{background-color: #fff; border: 1px solid #d9d9d9; padding: 0; position: absolute; top: 39px; width: 97.3%; z-index: 5000; display:none;}
+.investing-bank-inner-content.tab-container .tab-nav-mobile ul li:first-child{border:none;}
+.investing-bank-inner-content.tab-container .tab-nav-mobile ul li{float:none; border:none; border-top:1px solid #d9d9d9;}
+.investing-bank-inner-content.tab-container .tab-nav ul li a{border:none;}
+
+.investing-in-citizens-bank .investing-landing-blocks { background: url("/media/Images/C/CitizensBank-IR/css/divider-bg.png") repeat-x left bottom; padding-bottom: 8px; margin-bottom: 25px; }
+
+ul.rad-popup { margin-left:-10px; }
+ul.rad-popup li { margin-left:5px; margin-right:5px; width:130px; padding:14px 0 0; max-height:100%; min-height:100px; }
+
+.highlight-content .bx-pager, .page-top-content .bx-pager { padding:26px 0 16px; }
+.highlight-content .bx-viewport, .page-top-content .bx-viewport { height:107px !important; }
+
+ul.rad-popup li p { margin-left:10px; padding:0; }
+
+.mobile-menu-logo { margin: 7px 0 0; width: 179px; }
+.mobile-logo { width: 59%; }
+.content-video img { max-width:100%; }
+
+.rp-tab-nav-mobile{ display:block; padding:0; width:100%; clear:left; }
+.rp-tab-nav{display:none;}
+.rp-tab-nav-mobile ul{background-color: #fff; border: 1px solid #d9d9d9; padding: 0; position: absolute; top: 38px; width: 100%; z-index: 5000; display:none; font-size:1.5em;}
+.rp-tab-nav-mobile ul li:first-child{border:none;}
+.rp-tab-nav-mobile ul li{float:none; border:none; border-top:1px solid #d9d9d9;}
+.rp-tab-nav-mobile ul li a{border:none; text-decoration:none;}
+.rp-tab-nav-mobile ul li span{display:block; padding:10px 15px;}
+.tab-nav-mobile { padding:0; }
+.investing-bank-inner-content.tab-container .tab-nav ul { width:100%; }
+
+.date-doc-dwld{display:none;}
+.rp-date{float:none; display:block; margin: 0 0 5px;}
+.rp-download {float: right;}
+.rp-download a{float:right;}
+
+#annual-report .rp-download, #annual-report .rp-download a{float: left;}
+#annual-report .rp-doc { margin-top:0px; }
+
+
+.content-right-related-links ul li { background: none; }
+.content-right-related-links ul li.first { border-top:0 none; }
+
+/*--  Reports  --*/
+
+.rp-doc { margin-top:8px; }
+.date-doc-line { margin-bottom:28px; }
+.date-doc-line.last { margin-bottom:6px; }
+.rp-content { margin-left:0; }
+.reports-presentation-landing > .row { margin-left:0; margin-right:0; }
+.latest-news-landing > .row { margin-left:0; margin-right:0; }
+.rp-container .date-doc-line { padding-left:0; padding-right:0; }
+.rp-container .date-doc-line .rp-date, .rp-container .date-doc-line .rp-doc { padding-left:0; }
+.rp-container .date-doc-line .rp-download { padding-right:0; }
+.rr-no-pad{padding-left:0; padding-right:0;}
+.col-md-12.result-category { padding-left: 0; padding-right: 0;}
+/*-------------    Filter drop down    ----------------*/
+
+.news-filter {width:100%; }
+.news-filter-drop { width:100%; }
+
+/*-------------    our company landing    ----------------*/
+
+.banner-text ul.rad-introtext { width:60%; }
+.banner-text .rad-introtext li:nth-child(1), .banner-text .rad-introtext li:nth-child(2), .banner-text .rad-introtext li:nth-child(3) { border-right:0 none; }
+.banner-text .rad-introtext li:nth-child(1), .banner-text .rad-introtext li:nth-child(2) { border-bottom: 1px solid #fff; }
+
+}
+
+@media (max-width: 480px) {
+
+p.mobi-tabs-menu{display:block;background: url("/media/Images/C/CitizensBank-IR/css/mob-tab-menu-down.png") no-repeat 95% center; }
+
+.banner-text { padding:10px 15px; }
+.banner-text h2 { font-size:3.5em; }
+.banner-text p { line-height:20px; font-size:1.6em; }
+
+/*---   Our company   ---*/
+
+.leadership-box-inner { min-height:0; padding-bottom:20px; padding-left:0; padding-right:0; }
+.leadership-box-inner img, .page-img-content-bottom img { display:none; }
+.leadership-box-inner h3 { clear:both; }
+.leadership-box-inner ul { margin-left:0; }
+.page-img-content-top > div, .page-img-content-bottom > div { margin-bottom:20px; }
+.credo-box h3 { padding-top:15px; margin-top:0; clear:both; }
+.credo-box-inner { padding-bottom:20px; }
+.our-company-wrapper .highlight-content p { font-size:0.9em; }
+ul.rad-popup li p strong { font-size:28px; margin-bottom:6px; margin-top:5px; }
+.rp-date{width:80px !important;}
+
+.investing-in-citizens-bank .page-bottom-content ul.rad-right li.last { padding-left:0; }
+.up-eve-left {float: none; width: 100%;}
+.up-eve-right { float: none; margin: 20px 0 0; width: 100%;}
+}
+
+@media (max-width: 360px) {
+
+.grey-box .grey-inner { min-height: 124px; }
+
+.two-box-left-content img { display: block; float: none;}
+.two-box-right-content ul.two-box-ul-0,.two-box-right-content ul.two-box-ul-1 { float: none; width: auto;}
+
+.banner-text ul.rad-introtext { width:100%; }
+
+.show-slider-menu {  padding: 0 10px 0 18px; }
+.mobile-menu-logo { width: 160px; }
+.mobile-logo { width: 65%; }
+
+.main-content p img.rad-right { float: none; margin-left: 0; margin-top: 0; width: 100%; padding-bottom: 18px; }
+
+}
+
+@media (max-width: 320px) {
+
+.banner-text { padding:10px; }
+.banner-text h2 { font-size:3em; line-height: 30px; }
+
+input#searchTextbox:focus{width:85px;}
+.menu-parent{padding: 24px 30px 25px 10px;}
+
+.home-box3-inner img { width:100%; }
+
+}

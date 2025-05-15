@@ -1,0 +1,74 @@
+/* Citizens Media Queries */
+
+/*--------- iPad Landscape and Desktops ---------*/
+
+@media all and (max-width: 1036px) and (min-width: 990px) {
+}
+
+@media all and (max-width: 1050px) {
+}
+
+@media all and (max-width: 1024px) {
+}
+
+@media all and (max-width: 1020px) {
+}
+
+@media all and (max-width: 1015px) and (min-width:990px) {
+}
+
+@media all and (max-width: 992px) {
+}
+
+@media all and (min-width: 991px) {
+
+}
+
+@media all and (max-width: 991px) {
+.leadership-text { max-width: 95%; }
+}
+
+@media (min-width: 960px) {}
+
+@media all and (max-width: 930px) {}
+
+@media all and (max-width: 850px) {}
+
+
+/*--------- iPad Portrait and large Tablets Portrait ---------*/
+@media all and (max-width: 899px) {
+
+}
+
+@media all and (max-width: 807px) {}
+
+@media all and (max-width: 785px) {}
+
+/*--------- All Small Tablets and Large Phones Global CSS ---------*/
+
+@media all and (max-width: 780px) {}
+
+
+@media (max-width: 768px) {}
+
+
+@media (max-width: 767px) {
+
+}
+
+@media (max-width: 690px) {}
+
+@media (min-width: 641px) and (max-width: 767px) {}
+
+
+/*--------- All Mobiles Portrait and Landscape Global CSS ---------*/
+@media (max-width: 640px) {
+.home-banner-wrapper ul li{margin:0 !important;}
+.home-banner-wrapper ul li img{display:block; width:100%;}
+.bx-viewport ul{overflow:hidden;}
+}
+
+@media (max-width: 480px) {}
+
+@media (max-width: 360px) {}
+@media (max-width: 320px) {}

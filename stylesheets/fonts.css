@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'CitiSans Italic';
+  src: url('/media/Files/C/CitizensBank-IR/fonts/citisani-webfont-eot.eot');
+  src: url('/media/Files/C/CitizensBank-IR/fonts/citisani-webfont-eot.eot?#iefix') format('embedded-opentype'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisani-webfont-woff.woff') format('woff'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisani-webfont-ttf.ttf') format('truetype'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisani-webfont-svg.svg#citisani-webfont-svg') format('svg');
+
+}
+
+@font-face {
+  font-family: 'CitiSans';
+  src: url('/media/Files/C/CitizensBank-IR/fonts/citisanb-webfont-eot.eot');
+  src: url('/media/Files/C/CitizensBank-IR/fonts/citisanb-webfont-eot.eot?#iefix') format('embedded-opentype'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisanb-webfont-woff.woff') format('woff'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisanb-webfont-ttf.ttf') format('truetype'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisanb-webfont-svg.svg#citisanb-webfont-svg') format('svg');
+}
+
+@font-face {
+  font-family: 'CitiSans Book';
+  src: url('/media/Files/C/CitizensBank-IR/fonts/citisanb-webfont-eot.eot');
+  src: url('/media/Files/C/CitizensBank-IR/fonts/citisanb-webfont-eot.eot?#iefix') format('embedded-opentype'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisanb-webfont-woff.woff') format('woff'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisanb-webfont-ttf.ttf') format('truetype'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisanb-webfont-svg.svg#citisanb-webfont-svg') format('svg');
+}
+
+@font-face {
+  font-family: 'CitiSans Bold';
+  src: url('/media/Files/C/CitizensBank-IR/fonts/citisa01-webfont-eot.eot');
+  src: url('/media/Files/C/CitizensBank-IR/fonts/citisa01-webfont-eot.eot?#iefix') format('embedded-opentype'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisa01-webfont-woff.woff') format('woff'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisa01-webfont-ttf.ttf') format('truetype'),
+  url('/media/Files/C/CitizensBank-IR/fonts/citisa01-webfont-svg.svg#citisa01-webfont-svg') format('svg');
+  
+}
+
+
+h1, h2, h3, .intro-text p, .content-intro-text  { font-family:'CitiSans'; }
+
+.main-content p a.rad-link, .banner-text p a, h4, .main-menu ul,input#searchTextbox,.head-sub-menu ul, .home-intro-text a,.home-news-link a,.home-right-col-link a,#breadcrumb,.content-right-related-links ul li span,a.rad-links,.content-video-text p strong,.more-box-link a,.home-box4-link a,.home-box2-links ul li, .footer-right ul li a, p.more-box-link, .main-content table thead th, .sub-menu-child-content-title p, .sub-menu-child-ul li li, .leadership-box ul li, .our-company-wrapper .highlight-content p a, .credo-box ul li, .recent-strategy-link,.menu-parent, .sidr,.date-doc-dwld, #contactFormContainer > div, p.flds-req, .signpost-item ul li a, .signpost-item p a { font-family:'CitiSans Bold'; }
+
+.banner-text h2, .signpost-item h2, .main-content .ir-box1 .ir-box-inner p, .news-box h2, .our-company-left-content h2, .pie-chart-box h2, .ir-box h2, .grey-box .grey-inner h2, .main-content .our-company-left-content p, .banner-text h1, .home-box h2, .banner-text p, .news-filter-drop ul, .tab-nav, .home-right-col-title, .content-video-text p, .home-box4-title, .tab-nav, .leadership-box h3, .credo-box h3,p.mobi-tabs-menu,ul.rad-popup li p,#investing-in-citizens-bank .page-bottom-content ul li,.investing-bank-inner-content .leadership-up p,.rp-tab-nav ul li,.rp-doc p, .content-left-inner blockquote, .our-company-wrapper .main-content .highlight-content h2 { font-family: 'CitiSans Book'; }
+
+.home-news-item .news-date,.home-box4-content p,.footer-text p,.leadership-text p, .home-box .news-date p, .home-box .news-content p,ul.rad-popup li span,#investing-in-citizens-bank .page-bottom-content span.rad-caption { font-family:Arial, Helvetica, sans-serif; }
+
+.home-box p { font-family: Helvetica, Arial, sans-serif; }
