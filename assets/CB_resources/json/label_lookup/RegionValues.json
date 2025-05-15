@@ -1,0 +1,32 @@
+{
+"RegionLabel" : { 
+	 "ALL" : "ALL",
+	"FCF" : "FCF",
+  "N3" : "Albany - NY" ,
+  "MA" : "Boston/Worcester - MA",
+  "N4" : "Buffalo/Rochester - NY",
+  "OH" : "Cincinnati/Cleveland/Columbus - OH",
+  "CT" : "Connecticut - CT",
+   "DE" : "Delaware - DE",
+   "P3" : "Harrisburg - PA",
+	"IL" : "Illinois - IL",
+	"IN" : "Indiana - IN",
+	"MI" : "Michigan - MI",
+	"NY" : "Newburgh/NYC - NY",
+	"NH" : "New Hampshire - NH",
+	"NJ" : "Southern - NJ",
+	"PA" : "Philadelphia - PA",
+	"P2" : "Pittsburgh - PA",
+	"N2" : "New York City - NY",
+	"RI" : "Rhode Island - RI" ,
+	"M2" : "Springfield/West - MA",
+	"N5" : "Syracuse - NY",
+	"O2" : "Toledo - OH",
+	"VT" : "Vermont - VT",
+    "FL" : "Florida - FL",
+    "MD" : "Metro DC (DC Maryland Virginia)",
+	"DC" : "Metro DC (DC Maryland Virginia)",
+	"VA" : "Metro DC (DC Maryland Virginia)",
+    "J1" : "Northern - NJ"
+	}
+}
